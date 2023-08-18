@@ -9,7 +9,7 @@
 | **Author** | **Source** |
 |------------|------------|
 |British Geological Survey (UK) | [World mineral statistics data](https://www2.bgs.ac.uk/mineralsuk/statistics/wms.cfc?method=searchWMS) |
-|United Nations Comtrade DB | |[UN Comtrade Database](https://comtradeplus.un.org/) |
+|United Nations Comtrade DB | [UN Comtrade Database](https://comtradeplus.un.org/) |
 
 
 ## Sources Characteristics:
@@ -40,41 +40,41 @@ Contains aggregated data and detailed about global trade statistics by products 
 
 ## Project Structure:
 
-config/: Store configuration files for the ETL process, including paths and sql queries for DB creation.
+config/: Store configuration files for the ETL process, including paths and sql queries for DB creation. <br>
 
-db/: Contains the .db file with the sqlite DB.
-[] DB
+db/: Contains the .db file with the sqlite DB. <br>
+[x] DB<br>
 
-docs/: Include documentation for the ETL process and other relevant information.
-[] Domain research
-[] Data Dictionary (TBD)
-[] Process Flow Scheme(TBD)
-[] Data Base Schema(TBD)
+docs/: Include documentation for the ETL process and other relevant information. <br>
+[x] Domain research <br>
+[ ] Data Dictionary (TBD)<br>
+[ ] Process Flow Scheme(TBD)<br>
+[ ] Data Base Schema(TBD)<br>
 
-load/: Scripts and code for loading data from output_data to db.
-[] Load script
+load/: Scripts and code for loading data from output_data to db. <br>
+[x] Load script<br>
 
-logs/: Store log files generated during the ETL process.
-[] Loading logs (TBD)
+logs/: Store log files generated during the ETL process. <br>
+[ ] Loading logs (TBD)<br>
 
-monitoring/: Scripts or tools for monitoring and alerting ETL process failures.
-[] Quality and testing scripts (TBD)
+monitoring/: Scripts or tools for monitoring and alerting ETL process failures. <br>
+[ ] Quality and testing scripts (TBD)<br>
 
-output_data:
-[] output_data/: Store intermediate and final transformed data.
-[] cleaned_data/: Transformed and cleaned data.
-[] aggregated_data/: Aggregated or summarized data.
-[] processed_data/: Data ready for loading.
+output_data: <br>
+[x] output_data/: Store intermediate and final transformed data.<br>
+[x] cleaned_data/: Transformed and cleaned data.<br>
+[x] aggregated_data/: Aggregated or summarized data.<br>
+[x] processed_data/: Data ready for loading.<br>
 
-raw_data/: Store the original data extracted from the sources.
+raw_data/: Store the original data extracted from the sources. <br>
 
-transformations/: Store the transformation scripts and code
+transformations/: Store the transformation scripts and code <br>
 
-utils/: Store utility scripts or functions commonly used across the process.
+utils/: Store utility scripts or functions commonly used across the process. <br>
 
 
 ## Other sources to be added in the future:
-**Public Investments (2020 million USD) by Country/area, Technology and Year:**
+**Public Investments (2020 million USD) by Country/area, Technology and Year:**<br>
 IRENA (International Renewable Energy Agency) dataset, contains the yearly amount invested in millions USD (2020 values) of countries by power generation technologies.
 
 
