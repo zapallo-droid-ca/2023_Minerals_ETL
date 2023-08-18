@@ -30,9 +30,9 @@ Contains aggregated data and detailed about global trade statistics by products 
 
 ## Technical Resources:
 
-* **Web Scrapping:** due to the limitations for the World mineral statistics data download queries, a web scrapper has been developed to automatize the process. The available tool allows you to download 10 years by each commodity.
+* **Web Scrapping:** due to the limitations for the World mineral statistics data download queries, a [web scrapper](https://github.com/zapallo-droid-ca/2023.Minerals-ETL/blob/main/utils/ukgs_extract.py) has been developed to automatize the process. The available tool allows you to download 10 years by each commodity.
 
-* **Natural Language Processing:** The country dimension in the databases is not standardized, to use a ISO database a NLP normalizer has been developed.
+* **Natural Language Processing:** The country dimension in the databases is not standardized, to use an ISO database an NLP [normalizer](https://github.com/zapallo-droid-ca/2023.Minerals-ETL/blob/main/utils/aux_nlp_normalizers.py) has been developed.
 
 
 ## Current DB Schema:
