@@ -1,8 +1,9 @@
 ### Project: Mineral Commodity Survey
 
 ## Definitions:
+The project consolidates data on the production and trade of the main minerals required for the energy transition.
 
-
+Further details of the minerals have been written in the [domain research doc](https://github.com/zapallo-droid-ca/2023.Minerals-ETL/blob/main/docs/domain_research/domain_research.md) in the docs section.
 
 ## Main Sources:
 
@@ -35,8 +36,7 @@ Contains aggregated data and detailed about global trade statistics by products 
 
 
 ## Current DB Schema:
-
-
+https://github.com/zapallo-droid-ca/2023.Minerals-ETL/blob/main/docs/screenshots/db_diagram.png
 
 ## Project Structure:
 
