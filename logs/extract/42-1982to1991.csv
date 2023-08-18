@@ -1,0 +1,441 @@
+Country;commodity_code;commodity_desc;Sub-commodity;year;value
+Albania;42;copper refined;;1982;9500
+Argentina;42;copper refined;;1982;
+Australia;42;copper refined;;1982;178138
+Austria;42;copper refined;;1982;31600
+Belgium;42;copper refined;;1982;501634
+Brazil;42;copper refined;;1982;61812
+Bulgaria;42;copper refined;;1982;55200
+Canada;42;copper refined;;1982;337780
+Chile;42;copper refined;;1982;852500
+China;42;copper refined;;1982;300000
+Czechoslovakia;42;copper refined;;1982;25636
+Egypt;42;copper refined;;1982;7218
+Finland;42;copper refined;;1982;47969
+France;42;copper refined;;1982;46585
+German Democratic Rep;42;copper refined;;1982;60000
+German Federal Republic;42;copper refined;;1982;394072
+Germany;42;copper refined;;1982;
+Hungary;42;copper refined;;1982;22773
+India;42;copper refined;;1982;27000
+Iran;42;copper refined;;1982;1000
+Italy;42;copper refined;;1982;19600
+Japan;42;copper refined;;1982;1074974
+Korea (Rep. of);42;copper refined;;1982;128377
+Korea, Dem. P.R. of;42;copper refined;;1982;30000
+Mexico;42;copper refined;;1982;74424
+Norway;42;copper refined;;1982;18564
+Oman;42;copper refined;;1982;0
+Peru;42;copper refined;;1982;224536
+Philippines;42;copper refined;;1982;0
+Poland;42;copper refined;;1982;348027
+Portugal;42;copper refined;;1982;4556
+Romania;42;copper refined;;1982;50000
+South Africa;42;copper refined;;1982;142500
+Soviet Union;42;copper refined;;1982;1350000
+Spain;42;copper refined;;1982;171900
+Sweden;42;copper refined;;1982;62304
+Taiwan;42;copper refined;;1982;47377
+Turkey;42;copper refined;;1982;34700
+USA;42;copper refined;;1982;1694300
+United Kingdom;42;copper refined;;1982;134132
+Yugoslavia;42;copper refined;;1982;126870
+Zaire;42;copper refined;;1982;175115
+Zambia;42;copper refined;;1982;584500
+Zimbabwe;42;copper refined;;1982;25700
+Albania;42;copper refined;;1983;10000
+Argentina;42;copper refined;;1983;11500
+Australia;42;copper refined;;1983;202603
+Austria;42;copper refined;;1983;33061
+Belgium;42;copper refined;;1983;431264
+Brazil;42;copper refined;;1983;103003
+Bulgaria;42;copper refined;;1983;68000
+Canada;42;copper refined;;1983;464333
+Chile;42;copper refined;;1983;834200
+China;42;copper refined;;1983;310000
+Czechoslovakia;42;copper refined;;1983;25746
+Egypt;42;copper refined;;1983;7642
+Finland;42;copper refined;;1983;55376
+France;42;copper refined;;1983;43865
+German Democratic Rep;42;copper refined;;1983;68000
+German Federal Republic;42;copper refined;;1983;420325
+Germany;42;copper refined;;1983;
+Hungary;42;copper refined;;1983;24040
+India;42;copper refined;;1983;29325
+Iran;42;copper refined;;1983;5000
+Italy;42;copper refined;;1983;31200
+Japan;42;copper refined;;1983;1091929
+Korea (Rep. of);42;copper refined;;1983;143806
+Korea, Dem. P.R. of;42;copper refined;;1983;32000
+Mexico;42;copper refined;;1983;86903
+Norway;42;copper refined;;1983;22705
+Oman;42;copper refined;;1983;3807
+Peru;42;copper refined;;1983;194669
+Philippines;42;copper refined;;1983;38800
+Poland;42;copper refined;;1983;360100
+Portugal;42;copper refined;;1983;4561
+Romania;42;copper refined;;1983;47000
+South Africa;42;copper refined;;1983;157700
+Soviet Union;42;copper refined;;1983;1400000
+Spain;42;copper refined;;1983;158600
+Sweden;42;copper refined;;1983;63357
+Taiwan;42;copper refined;;1983;37960
+Turkey;42;copper refined;;1983;37900
+USA;42;copper refined;;1983;1583800
+United Kingdom;42;copper refined;;1983;144366
+Yugoslavia;42;copper refined;;1983;123708
+Zaire;42;copper refined;;1983;227231
+Zambia;42;copper refined;;1983;576100
+Zimbabwe;42;copper refined;;1983;25400
+Albania;42;copper refined;;1984;11000
+Argentina;42;copper refined;;1984;11200
+Australia;42;copper refined;;1984;197217
+Austria;42;copper refined;;1984;33255
+Belgium;42;copper refined;;1984;427707
+Brazil;42;copper refined;;1984;101711
+Bulgaria;42;copper refined;;1984;70000
+Canada;42;copper refined;;1984;504262
+Chile;42;copper refined;;1984;879700
+China;42;copper refined;;1984;320000
+Czechoslovakia;42;copper refined;;1984;26068
+Egypt;42;copper refined;;1984;4181
+Finland;42;copper refined;;1984;57318
+France;42;copper refined;;1984;40702
+German Democratic Rep;42;copper refined;;1984;69000
+German Federal Republic;42;copper refined;;1984;378998
+Germany;42;copper refined;;1984;
+Hungary;42;copper refined;;1984;25863
+India;42;copper refined;;1984;33645
+Iran;42;copper refined;;1984;5000
+Italy;42;copper refined;;1984;50300
+Japan;42;copper refined;;1984;935156
+Korea (Rep. of);42;copper refined;;1984;150176
+Korea, Dem. P.R. of;42;copper refined;;1984;35000
+Mexico;42;copper refined;;1984;79806
+Norway;42;copper refined;;1984;30323
+Oman;42;copper refined;;1984;15180
+Peru;42;copper refined;;1984;219037
+Philippines;42;copper refined;;1984;99200
+Poland;42;copper refined;;1984;372300
+Portugal;42;copper refined;;1984;5320
+Romania;42;copper refined;;1984;45000
+South Africa;42;copper refined;;1984;148400
+Soviet Union;42;copper refined;;1984;1380000
+Spain;42;copper refined;;1984;156400
+Sweden;42;copper refined;;1984;61245
+Taiwan;42;copper refined;;1984;48436
+Turkey;42;copper refined;;1984;51400
+USA;42;copper refined;;1984;1489500
+United Kingdom;42;copper refined;;1984;136834
+Yugoslavia;42;copper refined;;1984;127611
+Zaire;42;copper refined;;1984;224774
+Zambia;42;copper refined;;1984;523300
+Zimbabwe;42;copper refined;;1984;22800
+Albania;42;copper refined;;1985;12000
+Argentina;42;copper refined;;1985;13000
+Australia;42;copper refined;;1985;194339
+Austria;42;copper refined;;1985;33626
+Belgium;42;copper refined;;1985;412600
+Brazil;42;copper refined;;1985;93880
+Bulgaria;42;copper refined;;1985;53000
+Canada;42;copper refined;;1985;499626
+Chile;42;copper refined;;1985;884300
+China;42;copper refined;;1985;340000
+Czechoslovakia;42;copper refined;;1985;26414
+Egypt;42;copper refined;;1985;4013
+Finland;42;copper refined;;1985;58766
+France;42;copper refined;;1985;43699
+German Democratic Rep;42;copper refined;;1985;95400
+German Federal Republic;42;copper refined;;1985;414165
+Germany;42;copper refined;;1985;
+Hungary;42;copper refined;;1985;23018
+India;42;copper refined;;1985;28948
+Iran;42;copper refined;;1985;12000
+Italy;42;copper refined;;1985;64300
+Japan;42;copper refined;;1985;935977
+Korea (Rep. of);42;copper refined;;1985;159242
+Korea, Dem. P.R. of;42;copper refined;;1985;38000
+Mexico;42;copper refined;;1985;81039
+Norway;42;copper refined;;1985;31074
+Oman;42;copper refined;;1985;14323
+Peru;42;copper refined;;1985;227000
+Philippines;42;copper refined;;1985;130300
+Poland;42;copper refined;;1985;387000
+Portugal;42;copper refined;;1985;4500
+Romania;42;copper refined;;1985;42000
+South Africa;42;copper refined;;1985;145500
+Soviet Union;42;copper refined;;1985;1400000
+Spain;42;copper refined;;1985;151700
+Sweden;42;copper refined;;1985;57229
+Taiwan;42;copper refined;;1985;46734
+Turkey;42;copper refined;;1985;60600
+USA;42;copper refined;;1985;1429000
+United Kingdom;42;copper refined;;1985;125426
+Yugoslavia;42;copper refined;;1985;135442
+Zaire;42;copper refined;;1985;221483
+Zambia;42;copper refined;;1985;479446
+Zimbabwe;42;copper refined;;1985;22500
+Albania;42;copper refined;;1986;11000
+Argentina;42;copper refined;;1986;11000
+Australia;42;copper refined;;1986;185071
+Austria;42;copper refined;;1986;32579
+Belgium;42;copper refined;;1986;414200
+Brazil;42;copper refined;;1986;115990
+Bulgaria;42;copper refined;;1986;62307
+Canada;42;copper refined;;1986;493445
+Chile;42;copper refined;;1986;942500
+China;42;copper refined;;1986;350000
+Czechoslovakia;42;copper refined;;1986;26182
+Egypt;42;copper refined;;1986;3671
+Finland;42;copper refined;;1986;64235
+France;42;copper refined;;1986;41294
+German Democratic Rep;42;copper refined;;1986;80000
+German Federal Republic;42;copper refined;;1986;421918
+Germany;42;copper refined;;1986;
+Hungary;42;copper refined;;1986;22097
+India;42;copper refined;;1986;36888
+Iran;42;copper refined;;1986;12000
+Italy;42;copper refined;;1986;65400
+Japan;42;copper refined;;1986;943037
+Korea (Rep. of);42;copper refined;;1986;177841
+Korea, Dem. P.R. of;42;copper refined;;1986;40000
+Mexico;42;copper refined;;1986;75478
+Norway;42;copper refined;;1986;30459
+Oman;42;copper refined;;1986;14561
+Peru;42;copper refined;;1986;229200
+Philippines;42;copper refined;;1986;134547
+Poland;42;copper refined;;1986;388000
+Portugal;42;copper refined;;1986;5300
+Romania;42;copper refined;;1986;41000
+South Africa;42;copper refined;;1986;143200
+Soviet Union;42;copper refined;;1986;1400000
+Spain;42;copper refined;;1986;155075
+Sweden;42;copper refined;;1986;84500
+Taiwan;42;copper refined;;1986;50439
+Turkey;42;copper refined;;1986;75100
+USA;42;copper refined;;1986;1479925
+United Kingdom;42;copper refined;;1986;125574
+Yugoslavia;42;copper refined;;1986;140393
+Zaire;42;copper refined;;1986;217959
+Zambia;42;copper refined;;1986;460437
+Zimbabwe;42;copper refined;;1986;25300
+Albania;42;copper refined;;1987;11000
+Argentina;42;copper refined;;1987;13000
+Australia;42;copper refined;;1987;207768
+Austria;42;copper refined;;1987;32924
+Belgium;42;copper refined;;1987;407500
+Brazil;42;copper refined;;1987;146969
+Bulgaria;42;copper refined;;1987;52812
+Canada;42;copper refined;;1987;491124
+Chile;42;copper refined;;1987;970300
+China;42;copper refined;;1987;496400
+Czechoslovakia;42;copper refined;;1987;27202
+Egypt;42;copper refined;;1987;1141
+Finland;42;copper refined;;1987;59538
+France;42;copper refined;;1987;39323
+German Democratic Rep;42;copper refined;;1987;76700
+German Federal Republic;42;copper refined;;1987;399800
+Germany;42;copper refined;;1987;
+Hungary;42;copper refined;;1987;23251
+India;42;copper refined;;1987;30807
+Iran;42;copper refined;;1987;30000
+Italy;42;copper refined;;1987;65000
+Japan;42;copper refined;;1987;980349
+Korea (Rep. of);42;copper refined;;1987;157922
+Korea, Dem. P.R. of;42;copper refined;;1987;40000
+Mexico;42;copper refined;;1987;118040
+Norway;42;copper refined;;1987;29387
+Oman;42;copper refined;;1987;15490
+Peru;42;copper refined;;1987;224808
+Philippines;42;copper refined;;1987;132112
+Poland;42;copper refined;;1987;390200
+Portugal;42;copper refined;;1987;5300
+Romania;42;copper refined;;1987;32200
+South Africa;42;copper refined;;1987;146500
+Soviet Union;42;copper refined;;1987;1410000
+Spain;42;copper refined;;1987;151410
+Sweden;42;copper refined;;1987;91905
+Taiwan;42;copper refined;;1987;46961
+Turkey;42;copper refined;;1987;75600
+USA;42;copper refined;;1987;1541646
+United Kingdom;42;copper refined;;1987;122287
+Yugoslavia;42;copper refined;;1987;138867
+Zaire;42;copper refined;;1987;210218
+Zambia;42;copper refined;;1987;483040
+Zimbabwe;42;copper refined;;1987;23000
+Albania;42;copper refined;;1988;13000
+Argentina;42;copper refined;;1988;12500
+Australia;42;copper refined;;1988;222707
+Austria;42;copper refined;;1988;38378
+Belgium;42;copper refined;;1988;354300
+Brazil;42;copper refined;;1988;147880
+Bulgaria;42;copper refined;;1988;50020
+Canada;42;copper refined;;1988;528723
+Chile;42;copper refined;;1988;1012700
+China;42;copper refined;;1988;517000
+Czechoslovakia;42;copper refined;;1988;27076
+Egypt;42;copper refined;;1988;8427
+Finland;42;copper refined;;1988;55846
+France;42;copper refined;;1988;43239
+German Democratic Rep;42;copper refined;;1988;75700
+German Federal Republic;42;copper refined;;1988;426400
+Germany;42;copper refined;;1988;
+Hungary;42;copper refined;;1988;15627
+India;42;copper refined;;1988;40100
+Iran;42;copper refined;;1988;32600
+Italy;42;copper refined;;1988;75400
+Japan;42;copper refined;;1988;955108
+Korea (Rep. of);42;copper refined;;1988;170541
+Korea, Dem. P.R. of;42;copper refined;;1988;40000
+Mexico;42;copper refined;;1988;133909
+Norway;42;copper refined;;1988;31730
+Oman;42;copper refined;;1988;16267
+Peru;42;copper refined;;1988;174746
+Philippines;42;copper refined;;1988;132183
+Poland;42;copper refined;;1988;400560
+Portugal;42;copper refined;;1988;5400
+Romania;42;copper refined;;1988;32000
+South Africa;42;copper refined;;1988;136700
+Soviet Union;42;copper refined;;1988;1370000
+Spain;42;copper refined;;1988;158756
+Sweden;42;copper refined;;1988;90292
+Taiwan;42;copper refined;;1988;43333
+Turkey;42;copper refined;;1988;76400
+USA;42;copper refined;;1988;1852000
+United Kingdom;42;copper refined;;1988;123958
+Yugoslavia;42;copper refined;;1988;145376
+Zaire;42;copper refined;;1988;202790
+Zambia;42;copper refined;;1988;422252
+Zimbabwe;42;copper refined;;1988;27500
+Albania;42;copper refined;;1989;13000
+Argentina;42;copper refined;;1989;11000
+Australia;42;copper refined;;1989;255000
+Austria;42;copper refined;;1989;46267
+Belgium;42;copper refined;;1989;329200
+Brazil;42;copper refined;;1989;153378
+Bulgaria;42;copper refined;;1989;55800
+Canada;42;copper refined;;1989;515216
+Chile;42;copper refined;;1989;1071000
+China;42;copper refined;;1989;555100
+Czechoslovakia;42;copper refined;;1989;26920
+Egypt;42;copper refined;;1989;4000
+Finland;42;copper refined;;1989;69911
+France;42;copper refined;;1989;43163
+German Democratic Rep;42;copper refined;;1989;75100
+German Federal Republic;42;copper refined;;1989;475200
+Germany;42;copper refined;;1989;
+Hungary;42;copper refined;;1989;13137
+India;42;copper refined;;1989;41843
+Iran;42;copper refined;;1989;39900
+Italy;42;copper refined;;1989;83300
+Japan;42;copper refined;;1989;989566
+Korea (Rep. of);42;copper refined;;1989;178665
+Korea, Dem. P.R. of;42;copper refined;;1989;40000
+Mexico;42;copper refined;;1989;140510
+Norway;42;copper refined;;1989;32294
+Oman;42;copper refined;;1989;15318
+Peru;42;copper refined;;1989;224260
+Philippines;42;copper refined;;1989;132193
+Poland;42;copper refined;;1989;390268
+Portugal;42;copper refined;;1989;
+Romania;42;copper refined;;1989;33200
+South Africa;42;copper refined;;1989;144200
+Soviet Union;42;copper refined;;1989;1330000
+Spain;42;copper refined;;1989;165700
+Sweden;42;copper refined;;1989;94745
+Taiwan;42;copper refined;;1989;43237
+Turkey;42;copper refined;;1989;84800
+USA;42;copper refined;;1989;1956851
+United Kingdom;42;copper refined;;1989;119033
+Yugoslavia;42;copper refined;;1989;151035
+Zaire;42;copper refined;;1989;203800
+Zambia;42;copper refined;;1989;450910
+Zimbabwe;42;copper refined;;1989;24000
+Albania;42;copper refined;;1990;10900
+Argentina;42;copper refined;;1990;15000
+Australia;42;copper refined;;1990;274000
+Austria;42;copper refined;;1990;49703
+Belgium;42;copper refined;;1990;331857
+Brazil;42;copper refined;;1990;152117
+Bulgaria;42;copper refined;;1990;24333
+Canada;42;copper refined;;1990;515835
+Chile;42;copper refined;;1990;1191600
+China;42;copper refined;;1990;558000
+Czechoslovakia;42;copper refined;;1990;24606
+Egypt;42;copper refined;;1990;4000
+Finland;42;copper refined;;1990;69030
+France;42;copper refined;;1990;44034
+German Democratic Rep;42;copper refined;;1990;55700
+German Federal Republic;42;copper refined;;1990;476200
+Germany;42;copper refined;;1990;
+Hungary;42;copper refined;;1990;12817
+India;42;copper refined;;1990;46400
+Iran;42;copper refined;;1990;47800
+Italy;42;copper refined;;1990;83000
+Japan;42;copper refined;;1990;1007976
+Korea (Rep. of);42;copper refined;;1990;192196
+Korea, Dem. P.R. of;42;copper refined;;1990;30000
+Mexico;42;copper refined;;1990;157108
+Norway;42;copper refined;;1990;33514
+Oman;42;copper refined;;1990;12015
+Peru;42;copper refined;;1990;181790
+Philippines;42;copper refined;;1990;125938
+Poland;42;copper refined;;1990;346000
+Portugal;42;copper refined;;1990;
+Romania;42;copper refined;;1990;24700
+South Africa;42;copper refined;;1990;133000
+Soviet Union;42;copper refined;;1990;1160000
+Spain;42;copper refined;;1990;170567
+Sweden;42;copper refined;;1990;97278
+Taiwan;42;copper refined;;1990;16090
+Turkey;42;copper refined;;1990;85200
+USA;42;copper refined;;1990;2017390
+United Kingdom;42;copper refined;;1990;121634
+Yugoslavia;42;copper refined;;1990;151395
+Zaire;42;copper refined;;1990;173175
+Zambia;42;copper refined;;1990;426243
+Zimbabwe;42;copper refined;;1990;24400
+Albania;42;copper refined;;1991;4400
+Argentina;42;copper refined;;1991;15000
+Australia;42;copper refined;;1991;272000
+Austria;42;copper refined;;1991;52837
+Belgium;42;copper refined;;1991;297593
+Brazil;42;copper refined;;1991;141443
+Bulgaria;42;copper refined;;1991;27700
+Canada;42;copper refined;;1991;538339
+Chile;42;copper refined;;1991;1228300
+China;42;copper refined;;1991;560000
+Czechoslovakia;42;copper refined;;1991;25273
+Egypt;42;copper refined;;1991;4000
+Finland;42;copper refined;;1991;64908
+France;42;copper refined;;1991;43570
+German Democratic Rep;42;copper refined;;1991;
+German Federal Republic;42;copper refined;;1991;
+Germany;42;copper refined;;1991;521500
+Hungary;42;copper refined;;1991;9341
+India;42;copper refined;;1991;47222
+Iran;42;copper refined;;1991;79700
+Italy;42;copper refined;;1991;83400
+Japan;42;copper refined;;1991;1076283
+Korea (Rep. of);42;copper refined;;1991;200763
+Korea, Dem. P.R. of;42;copper refined;;1991;30000
+Mexico;42;copper refined;;1991;171866
+Norway;42;copper refined;;1991;38447
+Oman;42;copper refined;;1991;11413
+Peru;42;copper refined;;1991;246198
+Philippines;42;copper refined;;1991;115471
+Poland;42;copper refined;;1991;378500
+Portugal;42;copper refined;;1991;
+Romania;42;copper refined;;1991;25700
+South Africa;42;copper refined;;1991;127200
+Soviet Union;42;copper refined;;1991;1040000
+Spain;42;copper refined;;1991;189850
+Sweden;42;copper refined;;1991;96554
+Taiwan;42;copper refined;;1991;0
+Turkey;42;copper refined;;1991;80700
+USA;42;copper refined;;1991;1995194
+United Kingdom;42;copper refined;;1991;70060
+Yugoslavia;42;copper refined;;1991;122200
+Zaire;42;copper refined;;1991;120000
+Zambia;42;copper refined;;1991;394900
+Zimbabwe;42;copper refined;;1991;23800

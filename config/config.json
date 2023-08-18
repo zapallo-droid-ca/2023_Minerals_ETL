@@ -1,0 +1,43 @@
+[
+	{
+		"directory": [
+		{"wd_root":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/"},
+		{"wd_custom_libraries":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/utils/"}
+		],
+		
+		"output_data": [
+		{"root":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/output_data/"},
+		{"aggregated":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/output_data/aggregated_data/"},
+		{"cleaned":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/output_data/cleaned_data/"},
+		{"processed":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/output_data/processed_data/"}
+		],
+		
+		"logs": [
+		{"extract":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/logs/extract/"}
+		],
+		
+		"raw_data": [
+		{"ukgs" : "C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/raw_data/ukgs/"},
+		{"unct" : "C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/raw_data/unct/"}
+		],
+		
+		"csvAttr_imp": [
+		{"sep": ";" , "encoding": "UTF-8"}
+		],
+		
+		"csvAttr_exp": [
+		{"index": "False", "sep": ";" , "encoding": "UTF-8"}
+		],
+		
+		"keys": [
+		{"db": "un_trade_com", "user": "" , "key": "83e8539540404aa39d65fe663f690a72"}
+		],
+		
+		"db": [
+		{"db": "C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/db/"}
+		]		
+		
+	}
+]
+
+

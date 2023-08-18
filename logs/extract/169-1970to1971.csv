@@ -1,0 +1,19 @@
+Country;commodity_code;commodity_desc;Sub-commodity;year;value
+Argentina;169;uranium;;1970;42
+Canada;169;uranium;;1970;3157
+France;169;uranium;;1970;1295
+Gabon;169;uranium;;1970;377
+Niger;169;uranium;;1970;46
+Portugal;169;uranium;;1970;80
+South Africa;169;uranium;;1970;3168
+Spain;169;uranium;;1970;71
+USA;169;uranium;;1970;9825
+Argentina;169;uranium;;1971;42
+Canada;169;uranium;;1971;3160
+France;169;uranium;;1971;1280
+Gabon;169;uranium;;1971;446
+Niger;169;uranium;;1971;431
+Portugal;169;uranium;;1971;80
+South Africa;169;uranium;;1971;3200
+Spain;169;uranium;;1971;125
+USA;169;uranium;;1971;9932

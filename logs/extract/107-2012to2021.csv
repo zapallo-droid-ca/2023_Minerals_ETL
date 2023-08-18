@@ -1,0 +1,931 @@
+Country;commodity_code;commodity_desc;Sub-commodity;year;value
+Afghanistan;107;natural gas;;2012;160
+Albania;107;natural gas;;2012;18
+Algeria;107;natural gas;;2012;78400
+Angola;107;natural gas;;2012;740
+Argentina;107;natural gas;;2012;44124
+Australia;107;natural gas;;2012;60197
+Austria;107;natural gas;;2012;1729
+Azerbaijan;107;natural gas;;2012;17242
+Bahrain;107;natural gas;;2012;16755
+Bangladesh;107;natural gas;;2012;21056
+Barbados;107;natural gas;;2012;23
+Belarus;107;natural gas;;2012;218
+Bolivia;107;natural gas;;2012;18300
+Brazil;107;natural gas;;2012;20845
+Brunei;107;natural gas;;2012;12565
+Bulgaria;107;natural gas;;2012;390
+Cameroon;107;natural gas;;2012;4
+Canada;107;natural gas;;2012;144440
+Chile;107;natural gas;;2012;1207
+China;107;natural gas;;2012;110608
+Colombia;107;natural gas;;2012;11500
+Congo;107;natural gas;;2012;1161
+Croatia;107;natural gas;;2012;2013
+Cuba;107;natural gas;;2012;1035
+Czech Republic;107;natural gas;;2012;204
+Denmark;107;natural gas;;2012;5480
+East Timor;107;natural gas;;2012;5192
+Ecuador;107;natural gas;;2012;510
+Egypt;107;natural gas;;2012;60900
+Equatorial Guinea;107;natural gas;;2012;6672
+France;107;natural gas;;2012;1019
+Gabon;107;natural gas;;2012;380
+Georgia;107;natural gas;;2012;5
+Germany;107;natural gas;;2012;11706
+Ghana;107;natural gas;;2012;
+Greece;107;natural gas;;2012;6
+Hungary;107;natural gas;;2012;2205
+India;107;natural gas;;2012;40679
+Indonesia;107;natural gas;;2012;77972
+Iran;107;natural gas;;2012;166200
+Iraq;107;natural gas;;2012;700
+Ireland, Republic of;107;natural gas;;2012;381
+Israel;107;natural gas;;2012;2558
+Italy;107;natural gas;;2012;8540
+Ivory Coast;107;natural gas;;2012;1755
+Japan;107;natural gas;;2012;3276
+Jordan;107;natural gas;;2012;164
+Kazakhstan;107;natural gas;;2012;40299
+Kuwait;107;natural gas;;2012;15500
+Kyrgyzstan;107;natural gas;;2012;29
+Libya;107;natural gas;;2012;11100
+Malaysia;107;natural gas;;2012;62050
+Mexico;107;natural gas;;2012;64593
+Morocco;107;natural gas;;2012;76
+Mozambique;107;natural gas;;2012;4890
+Myanmar;107;natural gas;;2012;13217
+Netherlands;107;natural gas;;2012;75970
+New Zealand;107;natural gas;;2012;4277
+Nigeria;107;natural gas;;2012;43300
+Norway;107;natural gas;;2012;114918
+Oman;107;natural gas;;2012;29381
+Pakistan;107;natural gas;;2012;44145
+Papua New Guinea;107;natural gas;;2012;149
+Peru;107;natural gas;;2012;11819
+Philippines;107;natural gas;;2012;3905
+Poland;107;natural gas;;2012;5780
+Qatar;107;natural gas;;2012;170500
+Romania;107;natural gas;;2012;11095
+Russia;107;natural gas;;2012;653000
+Saudi Arabia;107;natural gas;;2012;99300
+Senegal;107;natural gas;;2012;
+Serbia;107;natural gas;;2012;672
+Slovakia;107;natural gas;;2012;93
+Slovenia;107;natural gas;;2012;2
+South Africa;107;natural gas;;2012;1186
+Spain;107;natural gas;;2012;65
+Syria;107;natural gas;;2012;5800
+Taiwan;107;natural gas;;2012;442
+Tajikistan;107;natural gas;;2012;7
+Tanzania;107;natural gas;;2012;0
+Thailand;107;natural gas;;2012;40044
+Trinidad & Tobago;107;natural gas;;2012;42604
+Tunisia;107;natural gas;;2012;2794
+Turkey;107;natural gas;;2012;547
+Turkmenistan;107;natural gas;;2012;62300
+USA;107;natural gas;;2012;680538
+Ukraine;107;natural gas;;2012;20491
+United Arab Emirates;107;natural gas;;2012;54300
+United Kingdom;107;natural gas;;2012;39597
+Uzbekistan;107;natural gas;;2012;56900
+Venezuela;107;natural gas;;2012;32800
+Vietnam;107;natural gas;;2012;9355
+Yemen, Republic of;107;natural gas;;2012;7300
+Afghanistan;107;natural gas;;2013;155
+Albania;107;natural gas;;2013;19
+Algeria;107;natural gas;;2013;79300
+Angola;107;natural gas;;2013;910
+Argentina;107;natural gas;;2013;41708
+Australia;107;natural gas;;2013;62479
+Austria;107;natural gas;;2013;1359
+Azerbaijan;107;natural gas;;2013;17895
+Bahrain;107;natural gas;;2013;19241
+Bangladesh;107;natural gas;;2013;22670
+Barbados;107;natural gas;;2013;22
+Belarus;107;natural gas;;2013;228
+Bolivia;107;natural gas;;2013;20800
+Brazil;107;natural gas;;2013;24290
+Brunei;107;natural gas;;2013;12206
+Bulgaria;107;natural gas;;2013;282
+Cameroon;107;natural gas;;2013;152
+Canada;107;natural gas;;2013;145395
+Chile;107;natural gas;;2013;893
+China;107;natural gas;;2013;120858
+Colombia;107;natural gas;;2013;13200
+Congo;107;natural gas;;2013;1642
+Croatia;107;natural gas;;2013;1862
+Cuba;107;natural gas;;2013;1066
+Czech Republic;107;natural gas;;2013;207
+Denmark;107;natural gas;;2013;4566
+East Timor;107;natural gas;;2013;5906
+Ecuador;107;natural gas;;2013;514
+Egypt;107;natural gas;;2013;54000
+Equatorial Guinea;107;natural gas;;2013;6861
+France;107;natural gas;;2013;340
+Gabon;107;natural gas;;2013;420
+Georgia;107;natural gas;;2013;5
+Germany;107;natural gas;;2013;10678
+Ghana;107;natural gas;;2013;
+Greece;107;natural gas;;2013;5
+Hungary;107;natural gas;;2013;2028
+India;107;natural gas;;2013;35407
+Indonesia;107;natural gas;;2013;77263
+Iran;107;natural gas;;2013;166800
+Iraq;107;natural gas;;2013;7100
+Ireland, Republic of;107;natural gas;;2013;343
+Israel;107;natural gas;;2013;6492
+Italy;107;natural gas;;2013;7710
+Ivory Coast;107;natural gas;;2013;2104
+Japan;107;natural gas;;2013;2995
+Jordan;107;natural gas;;2013;150
+Kazakhstan;107;natural gas;;2013;41912
+Kuwait;107;natural gas;;2013;15500
+Kyrgyzstan;107;natural gas;;2013;33
+Libya;107;natural gas;;2013;12200
+Malaysia;107;natural gas;;2013;64780
+Mexico;107;natural gas;;2013;64346
+Morocco;107;natural gas;;2013;92
+Mozambique;107;natural gas;;2013;5280
+Myanmar;107;natural gas;;2013;13648
+Netherlands;107;natural gas;;2013;82358
+New Zealand;107;natural gas;;2013;4526
+Nigeria;107;natural gas;;2013;36200
+Norway;107;natural gas;;2013;108746
+Oman;107;natural gas;;2013;32093
+Pakistan;107;natural gas;;2013;42646
+Papua New Guinea;107;natural gas;;2013;156
+Peru;107;natural gas;;2013;12189
+Philippines;107;natural gas;;2013;3511
+Poland;107;natural gas;;2013;5789
+Qatar;107;natural gas;;2013;167700
+Romania;107;natural gas;;2013;11135
+Russia;107;natural gas;;2013;668000
+Saudi Arabia;107;natural gas;;2013;95000
+Senegal;107;natural gas;;2013;
+Serbia;107;natural gas;;2013;660
+Slovakia;107;natural gas;;2013;91
+Slovenia;107;natural gas;;2013;3
+South Africa;107;natural gas;;2013;838
+Spain;107;natural gas;;2013;62
+Syria;107;natural gas;;2013;4800
+Taiwan;107;natural gas;;2013;381
+Tajikistan;107;natural gas;;2013;2
+Tanzania;107;natural gas;;2013;1017
+Thailand;107;natural gas;;2013;40382
+Trinidad & Tobago;107;natural gas;;2013;42361
+Tunisia;107;natural gas;;2013;2789
+Turkey;107;natural gas;;2013;522
+Turkmenistan;107;natural gas;;2013;62300
+USA;107;natural gas;;2013;689062
+Ukraine;107;natural gas;;2013;21313
+United Arab Emirates;107;natural gas;;2013;56000
+United Kingdom;107;natural gas;;2013;37308
+Uzbekistan;107;natural gas;;2013;56900
+Venezuela;107;natural gas;;2013;32900
+Vietnam;107;natural gas;;2013;9751
+Yemen, Republic of;107;natural gas;;2013;10400
+Afghanistan;107;natural gas;;2014;142
+Albania;107;natural gas;;2014;33
+Algeria;107;natural gas;;2014;80200
+Angola;107;natural gas;;2014;720
+Argentina;107;natural gas;;2014;41484
+Australia;107;natural gas;;2014;67335
+Austria;107;natural gas;;2014;1245
+Azerbaijan;107;natural gas;;2014;18827
+Bahrain;107;natural gas;;2014;20627
+Bangladesh;107;natural gas;;2014;23232
+Barbados;107;natural gas;;2014;21
+Belarus;107;natural gas;;2014;222
+Bolivia;107;natural gas;;2014;21954
+Brazil;107;natural gas;;2014;24536
+Brunei;107;natural gas;;2014;11852
+Bulgaria;107;natural gas;;2014;183
+Cameroon;107;natural gas;;2014;308
+Canada;107;natural gas;;2014;151352
+Chile;107;natural gas;;2014;907
+China;107;natural gas;;2014;130157
+Colombia;107;natural gas;;2014;12300
+Congo;107;natural gas;;2014;1501
+Croatia;107;natural gas;;2014;1804
+Cuba;107;natural gas;;2014;1200
+Czech Republic;107;natural gas;;2014;198
+Denmark;107;natural gas;;2014;4381
+East Timor;107;natural gas;;2014;5320
+Ecuador;107;natural gas;;2014;566
+Egypt;107;natural gas;;2014;40400
+Equatorial Guinea;107;natural gas;;2014;6452
+France;107;natural gas;;2014;17
+Gabon;107;natural gas;;2014;438
+Georgia;107;natural gas;;2014;10
+Germany;107;natural gas;;2014;10060
+Ghana;107;natural gas;;2014;52568
+Greece;107;natural gas;;2014;5
+Hungary;107;natural gas;;2014;1946
+India;107;natural gas;;2014;33656
+Indonesia;107;natural gas;;2014;76145
+Iran;107;natural gas;;2014;175500
+Iraq;107;natural gas;;2014;7500
+Ireland, Republic of;107;natural gas;;2014;354
+Israel;107;natural gas;;2014;7676
+Italy;107;natural gas;;2014;7280
+Ivory Coast;107;natural gas;;2014;2132
+Japan;107;natural gas;;2014;2822
+Jordan;107;natural gas;;2014;130
+Kazakhstan;107;natural gas;;2014;43177
+Kuwait;107;natural gas;;2014;14300
+Kyrgyzstan;107;natural gas;;2014;34
+Libya;107;natural gas;;2014;10200
+Malaysia;107;natural gas;;2014;65400
+Mexico;107;natural gas;;2014;64275
+Morocco;107;natural gas;;2014;104
+Mozambique;107;natural gas;;2014;5607
+Myanmar;107;natural gas;;2014;18999
+Netherlands;107;natural gas;;2014;68684
+New Zealand;107;natural gas;;2014;5015
+Nigeria;107;natural gas;;2014;40000
+Norway;107;natural gas;;2014;108820
+Oman;107;natural gas;;2014;29915
+Pakistan;107;natural gas;;2014;42302
+Papua New Guinea;107;natural gas;;2014;5257
+Peru;107;natural gas;;2014;12911
+Philippines;107;natural gas;;2014;3693
+Poland;107;natural gas;;2014;5648
+Qatar;107;natural gas;;2014;169100
+Romania;107;natural gas;;2014;11374
+Russia;107;natural gas;;2014;639000
+Saudi Arabia;107;natural gas;;2014;97300
+Senegal;107;natural gas;;2014;
+Serbia;107;natural gas;;2014;631
+Slovakia;107;natural gas;;2014;99
+Slovenia;107;natural gas;;2014;3
+South Africa;107;natural gas;;2014;849
+Spain;107;natural gas;;2014;26
+Syria;107;natural gas;;2014;4600
+Taiwan;107;natural gas;;2014;387
+Tajikistan;107;natural gas;;2014;3
+Tanzania;107;natural gas;;2014;958
+Thailand;107;natural gas;;2014;40150
+Trinidad & Tobago;107;natural gas;;2014;41571
+Tunisia;107;natural gas;;2014;2557
+Turkey;107;natural gas;;2014;540
+Turkmenistan;107;natural gas;;2014;63500
+USA;107;natural gas;;2014;733095
+Ukraine;107;natural gas;;2014;20138
+United Arab Emirates;107;natural gas;;2014;52900
+United Kingdom;107;natural gas;;2014;37680
+Uzbekistan;107;natural gas;;2014;57300
+Venezuela;107;natural gas;;2014;32900
+Vietnam;107;natural gas;;2014;10210
+Yemen, Republic of;107;natural gas;;2014;9800
+Afghanistan;107;natural gas;;2015;146
+Albania;107;natural gas;;2015;35
+Algeria;107;natural gas;;2015;81400
+Angola;107;natural gas;;2015;770
+Argentina;107;natural gas;;2015;42896
+Australia;107;natural gas;;2015;76791
+Austria;107;natural gas;;2015;1183
+Azerbaijan;107;natural gas;;2015;19236
+Bahrain;107;natural gas;;2015;21283
+Bangladesh;107;natural gas;;2015;25263
+Barbados;107;natural gas;;2015;20
+Belarus;107;natural gas;;2015;225
+Bolivia;107;natural gas;;2015;21981
+Brazil;107;natural gas;;2015;24862
+Brunei;107;natural gas;;2015;12452
+Bulgaria;107;natural gas;;2015;85
+Cameroon;107;natural gas;;2015;369
+Canada;107;natural gas;;2015;156413
+Chile;107;natural gas;;2015;1064
+China;107;natural gas;;2015;134610
+Colombia;107;natural gas;;2015;11600
+Congo;107;natural gas;;2015;1501
+Croatia;107;natural gas;;2015;1828
+Cuba;107;natural gas;;2015;1245
+Czech Republic;107;natural gas;;2015;200
+Denmark;107;natural gas;;2015;4374
+East Timor;107;natural gas;;2015;6055
+Ecuador;107;natural gas;;2015;510
+Egypt;107;natural gas;;2015;42600
+Equatorial Guinea;107;natural gas;;2015;6494
+France;107;natural gas;;2015;20
+Gabon;107;natural gas;;2015;466
+Georgia;107;natural gas;;2015;11
+Germany;107;natural gas;;2015;9323
+Ghana;107;natural gas;;2015;24200
+Greece;107;natural gas;;2015;4
+Hungary;107;natural gas;;2015;1872
+India;107;natural gas;;2015;32249
+Indonesia;107;natural gas;;2015;75770
+Iran;107;natural gas;;2015;183500
+Iraq;107;natural gas;;2015;7300
+Ireland, Republic of;107;natural gas;;2015;118
+Israel;107;natural gas;;2015;8438
+Italy;107;natural gas;;2015;6880
+Ivory Coast;107;natural gas;;2015;2234
+Japan;107;natural gas;;2015;2734
+Jordan;107;natural gas;;2015;122
+Kazakhstan;107;natural gas;;2015;45256
+Kuwait;107;natural gas;;2015;16100
+Kyrgyzstan;107;natural gas;;2015;32
+Libya;107;natural gas;;2015;11000
+Malaysia;107;natural gas;;2015;63380
+Mexico;107;natural gas;;2015;59870
+Morocco;107;natural gas;;2015;93
+Mozambique;107;natural gas;;2015;5695
+Myanmar;107;natural gas;;2015;19545
+Netherlands;107;natural gas;;2015;52177
+New Zealand;107;natural gas;;2015;4606
+Nigeria;107;natural gas;;2015;47600
+Norway;107;natural gas;;2015;117150
+Oman;107;natural gas;;2015;31093
+Pakistan;107;natural gas;;2015;41511
+Papua New Guinea;107;natural gas;;2015;9795
+Peru;107;natural gas;;2015;12488
+Philippines;107;natural gas;;2015;3471
+Poland;107;natural gas;;2015;5624
+Qatar;107;natural gas;;2015;175200
+Romania;107;natural gas;;2015;11426
+Russia;107;natural gas;;2015;633000
+Saudi Arabia;107;natural gas;;2015;99200
+Senegal;107;natural gas;;2015;
+Serbia;107;natural gas;;2015;626
+Slovakia;107;natural gas;;2015;104
+Slovenia;107;natural gas;;2015;3
+South Africa;107;natural gas;;2015;1333
+Spain;107;natural gas;;2015;12
+Syria;107;natural gas;;2015;4100
+Taiwan;107;natural gas;;2015;374
+Tajikistan;107;natural gas;;2015;4
+Tanzania;107;natural gas;;2015;36568
+Thailand;107;natural gas;;2015;39559
+Trinidad & Tobago;107;natural gas;;2015;39164
+Tunisia;107;natural gas;;2015;2479
+Turkey;107;natural gas;;2015;396
+Turkmenistan;107;natural gas;;2015;65900
+USA;107;natural gas;;2015;765953
+Ukraine;107;natural gas;;2015;19757
+United Arab Emirates;107;natural gas;;2015;58700
+United Kingdom;107;natural gas;;2015;40466
+Uzbekistan;107;natural gas;;2015;53600
+Venezuela;107;natural gas;;2015;36100
+Vietnam;107;natural gas;;2015;10660
+Yemen, Republic of;107;natural gas;;2015;2900
+Afghanistan;107;natural gas;;2016;165
+Albania;107;natural gas;;2016;92
+Algeria;107;natural gas;;2016;91400
+Angola;107;natural gas;;2016;1710
+Argentina;107;natural gas;;2016;44988
+Australia;107;natural gas;;2016;97328
+Austria;107;natural gas;;2016;1253
+Azerbaijan;107;natural gas;;2016;18718
+Bahrain;107;natural gas;;2016;21062
+Bangladesh;107;natural gas;;2016;27489
+Barbados;107;natural gas;;2016;17
+Belarus;107;natural gas;;2016;216
+Bolivia;107;natural gas;;2016;21134
+Brazil;107;natural gas;;2016;25337
+Brunei;107;natural gas;;2016;12025
+Bulgaria;107;natural gas;;2016;80
+Cameroon;107;natural gas;;2016;357
+Canada;107;natural gas;;2016;158452
+Chile;107;natural gas;;2016;1175
+China;107;natural gas;;2016;136865
+Colombia;107;natural gas;;2016;12000
+Congo;107;natural gas;;2016;1388
+Croatia;107;natural gas;;2016;1690
+Cuba;107;natural gas;;2016;1185
+Czech Republic;107;natural gas;;2016;169
+Denmark;107;natural gas;;2016;4301
+East Timor;107;natural gas;;2016;5855
+Ecuador;107;natural gas;;2016;538
+Egypt;107;natural gas;;2016;40300
+Equatorial Guinea;107;natural gas;;2016;6079
+France;107;natural gas;;2016;20
+Gabon;107;natural gas;;2016;530
+Georgia;107;natural gas;;2016;7
+Germany;107;natural gas;;2016;8608
+Ghana;107;natural gas;;2016;1273
+Greece;107;natural gas;;2016;9
+Hungary;107;natural gas;;2016;1986
+India;107;natural gas;;2016;31897
+Indonesia;107;natural gas;;2016;74704
+Iran;107;natural gas;;2016;199300
+Iraq;107;natural gas;;2016;9900
+Ireland, Republic of;107;natural gas;;2016;2748
+Israel;107;natural gas;;2016;9390
+Italy;107;natural gas;;2016;6020
+Ivory Coast;107;natural gas;;2016;2396
+Japan;107;natural gas;;2016;2754
+Jordan;107;natural gas;;2016;116
+Kazakhstan;107;natural gas;;2016;46677
+Kuwait;107;natural gas;;2016;16400
+Kyrgyzstan;107;natural gas;;2016;29
+Libya;107;natural gas;;2016;14800
+Malaysia;107;natural gas;;2016;67510
+Mexico;107;natural gas;;2016;52248
+Morocco;107;natural gas;;2016;85
+Mozambique;107;natural gas;;2016;5000
+Myanmar;107;natural gas;;2016;18971
+Netherlands;107;natural gas;;2016;50373
+New Zealand;107;natural gas;;2016;4811
+Nigeria;107;natural gas;;2016;42600
+Norway;107;natural gas;;2016;116820
+Oman;107;natural gas;;2016;31742
+Pakistan;107;natural gas;;2016;41958
+Papua New Guinea;107;natural gas;;2016;10455
+Peru;107;natural gas;;2016;13954
+Philippines;107;natural gas;;2016;3977
+Poland;107;natural gas;;2016;5401
+Qatar;107;natural gas;;2016;174500
+Romania;107;natural gas;;2016;10118
+Russia;107;natural gas;;2016;641000
+Saudi Arabia;107;natural gas;;2016;105300
+Senegal;107;natural gas;;2016;23
+Serbia;107;natural gas;;2016;595
+Slovakia;107;natural gas;;2016;87
+Slovenia;107;natural gas;;2016;5
+South Africa;107;natural gas;;2016;820
+Spain;107;natural gas;;2016;8
+Syria;107;natural gas;;2016;3500
+Taiwan;107;natural gas;;2016;322
+Tajikistan;107;natural gas;;2016;3
+Tanzania;107;natural gas;;2016;47704
+Thailand;107;natural gas;;2016;39273
+Trinidad & Tobago;107;natural gas;;2016;34091
+Tunisia;107;natural gas;;2016;2213
+Turkey;107;natural gas;;2016;316
+Turkmenistan;107;natural gas;;2016;63200
+USA;107;natural gas;;2016;752557
+Ukraine;107;natural gas;;2016;20047
+United Arab Emirates;107;natural gas;;2016;59500
+United Kingdom;107;natural gas;;2016;41653
+Uzbekistan;107;natural gas;;2016;53100
+Venezuela;107;natural gas;;2016;37200
+Vietnam;107;natural gas;;2016;10610
+Yemen, Republic of;107;natural gas;;2016;500
+Afghanistan;107;natural gas;;2017;156
+Albania;107;natural gas;;2017;102
+Algeria;107;natural gas;;2017;93000
+Angola;107;natural gas;;2017;5776
+Argentina;107;natural gas;;2017;44595
+Australia;107;natural gas;;2017;113805
+Austria;107;natural gas;;2017;1742
+Azerbaijan;107;natural gas;;2017;18186
+Bahrain;107;natural gas;;2017;21465
+Bangladesh;107;natural gas;;2017;27445
+Barbados;107;natural gas;;2017;15
+Belarus;107;natural gas;;2017;205
+Bolivia;107;natural gas;;2017;18300
+Brazil;107;natural gas;;2017;28663
+Brunei;107;natural gas;;2017;12290
+Bulgaria;107;natural gas;;2017;65
+Cameroon;107;natural gas;;2017;392
+Canada;107;natural gas;;2017;160885
+Chile;107;natural gas;;2017;1200
+China;107;natural gas;;2017;148035
+Colombia;107;natural gas;;2017;11800
+Congo;107;natural gas;;2017;1263
+Croatia;107;natural gas;;2017;1530
+Cuba;107;natural gas;;2017;1051
+Czech Republic;107;natural gas;;2017;171
+Denmark;107;natural gas;;2017;4592
+East Timor;107;natural gas;;2017;5270
+Ecuador;107;natural gas;;2017;481
+Egypt;107;natural gas;;2017;55900
+Equatorial Guinea;107;natural gas;;2017;7192
+France;107;natural gas;;2017;17
+Gabon;107;natural gas;;2017;565
+Georgia;107;natural gas;;2017;9
+Germany;107;natural gas;;2017;7932
+Ghana;107;natural gas;;2017;2189
+Greece;107;natural gas;;2017;8
+Hungary;107;natural gas;;2017;1885
+India;107;natural gas;;2017;32649
+Indonesia;107;natural gas;;2017;72295
+Iran;107;natural gas;;2017;213900
+Iraq;107;natural gas;;2017;10100
+Ireland, Republic of;107;natural gas;;2017;3171
+Israel;107;natural gas;;2017;9570
+Italy;107;natural gas;;2017;5650
+Ivory Coast;107;natural gas;;2017;2155
+Japan;107;natural gas;;2017;3008
+Jordan;107;natural gas;;2017;94
+Kazakhstan;107;natural gas;;2017;52921
+Kuwait;107;natural gas;;2017;16200
+Kyrgyzstan;107;natural gas;;2017;26
+Libya;107;natural gas;;2017;13600
+Malaysia;107;natural gas;;2017;70251
+Mexico;107;natural gas;;2017;52000
+Morocco;107;natural gas;;2017;88
+Mozambique;107;natural gas;;2017;5029
+Myanmar;107;natural gas;;2017;18644
+Netherlands;107;natural gas;;2017;43915
+New Zealand;107;natural gas;;2017;4896
+Nigeria;107;natural gas;;2017;47200
+Norway;107;natural gas;;2017;124160
+Oman;107;natural gas;;2017;30463
+Pakistan;107;natural gas;;2017;41684
+Papua New Guinea;107;natural gas;;2017;11018
+Peru;107;natural gas;;2017;12934
+Philippines;107;natural gas;;2017;3923
+Poland;107;natural gas;;2017;5408
+Qatar;107;natural gas;;2017;170500
+Romania;107;natural gas;;2017;11071
+Russia;107;natural gas;;2017;691000
+Saudi Arabia;107;natural gas;;2017;109300
+Senegal;107;natural gas;;2017;18
+Serbia;107;natural gas;;2017;548
+Slovakia;107;natural gas;;2017;88
+Slovenia;107;natural gas;;2017;8
+South Africa;107;natural gas;;2017;749
+Spain;107;natural gas;;2017;13
+Syria;107;natural gas;;2017;3500
+Taiwan;107;natural gas;;2017;266
+Tajikistan;107;natural gas;;2017;2
+Tanzania;107;natural gas;;2017;51054
+Thailand;107;natural gas;;2017;37925
+Trinidad & Tobago;107;natural gas;;2017;34391
+Tunisia;107;natural gas;;2017;2089
+Turkey;107;natural gas;;2017;364
+Turkmenistan;107;natural gas;;2017;58700
+USA;107;natural gas;;2017;773738
+Ukraine;107;natural gas;;2017;20510
+United Arab Emirates;107;natural gas;;2017;59500
+United Kingdom;107;natural gas;;2017;42100
+Uzbekistan;107;natural gas;;2017;53400
+Venezuela;107;natural gas;;2017;38600
+Vietnam;107;natural gas;;2017;9866
+Yemen, Republic of;107;natural gas;;2017;300
+Afghanistan;107;natural gas;;2018;153
+Albania;107;natural gas;;2018;92
+Algeria;107;natural gas;;2018;93800
+Angola;107;natural gas;;2018;6455
+Argentina;107;natural gas;;2018;40294
+Australia;107;natural gas;;2018;130987
+Austria;107;natural gas;;2018;969
+Azerbaijan;107;natural gas;;2018;19207
+Bahrain;107;natural gas;;2018;21879
+Bangladesh;107;natural gas;;2018;27430
+Barbados;107;natural gas;;2018;14
+Belarus;107;natural gas;;2018;211
+Bolivia;107;natural gas;;2018;17100
+Brazil;107;natural gas;;2018;26687
+Brunei;107;natural gas;;2018;11851
+Bulgaria;107;natural gas;;2018;65
+Cameroon;107;natural gas;;2018;1463
+Canada;107;natural gas;;2018;157176
+Chile;107;natural gas;;2018;1221
+China;107;natural gas;;2018;160159
+Colombia;107;natural gas;;2018;12400
+Congo;107;natural gas;;2018;916
+Croatia;107;natural gas;;2018;1279
+Cuba;107;natural gas;;2018;970
+Czech Republic;107;natural gas;;2018;179
+Denmark;107;natural gas;;2018;3929
+East Timor;107;natural gas;;2018;6554
+Ecuador;107;natural gas;;2018;368
+Egypt;107;natural gas;;2018;59600
+Equatorial Guinea;107;natural gas;;2018;6765
+France;107;natural gas;;2018;9
+Gabon;107;natural gas;;2018;622
+Georgia;107;natural gas;;2018;10
+Germany;107;natural gas;;2018;6888
+Ghana;107;natural gas;;2018;2590
+Greece;107;natural gas;;2018;11
+Hungary;107;natural gas;;2018;2104
+India;107;natural gas;;2018;32057
+Indonesia;107;natural gas;;2018;72601
+Iran;107;natural gas;;2018;224900
+Iraq;107;natural gas;;2018;10600
+Ireland, Republic of;107;natural gas;;2018;3057
+Israel;107;natural gas;;2018;10480
+Italy;107;natural gas;;2018;5500
+Ivory Coast;107;natural gas;;2018;1957
+Japan;107;natural gas;;2018;2707
+Jordan;107;natural gas;;2018;88
+Kazakhstan;107;natural gas;;2018;55453
+Kuwait;107;natural gas;;2018;16900
+Kyrgyzstan;107;natural gas;;2018;27
+Libya;107;natural gas;;2018;13200
+Malaysia;107;natural gas;;2018;66171
+Mexico;107;natural gas;;2018;50000
+Morocco;107;natural gas;;2018;93
+Mozambique;107;natural gas;;2018;5038
+Myanmar;107;natural gas;;2018;16028
+Netherlands;107;natural gas;;2018;36735
+New Zealand;107;natural gas;;2018;4323
+Nigeria;107;natural gas;;2018;48300
+Norway;107;natural gas;;2018;121560
+Oman;107;natural gas;;2018;34640
+Pakistan;107;natural gas;;2018;41318
+Papua New Guinea;107;natural gas;;2018;9809
+Peru;107;natural gas;;2018;12741
+Philippines;107;natural gas;;2018;4380
+Poland;107;natural gas;;2018;5348
+Qatar;107;natural gas;;2018;175200
+Romania;107;natural gas;;2018;10752
+Russia;107;natural gas;;2018;726000
+Saudi Arabia;107;natural gas;;2018;112100
+Senegal;107;natural gas;;2018;11
+Serbia;107;natural gas;;2018;506
+Slovakia;107;natural gas;;2018;80
+Slovenia;107;natural gas;;2018;15
+South Africa;107;natural gas;;2018;624
+Spain;107;natural gas;;2018;93
+Syria;107;natural gas;;2018;3500
+Taiwan;107;natural gas;;2018;198
+Tajikistan;107;natural gas;;2018;1
+Tanzania;107;natural gas;;2018;58951
+Thailand;107;natural gas;;2018;37393
+Trinidad & Tobago;107;natural gas;;2018;36647
+Tunisia;107;natural gas;;2018;1961
+Turkey;107;natural gas;;2018;436
+Turkmenistan;107;natural gas;;2018;61500
+USA;107;natural gas;;2018;870912
+Ukraine;107;natural gas;;2018;20806
+United Arab Emirates;107;natural gas;;2018;58000
+United Kingdom;107;natural gas;;2018;40827
+Uzbekistan;107;natural gas;;2018;57200
+Venezuela;107;natural gas;;2018;31600
+Vietnam;107;natural gas;;2018;10010
+Yemen, Republic of;107;natural gas;;2018;100
+Afghanistan;107;natural gas;;2019;129
+Albania;107;natural gas;;2019;80
+Algeria;107;natural gas;;2019;87000
+Angola;107;natural gas;;2019;6740
+Argentina;107;natural gas;;2019;46305
+Australia;107;natural gas;;2019;154485
+Austria;107;natural gas;;2019;891
+Azerbaijan;107;natural gas;;2019;24514
+Bahrain;107;natural gas;;2019;24887
+Bangladesh;107;natural gas;;2019;54465
+Barbados;107;natural gas;;2019;14
+Belarus;107;natural gas;;2019;218
+Bolivia;107;natural gas;;2019;15000
+Brazil;107;natural gas;;2019;27358
+Brunei;107;natural gas;;2019;12140
+Bulgaria;107;natural gas;;2019;65
+Cameroon;107;natural gas;;2019;2006
+Canada;107;natural gas;;2019;161367
+Chile;107;natural gas;;2019;1339
+China;107;natural gas;;2019;176174
+Colombia;107;natural gas;;2019;12600
+Congo;107;natural gas;;2019;1025
+Croatia;107;natural gas;;2019;1070
+Cuba;107;natural gas;;2019;951
+Czech Republic;107;natural gas;;2019;146
+Denmark;107;natural gas;;2019;2980
+East Timor;107;natural gas;;2019;7152
+Ecuador;107;natural gas;;2019;340
+Egypt;107;natural gas;;2019;59000
+Equatorial Guinea;107;natural gas;;2019;5883
+France;107;natural gas;;2019;17
+Gabon;107;natural gas;;2019;464
+Georgia;107;natural gas;;2019;9
+Germany;107;natural gas;;2019;6699
+Ghana;107;natural gas;;2019;4802
+Greece;107;natural gas;;2019;11
+Hungary;107;natural gas;;2019;1852
+India;107;natural gas;;2019;30260
+Indonesia;107;natural gas;;2019;67184
+Iran;107;natural gas;;2019;232900
+Iraq;107;natural gas;;2019;11000
+Ireland, Republic of;107;natural gas;;2019;2385
+Israel;107;natural gas;;2019;10500
+Italy;107;natural gas;;2019;4980
+Ivory Coast;107;natural gas;;2019;2090
+Japan;107;natural gas;;2019;2524
+Jordan;107;natural gas;;2019;102
+Kazakhstan;107;natural gas;;2019;56681
+Kuwait;107;natural gas;;2019;18200
+Kyrgyzstan;107;natural gas;;2019;24
+Libya;107;natural gas;;2019;13500
+Malaysia;107;natural gas;;2019;68660
+Mexico;107;natural gas;;2019;51000
+Morocco;107;natural gas;;2019;105
+Mozambique;107;natural gas;;2019;4549
+Myanmar;107;natural gas;;2019;18800
+Netherlands;107;natural gas;;2019;31671
+New Zealand;107;natural gas;;2019;4608
+Nigeria;107;natural gas;;2019;49300
+Norway;107;natural gas;;2019;115130
+Oman;107;natural gas;;2019;36484
+Pakistan;107;natural gas;;2019;40684
+Papua New Guinea;107;natural gas;;2019;11204
+Peru;107;natural gas;;2019;13418
+Philippines;107;natural gas;;2019;4410
+Poland;107;natural gas;;2019;5374
+Qatar;107;natural gas;;2019;177200
+Romania;107;natural gas;;2019;10448
+Russia;107;natural gas;;2019;738000
+Saudi Arabia;107;natural gas;;2019;111200
+Senegal;107;natural gas;;2019;16
+Serbia;107;natural gas;;2019;477
+Slovakia;107;natural gas;;2019;75
+Slovenia;107;natural gas;;2019;7
+South Africa;107;natural gas;;2019;668
+Spain;107;natural gas;;2019;131
+Syria;107;natural gas;;2019;3300
+Taiwan;107;natural gas;;2019;167
+Tajikistan;107;natural gas;;2019;1
+Tanzania;107;natural gas;;2019;60000
+Thailand;107;natural gas;;2019;38047
+Trinidad & Tobago;107;natural gas;;2019;36658
+Tunisia;107;natural gas;;2019;1795
+Turkey;107;natural gas;;2019;483
+Turkmenistan;107;natural gas;;2019;63200
+USA;107;natural gas;;2019;961282
+Ukraine;107;natural gas;;2019;20520
+United Arab Emirates;107;natural gas;;2019;58000
+United Kingdom;107;natural gas;;2019;39386
+Uzbekistan;107;natural gas;;2019;57300
+Venezuela;107;natural gas;;2019;25600
+Vietnam;107;natural gas;;2019;10200
+Yemen, Republic of;107;natural gas;;2019;300
+Afghanistan;107;natural gas;;2020;80
+Albania;107;natural gas;;2020;57
+Algeria;107;natural gas;;2020;81500
+Angola;107;natural gas;;2020;7503
+Argentina;107;natural gas;;2020;41560
+Australia;107;natural gas;;2020;154263
+Austria;107;natural gas;;2020;743
+Azerbaijan;107;natural gas;;2020;26487
+Bahrain;107;natural gas;;2020;17953
+Bangladesh;107;natural gas;;2020;24993
+Barbados;107;natural gas;;2020;11
+Belarus;107;natural gas;;2020;219
+Bolivia;107;natural gas;;2020;14500
+Brazil;107;natural gas;;2020;25403
+Brunei;107;natural gas;;2020;11795
+Bulgaria;107;natural gas;;2020;65
+Cameroon;107;natural gas;;2020;2130
+Canada;107;natural gas;;2020;158325
+Chile;107;natural gas;;2020;1316
+China;107;natural gas;;2020;176000
+Colombia;107;natural gas;;2020;12500
+Congo;107;natural gas;;2020;1332
+Croatia;107;natural gas;;2020;888
+Cuba;107;natural gas;;2020;895
+Czech Republic;107;natural gas;;2020;138
+Denmark;107;natural gas;;2020;1351
+East Timor;107;natural gas;;2020;6770
+Ecuador;107;natural gas;;2020;283
+Egypt;107;natural gas;;2020;58300
+Equatorial Guinea;107;natural gas;;2020;5255
+France;107;natural gas;;2020;0
+Gabon;107;natural gas;;2020;502
+Georgia;107;natural gas;;2020;9
+Germany;107;natural gas;;2020;5692
+Ghana;107;natural gas;;2020;2600
+Greece;107;natural gas;;2020;6
+Hungary;107;natural gas;;2020;1888
+India;107;natural gas;;2020;28670
+Indonesia;107;natural gas;;2020;59206
+Iran;107;natural gas;;2020;249500
+Iraq;107;natural gas;;2020;7000
+Ireland, Republic of;107;natural gas;;2020;1838
+Israel;107;natural gas;;2020;15000
+Italy;107;natural gas;;2020;4420
+Ivory Coast;107;natural gas;;2020;2339
+Japan;107;natural gas;;2020;2295
+Jordan;107;natural gas;;2020;151
+Kazakhstan;107;natural gas;;2020;55379
+Kuwait;107;natural gas;;2020;16500
+Kyrgyzstan;107;natural gas;;2020;22
+Libya;107;natural gas;;2020;12100
+Malaysia;107;natural gas;;2020;63330
+Mexico;107;natural gas;;2020;50000
+Morocco;107;natural gas;;2020;100
+Mozambique;107;natural gas;;2020;4857
+Myanmar;107;natural gas;;2020;19050
+Netherlands;107;natural gas;;2020;22831
+New Zealand;107;natural gas;;2020;4508
+Nigeria;107;natural gas;;2020;49400
+Norway;107;natural gas;;2020;112300
+Oman;107;natural gas;;2020;35146
+Pakistan;107;natural gas;;2020;37283
+Papua New Guinea;107;natural gas;;2020;11000
+Peru;107;natural gas;;2020;11993
+Philippines;107;natural gas;;2020;4000
+Poland;107;natural gas;;2020;5302
+Qatar;107;natural gas;;2020;174900
+Romania;107;natural gas;;2020;9357
+Russia;107;natural gas;;2020;694000
+Saudi Arabia;107;natural gas;;2020;113100
+Senegal;107;natural gas;;2020;14
+Serbia;107;natural gas;;2020;448
+Slovakia;107;natural gas;;2020;65
+Slovenia;107;natural gas;;2020;5
+South Africa;107;natural gas;;2020;563
+Spain;107;natural gas;;2020;47
+Syria;107;natural gas;;2020;2700
+Taiwan;107;natural gas;;2020;105
+Tajikistan;107;natural gas;;2020;1
+Tanzania;107;natural gas;;2020;60000
+Thailand;107;natural gas;;2020;32700
+Trinidad & Tobago;107;natural gas;;2020;31177
+Tunisia;107;natural gas;;2020;1864
+Turkey;107;natural gas;;2020;458
+Turkmenistan;107;natural gas;;2020;66000
+USA;107;natural gas;;2020;947633
+Ukraine;107;natural gas;;2020;20171
+United Arab Emirates;107;natural gas;;2020;55400
+United Kingdom;107;natural gas;;2020;39433
+Uzbekistan;107;natural gas;;2020;47100
+Venezuela;107;natural gas;;2020;21600
+Vietnam;107;natural gas;;2020;9160
+Yemen, Republic of;107;natural gas;;2020;300
+Afghanistan;107;natural gas;;2021;132
+Albania;107;natural gas;;2021;57
+Algeria;107;natural gas;;2021;100800
+Angola;107;natural gas;;2021;5860
+Argentina;107;natural gas;;2021;39801
+Australia;107;natural gas;;2021;156774
+Austria;107;natural gas;;2021;654
+Azerbaijan;107;natural gas;;2021;32574
+Bahrain;107;natural gas;;2021;18632
+Bangladesh;107;natural gas;;2021;25174
+Barbados;107;natural gas;;2021;11
+Belarus;107;natural gas;;2021;200
+Bolivia;107;natural gas;;2021;15100
+Brazil;107;natural gas;;2021;25382
+Brunei;107;natural gas;;2021;10765
+Bulgaria;107;natural gas;;2021;65
+Cameroon;107;natural gas;;2021;1578
+Canada;107;natural gas;;2021;164272
+Chile;107;natural gas;;2021;1275
+China;107;natural gas;;2021;205000
+Colombia;107;natural gas;;2021;12600
+Congo;107;natural gas;;2021;913
+Croatia;107;natural gas;;2021;782
+Cuba;107;natural gas;;2021;652
+Czech Republic;107;natural gas;;2021;153
+Denmark;107;natural gas;;2021;1283
+East Timor;107;natural gas;;2021;6449
+Ecuador;107;natural gas;;2021;312
+Egypt;107;natural gas;;2021;61900
+Equatorial Guinea;107;natural gas;;2021;6121
+France;107;natural gas;;2021;0
+Gabon;107;natural gas;;2021;454
+Georgia;107;natural gas;;2021;15
+Germany;107;natural gas;;2021;5731
+Ghana;107;natural gas;;2021;2900
+Greece;107;natural gas;;2021;6
+Hungary;107;natural gas;;2021;1663
+India;107;natural gas;;2021;27000
+Indonesia;107;natural gas;;2021;58651
+Iran;107;natural gas;;2021;256700
+Iraq;107;natural gas;;2021;9400
+Ireland, Republic of;107;natural gas;;2021;1398
+Israel;107;natural gas;;2021;19000
+Italy;107;natural gas;;2021;3500
+Ivory Coast;107;natural gas;;2021;2495
+Japan;107;natural gas;;2021;2304
+Jordan;107;natural gas;;2021;185
+Kazakhstan;107;natural gas;;2021;54179
+Kuwait;107;natural gas;;2021;17400
+Kyrgyzstan;107;natural gas;;2021;22
+Libya;107;natural gas;;2021;12400
+Malaysia;107;natural gas;;2021;67482
+Mexico;107;natural gas;;2021;49000
+Morocco;107;natural gas;;2021;100
+Mozambique;107;natural gas;;2021;4712
+Myanmar;107;natural gas;;2021;18185
+Netherlands;107;natural gas;;2021;20524
+New Zealand;107;natural gas;;2021;3945
+Nigeria;107;natural gas;;2021;45900
+Norway;107;natural gas;;2021;115230
+Oman;107;natural gas;;2021;35469
+Pakistan;107;natural gas;;2021;36223
+Papua New Guinea;107;natural gas;;2021;11400
+Peru;107;natural gas;;2021;11368
+Philippines;107;natural gas;;2021;3430
+Poland;107;natural gas;;2021;5274
+Qatar;107;natural gas;;2021;177000
+Romania;107;natural gas;;2021;8919
+Russia;107;natural gas;;2021;662000
+Saudi Arabia;107;natural gas;;2021;117300
+Senegal;107;natural gas;;2021;6
+Serbia;107;natural gas;;2021;401
+Slovakia;107;natural gas;;2021;65
+Slovenia;107;natural gas;;2021;5
+South Africa;107;natural gas;;2021;44
+Spain;107;natural gas;;2021;38
+Syria;107;natural gas;;2021;2900
+Taiwan;107;natural gas;;2021;110
+Tajikistan;107;natural gas;;2021;1
+Tanzania;107;natural gas;;2021;60000
+Thailand;107;natural gas;;2021;31500
+Trinidad & Tobago;107;natural gas;;2021;26348
+Tunisia;107;natural gas;;2021;2212
+Turkey;107;natural gas;;2021;415
+Turkmenistan;107;natural gas;;2021;79300
+USA;107;natural gas;;2021;966862
+Ukraine;107;natural gas;;2021;20200
+United Arab Emirates;107;natural gas;;2021;57000
+United Kingdom;107;natural gas;;2021;32568
+Uzbekistan;107;natural gas;;2021;50900
+Venezuela;107;natural gas;;2021;24000
+Vietnam;107;natural gas;;2021;7460
+Yemen, Republic of;107;natural gas;;2021;400

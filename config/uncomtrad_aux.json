@@ -1,0 +1,18 @@
+[
+	{"mineral_code":"cm01","mineral_desc":"aluminium","commodity_code":"2606"},
+	{"mineral_code":"cm02","mineral_desc":"steel","commodity_code":"2601"},
+	{"mineral_code":"cm03","mineral_desc":"copper","commodity_code":"2603"},
+	{"mineral_code":"cm04","mineral_desc":"lithium","commodity_code":"282520"},
+	{"mineral_code":"cm05","mineral_desc":"nickel","commodity_code":"2604"},
+	{"mineral_code":"cm06","mineral_desc":"manganese","commodity_code":"2602"},
+	{"mineral_code":"cm07","mineral_desc":"cobalt","commodity_code":"2605"},
+	{"mineral_code":"cm08","mineral_desc":"graphite","commodity_code":"2504"},
+	{"mineral_code":"cm09","mineral_desc":"zinc","commodity_code":"2608"},	
+	{"mineral_code":"cm10","mineral_desc":"rare earths","commodity_code":"280530"},		
+	{"mineral_code":"cm11","mineral_desc":"chromium","commodity_code":"2610"},
+	{"mineral_code":"cm12","mineral_desc":"molybdenum","commodity_code":"2613"},		
+	{"mineral_code":"cm13","mineral_desc":"natural gas","commodity_code":"271121"},
+	{"mineral_code":"cm14","mineral_desc":"petroleum","commodity_code":"2709"},
+	{"mineral_code":"cm15","mineral_desc":"uranium","commodity_code":"2612"} 
+
+]

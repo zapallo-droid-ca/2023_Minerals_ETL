@@ -1,0 +1,2 @@
+CREATE TABLE dim_calendar (
+"year" INTEGER PRIMARY KEY)

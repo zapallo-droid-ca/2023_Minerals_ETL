@@ -1,0 +1,471 @@
+Country;commodity_code;commodity_desc;Sub-commodity;year;value
+Argentina;42;copper refined;;2012;16000
+Australia;42;copper refined;;2012;460390
+Austria;42;copper refined;;2012;113600
+Belgium;42;copper refined;;2012;397100
+Bolivia;42;copper refined;;2012;904
+Brazil;42;copper refined;;2012;210700
+Bulgaria;42;copper refined;;2012;226000
+Canada;42;copper refined;;2012;275990
+Chile;42;copper refined;;2012;2902000
+China;42;copper refined;;2012;5879100
+Congo, Democratic Republic;42;copper refined;;2012;448300
+Cyprus;42;copper refined;;2012;4328
+Egypt;42;copper refined;;2012;4000
+Finland;42;copper refined;;2012;129256
+Germany;42;copper refined;;2012;682132
+India;42;copper refined;;2012;493519
+Indonesia;42;copper refined;;2012;197200
+Iran;42;copper refined;;2012;213000
+Italy;42;copper refined;;2012;7700
+Japan;42;copper refined;;2012;1516354
+Kazakhstan;42;copper refined;;2012;367161
+Korea (Rep. of);42;copper refined;;2012;591000
+Korea, Dem. P.R. of;42;copper refined;;2012;15000
+Laos;42;copper refined;;2012;86295
+Mexico;42;copper refined;;2012;376900
+Mongolia;42;copper refined;;2012;2282
+Myanmar;42;copper refined;;2012;19000
+Namibia;42;copper refined;;2012;0
+North Macedonia;42;copper refined;;2012;1100
+Norway;42;copper refined;;2012;37891
+Oman;42;copper refined;;2012;721
+Peru;42;copper refined;;2012;311293
+Philippines;42;copper refined;;2012;98400
+Poland;42;copper refined;;2012;565834
+Russia;42;copper refined;;2012;887400
+Serbia;42;copper refined;;2012;34700
+South Africa;42;copper refined;;2012;66416
+Spain;42;copper refined;;2012;406600
+Sweden;42;copper refined;;2012;214050
+Thailand;42;copper refined;;2012;486
+Turkey;42;copper refined;;2012;59673
+USA;42;copper refined;;2012;1001000
+Ukraine;42;copper refined;;2012;24000
+Uzbekistan;42;copper refined;;2012;90000
+Vietnam;42;copper refined;;2012;8000
+Zambia;42;copper refined;;2012;530200
+Zimbabwe;42;copper refined;;2012;5000
+Argentina;42;copper refined;;2013;16000
+Australia;42;copper refined;;2013;480775
+Austria;42;copper refined;;2013;82842
+Belgium;42;copper refined;;2013;389400
+Bolivia;42;copper refined;;2013;1271
+Brazil;42;copper refined;;2013;236050
+Bulgaria;42;copper refined;;2013;230100
+Canada;42;copper refined;;2013;321511
+Chile;42;copper refined;;2013;2754900
+China;42;copper refined;;2013;6667096
+Congo, Democratic Republic;42;copper refined;;2013;631800
+Cyprus;42;copper refined;;2013;3631
+Egypt;42;copper refined;;2013;4000
+Finland;42;copper refined;;2013;135840
+Germany;42;copper refined;;2013;677600
+India;42;copper refined;;2013;644193
+Indonesia;42;copper refined;;2013;214300
+Iran;42;copper refined;;2013;188000
+Italy;42;copper refined;;2013;5000
+Japan;42;copper refined;;2013;1468123
+Kazakhstan;42;copper refined;;2013;350837
+Korea (Rep. of);42;copper refined;;2013;604000
+Korea, Dem. P.R. of;42;copper refined;;2013;2000
+Laos;42;copper refined;;2013;90030
+Mexico;42;copper refined;;2013;355100
+Mongolia;42;copper refined;;2013;2344
+Myanmar;42;copper refined;;2013;25000
+Namibia;42;copper refined;;2013;0
+North Macedonia;42;copper refined;;2013;1900
+Norway;42;copper refined;;2013;37461
+Oman;42;copper refined;;2013;4200
+Peru;42;copper refined;;2013;361450
+Philippines;42;copper refined;;2013;153000
+Poland;42;copper refined;;2013;565155
+Russia;42;copper refined;;2013;873600
+Serbia;42;copper refined;;2013;35800
+South Africa;42;copper refined;;2013;75400
+Spain;42;copper refined;;2013;351000
+Sweden;42;copper refined;;2013;206193
+Thailand;42;copper refined;;2013;203
+Turkey;42;copper refined;;2013;74000
+USA;42;copper refined;;2013;1040000
+Ukraine;42;copper refined;;2013;16500
+Uzbekistan;42;copper refined;;2013;90000
+Vietnam;42;copper refined;;2013;9700
+Zambia;42;copper refined;;2013;567800
+Zimbabwe;42;copper refined;;2013;5000
+Argentina;42;copper refined;;2014;14000
+Australia;42;copper refined;;2014;511252
+Austria;42;copper refined;;2014;83200
+Belgium;42;copper refined;;2014;387300
+Bolivia;42;copper refined;;2014;1810
+Brazil;42;copper refined;;2014;213085
+Bulgaria;42;copper refined;;2014;233274
+Canada;42;copper refined;;2014;325352
+Chile;42;copper refined;;2014;2729400
+China;42;copper refined;;2014;7649050
+Congo, Democratic Republic;42;copper refined;;2014;786900
+Cyprus;42;copper refined;;2014;3088
+Egypt;42;copper refined;;2014;4000
+Finland;42;copper refined;;2014;146542
+Germany;42;copper refined;;2014;674000
+India;42;copper refined;;2014;762176
+Indonesia;42;copper refined;;2014;233216
+Iran;42;copper refined;;2014;193000
+Italy;42;copper refined;;2014;7900
+Japan;42;copper refined;;2014;1554224
+Kazakhstan;42;copper refined;;2014;294808
+Korea (Rep. of);42;copper refined;;2014;604000
+Korea, Dem. P.R. of;42;copper refined;;2014;4000
+Laos;42;copper refined;;2014;88541
+Mexico;42;copper refined;;2014;397700
+Mongolia;42;copper refined;;2014;6992
+Myanmar;42;copper refined;;2014;33200
+Namibia;42;copper refined;;2014;0
+North Macedonia;42;copper refined;;2014;1700
+Norway;42;copper refined;;2014;35813
+Oman;42;copper refined;;2014;2300
+Peru;42;copper refined;;2014;347398
+Philippines;42;copper refined;;2014;130000
+Poland;42;copper refined;;2014;576876
+Russia;42;copper refined;;2014;889300
+Serbia;42;copper refined;;2014;33175
+South Africa;42;copper refined;;2014;57700
+Spain;42;copper refined;;2014;418500
+Sweden;42;copper refined;;2014;217337
+Thailand;42;copper refined;;2014;229
+Turkey;42;copper refined;;2014;71300
+USA;42;copper refined;;2014;1090000
+Ukraine;42;copper refined;;2014;15200
+Uzbekistan;42;copper refined;;2014;100000
+Vietnam;42;copper refined;;2014;11200
+Zambia;42;copper refined;;2014;499400
+Zimbabwe;42;copper refined;;2014;5000
+Argentina;42;copper refined;;2015;14000
+Australia;42;copper refined;;2015;474963
+Austria;42;copper refined;;2015;102900
+Belgium;42;copper refined;;2015;378600
+Bolivia;42;copper refined;;2015;1789
+Brazil;42;copper refined;;2015;241469
+Bulgaria;42;copper refined;;2015;229723
+Canada;42;copper refined;;2015;330902
+Chile;42;copper refined;;2015;2688400
+China;42;copper refined;;2015;7968946
+Congo, Democratic Republic;42;copper refined;;2015;891369
+Cyprus;42;copper refined;;2015;2121
+Egypt;42;copper refined;;2015;4000
+Finland;42;copper refined;;2015;141474
+Germany;42;copper refined;;2015;678100
+India;42;copper refined;;2015;790372
+Indonesia;42;copper refined;;2015;199626
+Iran;42;copper refined;;2015;190685
+Italy;42;copper refined;;2015;7300
+Japan;42;copper refined;;2015;1483131
+Kazakhstan;42;copper refined;;2015;394641
+Korea (Rep. of);42;copper refined;;2015;644603
+Korea, Dem. P.R. of;42;copper refined;;2015;4000
+Laos;42;copper refined;;2015;89253
+Mexico;42;copper refined;;2015;434100
+Mongolia;42;copper refined;;2015;14990
+Myanmar;42;copper refined;;2015;65041
+Namibia;42;copper refined;;2015;10659
+North Macedonia;42;copper refined;;2015;2268
+Norway;42;copper refined;;2015;35477
+Oman;42;copper refined;;2015;1300
+Peru;42;copper refined;;2015;352960
+Philippines;42;copper refined;;2015;153000
+Poland;42;copper refined;;2015;574310
+Russia;42;copper refined;;2015;874300
+Serbia;42;copper refined;;2015;44000
+South Africa;42;copper refined;;2015;64400
+Spain;42;copper refined;;2015;419900
+Sweden;42;copper refined;;2015;206059
+Thailand;42;copper refined;;2015;187
+Turkey;42;copper refined;;2015;84000
+USA;42;copper refined;;2015;1139000
+Ukraine;42;copper refined;;2015;18500
+Uzbekistan;42;copper refined;;2015;100000
+Vietnam;42;copper refined;;2015;11300
+Zambia;42;copper refined;;2015;495600
+Zimbabwe;42;copper refined;;2015;0
+Argentina;42;copper refined;;2016;14000
+Australia;42;copper refined;;2016;474954
+Austria;42;copper refined;;2016;103215
+Belgium;42;copper refined;;2016;366700
+Bolivia;42;copper refined;;2016;2199
+Brazil;42;copper refined;;2016;225558
+Bulgaria;42;copper refined;;2016;216428
+Canada;42;copper refined;;2016;314183
+Chile;42;copper refined;;2016;2612500
+China;42;copper refined;;2016;8420611
+Congo, Democratic Republic;42;copper refined;;2016;818925
+Cyprus;42;copper refined;;2016;1754
+Egypt;42;copper refined;;2016;4000
+Finland;42;copper refined;;2016;145189
+Germany;42;copper refined;;2016;671400
+India;42;copper refined;;2016;773300
+Indonesia;42;copper refined;;2016;253460
+Iran;42;copper refined;;2016;193028
+Italy;42;copper refined;;2016;6600
+Japan;42;copper refined;;2016;1553133
+Kazakhstan;42;copper refined;;2016;408435
+Korea (Rep. of);42;copper refined;;2016;644788
+Korea, Dem. P.R. of;42;copper refined;;2016;
+Laos;42;copper refined;;2016;78492
+Mexico;42;copper refined;;2016;462300
+Mongolia;42;copper refined;;2016;15010
+Myanmar;42;copper refined;;2016;92560
+Namibia;42;copper refined;;2016;16391
+North Macedonia;42;copper refined;;2016;1396
+Norway;42;copper refined;;2016;28123
+Oman;42;copper refined;;2016;3481
+Peru;42;copper refined;;2016;331324
+Philippines;42;copper refined;;2016;185100
+Poland;42;copper refined;;2016;535597
+Russia;42;copper refined;;2016;860100
+Serbia;42;copper refined;;2016;61309
+South Africa;42;copper refined;;2016;53900
+Spain;42;copper refined;;2016;429400
+Sweden;42;copper refined;;2016;207220
+Thailand;42;copper refined;;2016;
+Turkey;42;copper refined;;2016;52400
+USA;42;copper refined;;2016;1226000
+Ukraine;42;copper refined;;2016;27100
+Uzbekistan;42;copper refined;;2016;100000
+Vietnam;42;copper refined;;2016;11600
+Zambia;42;copper refined;;2016;426400
+Zimbabwe;42;copper refined;;2016;0
+Argentina;42;copper refined;;2017;14000
+Australia;42;copper refined;;2017;386249
+Austria;42;copper refined;;2017;109800
+Belgium;42;copper refined;;2017;398900
+Bolivia;42;copper refined;;2017;2269
+Brazil;42;copper refined;;2017;143000
+Bulgaria;42;copper refined;;2017;228457
+Canada;42;copper refined;;2017;330386
+Chile;42;copper refined;;2017;2429500
+China;42;copper refined;;2017;8915100
+Congo, Democratic Republic;42;copper refined;;2017;825346
+Cyprus;42;copper refined;;2017;1293
+Egypt;42;copper refined;;2017;4000
+Finland;42;copper refined;;2017;13552
+Germany;42;copper refined;;2017;694400
+India;42;copper refined;;2017;823100
+Indonesia;42;copper refined;;2017;270769
+Iran;42;copper refined;;2017;160128
+Italy;42;copper refined;;2017;8700
+Japan;42;copper refined;;2017;1488080
+Kazakhstan;42;copper refined;;2017;426191
+Korea (Rep. of);42;copper refined;;2017;663327
+Korea, Dem. P.R. of;42;copper refined;;2017;
+Laos;42;copper refined;;2017;62941
+Mexico;42;copper refined;;2017;463349
+Mongolia;42;copper refined;;2017;14689
+Myanmar;42;copper refined;;2017;115100
+Namibia;42;copper refined;;2017;15466
+North Macedonia;42;copper refined;;2017;958
+Norway;42;copper refined;;2017;22695
+Oman;42;copper refined;;2017;264
+Peru;42;copper refined;;2017;335329
+Philippines;42;copper refined;;2017;205000
+Poland;42;copper refined;;2017;522022
+Russia;42;copper refined;;2017;949000
+Serbia;42;copper refined;;2017;67179
+South Africa;42;copper refined;;2017;66200
+Spain;42;copper refined;;2017;415200
+Sweden;42;copper refined;;2017;219462
+Thailand;42;copper refined;;2017;
+Turkey;42;copper refined;;2017;95000
+USA;42;copper refined;;2017;1080000
+Ukraine;42;copper refined;;2017;25186
+Uzbekistan;42;copper refined;;2017;100000
+Vietnam;42;copper refined;;2017;11500
+Zambia;42;copper refined;;2017;466200
+Zimbabwe;42;copper refined;;2017;0
+Argentina;42;copper refined;;2018;14000
+Australia;42;copper refined;;2018;377036
+Austria;42;copper refined;;2018;107200
+Belgium;42;copper refined;;2018;390200
+Bolivia;42;copper refined;;2018;3300
+Brazil;42;copper refined;;2018;147100
+Bulgaria;42;copper refined;;2018;224098
+Canada;42;copper refined;;2018;291250
+Chile;42;copper refined;;2018;2461200
+China;42;copper refined;;2018;9023965
+Congo, Democratic Republic;42;copper refined;;2018;999513
+Cyprus;42;copper refined;;2018;908
+Egypt;42;copper refined;;2018;4000
+Finland;42;copper refined;;2018;18201
+Germany;42;copper refined;;2018;672400
+India;42;copper refined;;2018;550600
+Indonesia;42;copper refined;;2018;274641
+Iran;42;copper refined;;2018;247384
+Italy;42;copper refined;;2018;7500
+Japan;42;copper refined;;2018;1594517
+Kazakhstan;42;copper refined;;2018;438115
+Korea (Rep. of);42;copper refined;;2018;673364
+Korea, Dem. P.R. of;42;copper refined;;2018;
+Laos;42;copper refined;;2018;71268
+Mexico;42;copper refined;;2018;473612
+Mongolia;42;copper refined;;2018;14175
+Myanmar;42;copper refined;;2018;179000
+Namibia;42;copper refined;;2018;15177
+North Macedonia;42;copper refined;;2018;768
+Norway;42;copper refined;;2018;20590
+Oman;42;copper refined;;2018;0
+Peru;42;copper refined;;2018;336798
+Philippines;42;copper refined;;2018;170800
+Poland;42;copper refined;;2018;501817
+Russia;42;copper refined;;2018;1016000
+Serbia;42;copper refined;;2018;72087
+South Africa;42;copper refined;;2018;43900
+Spain;42;copper refined;;2018;423800
+Sweden;42;copper refined;;2018;224487
+Thailand;42;copper refined;;2018;
+Turkey;42;copper refined;;2018;126300
+USA;42;copper refined;;2018;1110000
+Ukraine;42;copper refined;;2018;24901
+Uzbekistan;42;copper refined;;2018;107400
+Vietnam;42;copper refined;;2018;15100
+Zambia;42;copper refined;;2018;458200
+Zimbabwe;42;copper refined;;2018;100
+Argentina;42;copper refined;;2019;14000
+Australia;42;copper refined;;2019;426739
+Austria;42;copper refined;;2019;128200
+Belgium;42;copper refined;;2019;356600
+Bolivia;42;copper refined;;2019;3100
+Brazil;42;copper refined;;2019;175200
+Bulgaria;42;copper refined;;2019;207196
+Canada;42;copper refined;;2019;281176
+Chile;42;copper refined;;2019;2269100
+China;42;copper refined;;2019;9784238
+Congo, Democratic Republic;42;copper refined;;2019;1160223
+Cyprus;42;copper refined;;2019;703
+Egypt;42;copper refined;;2019;4000
+Finland;42;copper refined;;2019;13009
+Germany;42;copper refined;;2019;629700
+India;42;copper refined;;2019;826303
+Indonesia;42;copper refined;;2019;257977
+Iran;42;copper refined;;2019;250130
+Italy;42;copper refined;;2019;9800
+Japan;42;copper refined;;2019;1495359
+Kazakhstan;42;copper refined;;2019;472327
+Korea (Rep. of);42;copper refined;;2019;665727
+Korea, Dem. P.R. of;42;copper refined;;2019;
+Laos;42;copper refined;;2019;71651
+Mexico;42;copper refined;;2019;486903
+Mongolia;42;copper refined;;2019;11758
+Myanmar;42;copper refined;;2019;218000
+Namibia;42;copper refined;;2019;15743
+North Macedonia;42;copper refined;;2019;719
+Norway;42;copper refined;;2019;21962
+Oman;42;copper refined;;2019;0
+Peru;42;copper refined;;2019;307862
+Philippines;42;copper refined;;2019;217300
+Poland;42;copper refined;;2019;565588
+Russia;42;copper refined;;2019;1028000
+Serbia;42;copper refined;;2019;74000
+South Africa;42;copper refined;;2019;20000
+Spain;42;copper refined;;2019;386700
+Sweden;42;copper refined;;2019;201345
+Thailand;42;copper refined;;2019;
+Turkey;42;copper refined;;2019;116000
+USA;42;copper refined;;2019;1030000
+Ukraine;42;copper refined;;2019;20409
+Uzbekistan;42;copper refined;;2019;147300
+Vietnam;42;copper refined;;2019;19200
+Zambia;42;copper refined;;2019;264500
+Zimbabwe;42;copper refined;;2019;0
+Argentina;42;copper refined;;2020;14000
+Australia;42;copper refined;;2020;426997
+Austria;42;copper refined;;2020;132000
+Belgium;42;copper refined;;2020;321400
+Bolivia;42;copper refined;;2020;1800
+Brazil;42;copper refined;;2020;108600
+Bulgaria;42;copper refined;;2020;225000
+Canada;42;copper refined;;2020;276100
+Chile;42;copper refined;;2020;2329300
+China;42;copper refined;;2020;10025059
+Congo, Democratic Republic;42;copper refined;;2020;1200000
+Cyprus;42;copper refined;;2020;0
+Egypt;42;copper refined;;2020;4000
+Finland;42;copper refined;;2020;2591
+Germany;42;copper refined;;2020;643000
+India;42;copper refined;;2020;697109
+Indonesia;42;copper refined;;2020;278377
+Iran;42;copper refined;;2020;280000
+Italy;42;copper refined;;2020;15000
+Japan;42;copper refined;;2020;1580086
+Kazakhstan;42;copper refined;;2020;477016
+Korea (Rep. of);42;copper refined;;2020;657000
+Korea, Dem. P.R. of;42;copper refined;;2020;
+Laos;42;copper refined;;2020;39730
+Mexico;42;copper refined;;2020;491926
+Mongolia;42;copper refined;;2020;9488
+Myanmar;42;copper refined;;2020;185000
+Namibia;42;copper refined;;2020;10641
+North Macedonia;42;copper refined;;2020;722
+Norway;42;copper refined;;2020;20535
+Oman;42;copper refined;;2020;0
+Peru;42;copper refined;;2020;323580
+Philippines;42;copper refined;;2020;220900
+Poland;42;copper refined;;2020;560364
+Russia;42;copper refined;;2020;1055000
+Serbia;42;copper refined;;2020;46937
+South Africa;42;copper refined;;2020;10000
+Spain;42;copper refined;;2020;399700
+Sweden;42;copper refined;;2020;225987
+Thailand;42;copper refined;;2020;
+Turkey;42;copper refined;;2020;126100
+USA;42;copper refined;;2020;918000
+Ukraine;42;copper refined;;2020;24335
+Uzbekistan;42;copper refined;;2020;148000
+Vietnam;42;copper refined;;2020;19200
+Zambia;42;copper refined;;2020;378400
+Zimbabwe;42;copper refined;;2020;0
+Argentina;42;copper refined;;2021;14000
+Australia;42;copper refined;;2021;400250
+Austria;42;copper refined;;2021;133500
+Belgium;42;copper refined;;2021;400000
+Bolivia;42;copper refined;;2021;1700
+Brazil;42;copper refined;;2021;61500
+Bulgaria;42;copper refined;;2021;219000
+Canada;42;copper refined;;2021;287500
+Chile;42;copper refined;;2021;2274000
+China;42;copper refined;;2021;10490000
+Congo, Democratic Republic;42;copper refined;;2021;1300000
+Cyprus;42;copper refined;;2021;0
+Egypt;42;copper refined;;2021;4000
+Finland;42;copper refined;;2021;2132
+Germany;42;copper refined;;2021;614000
+India;42;copper refined;;2021;491200
+Indonesia;42;copper refined;;2021;275900
+Iran;42;copper refined;;2021;285000
+Italy;42;copper refined;;2021;15400
+Japan;42;copper refined;;2021;1516684
+Kazakhstan;42;copper refined;;2021;401883
+Korea (Rep. of);42;copper refined;;2021;606000
+Korea, Dem. P.R. of;42;copper refined;;2021;
+Laos;42;copper refined;;2021;5964
+Mexico;42;copper refined;;2021;472767
+Mongolia;42;copper refined;;2021;9689
+Myanmar;42;copper refined;;2021;67000
+Namibia;42;copper refined;;2021;2700
+North Macedonia;42;copper refined;;2021;700
+Norway;42;copper refined;;2021;20125
+Oman;42;copper refined;;2021;0
+Peru;42;copper refined;;2021;324000
+Philippines;42;copper refined;;2021;214684
+Poland;42;copper refined;;2021;577575
+Russia;42;copper refined;;2021;1100000
+Serbia;42;copper refined;;2021;58344
+South Africa;42;copper refined;;2021;20400
+Spain;42;copper refined;;2021;361500
+Sweden;42;copper refined;;2021;223038
+Thailand;42;copper refined;;2021;
+Turkey;42;copper refined;;2021;126500
+USA;42;copper refined;;2021;923000
+Ukraine;42;copper refined;;2021;26600
+Uzbekistan;42;copper refined;;2021;148000
+Vietnam;42;copper refined;;2021;20000
+Zambia;42;copper refined;;2021;350000
+Zimbabwe;42;copper refined;;2021;0

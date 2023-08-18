@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+numpy = "*"
+spyder-kernels = "*"
+requests = "*"
+beautifulsoup4 = "*"
+chardet = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
+jellyfish = "*"
+pyjarowinkler = "*"
+nltk = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"

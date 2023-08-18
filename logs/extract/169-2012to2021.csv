@@ -1,0 +1,201 @@
+Country;commodity_code;commodity_desc;Sub-commodity;year;value
+Australia;169;uranium;;2012;7010
+Brazil;169;uranium;;2012;326
+Canada;169;uranium;;2012;8998
+China;169;uranium;;2012;1500
+Czech Republic;169;uranium;;2012;222
+Germany;169;uranium;;2012;50
+India;169;uranium;;2012;385
+Iran;169;uranium;;2012;
+Kazakhstan;169;uranium;;2012;21317
+Malawi;169;uranium;;2012;1102
+Namibia;169;uranium;;2012;4500
+Niger;169;uranium;;2012;4821
+Pakistan;169;uranium;;2012;45
+Romania;169;uranium;;2012;90
+Russia;169;uranium;;2012;2862
+South Africa;169;uranium;;2012;467
+USA;169;uranium;;2012;1596
+Ukraine;169;uranium;;2012;960
+Uzbekistan;169;uranium;;2012;3000
+Zambia;169;uranium;;2012;
+Australia;169;uranium;;2013;6393
+Brazil;169;uranium;;2013;192
+Canada;169;uranium;;2013;9331
+China;169;uranium;;2013;1500
+Czech Republic;169;uranium;;2013;232
+Germany;169;uranium;;2013;27
+India;169;uranium;;2013;385
+Iran;169;uranium;;2013;
+Kazakhstan;169;uranium;;2013;22567
+Malawi;169;uranium;;2013;1133
+Namibia;169;uranium;;2013;4328
+Niger;169;uranium;;2013;4277
+Pakistan;169;uranium;;2013;45
+Romania;169;uranium;;2013;77
+Russia;169;uranium;;2013;3135
+South Africa;169;uranium;;2013;531
+USA;169;uranium;;2013;1794
+Ukraine;169;uranium;;2013;922
+Uzbekistan;169;uranium;;2013;2400
+Zambia;169;uranium;;2013;
+Australia;169;uranium;;2014;5100
+Brazil;169;uranium;;2014;55
+Canada;169;uranium;;2014;9101
+China;169;uranium;;2014;1500
+Czech Republic;169;uranium;;2014;165
+Germany;169;uranium;;2014;33
+India;169;uranium;;2014;385
+Iran;169;uranium;;2014;
+Kazakhstan;169;uranium;;2014;23127
+Malawi;169;uranium;;2014;369
+Namibia;169;uranium;;2014;3311
+Niger;169;uranium;;2014;4156
+Pakistan;169;uranium;;2014;45
+Romania;169;uranium;;2014;77
+Russia;169;uranium;;2014;2990
+South Africa;169;uranium;;2014;566
+USA;169;uranium;;2014;1884
+Ukraine;169;uranium;;2014;926
+Uzbekistan;169;uranium;;2014;2400
+Zambia;169;uranium;;2014;
+Australia;169;uranium;;2015;5656
+Brazil;169;uranium;;2015;40
+Canada;169;uranium;;2015;13324
+China;169;uranium;;2015;1616
+Czech Republic;169;uranium;;2015;134
+Germany;169;uranium;;2015;0
+India;169;uranium;;2015;385
+Iran;169;uranium;;2015;38
+Kazakhstan;169;uranium;;2015;23607
+Malawi;169;uranium;;2015;
+Namibia;169;uranium;;2015;2950
+Niger;169;uranium;;2015;4115
+Pakistan;169;uranium;;2015;45
+Romania;169;uranium;;2015;77
+Russia;169;uranium;;2015;3055
+South Africa;169;uranium;;2015;448
+USA;169;uranium;;2015;1287
+Ukraine;169;uranium;;2015;1200
+Uzbekistan;169;uranium;;2015;2385
+Zambia;169;uranium;;2015;
+Australia;169;uranium;;2016;6235
+Brazil;169;uranium;;2016;44
+Canada;169;uranium;;2016;14037
+China;169;uranium;;2016;1616
+Czech Republic;169;uranium;;2016;128
+Germany;169;uranium;;2016;45
+India;169;uranium;;2016;385
+Iran;169;uranium;;2016;0
+Kazakhstan;169;uranium;;2016;24586
+Malawi;169;uranium;;2016;
+Namibia;169;uranium;;2016;3657
+Niger;169;uranium;;2016;3478
+Pakistan;169;uranium;;2016;45
+Romania;169;uranium;;2016;50
+Russia;169;uranium;;2016;3005
+South Africa;169;uranium;;2016;382
+USA;169;uranium;;2016;1123
+Ukraine;169;uranium;;2016;808
+Uzbekistan;169;uranium;;2016;3325
+Zambia;169;uranium;;2016;
+Australia;169;uranium;;2017;5713
+Brazil;169;uranium;;2017;0
+Canada;169;uranium;;2017;12433
+China;169;uranium;;2017;1692
+Czech Republic;169;uranium;;2017;59
+Germany;169;uranium;;2017;34
+India;169;uranium;;2017;421
+Iran;169;uranium;;2017;40
+Kazakhstan;169;uranium;;2017;23321
+Malawi;169;uranium;;2017;
+Namibia;169;uranium;;2017;4529
+Niger;169;uranium;;2017;3485
+Pakistan;169;uranium;;2017;45
+Romania;169;uranium;;2017;0
+Russia;169;uranium;;2017;2917
+South Africa;169;uranium;;2017;358
+USA;169;uranium;;2017;940
+Ukraine;169;uranium;;2017;707
+Uzbekistan;169;uranium;;2017;3400
+Zambia;169;uranium;;2017;
+Australia;169;uranium;;2018;6562
+Brazil;169;uranium;;2018;0
+Canada;169;uranium;;2018;7320
+China;169;uranium;;2018;1885
+Czech Republic;169;uranium;;2018;34
+Germany;169;uranium;;2018;0
+India;169;uranium;;2018;423
+Iran;169;uranium;;2018;71
+Kazakhstan;169;uranium;;2018;21705
+Malawi;169;uranium;;2018;
+Namibia;169;uranium;;2018;5882
+Niger;169;uranium;;2018;2910
+Pakistan;169;uranium;;2018;45
+Romania;169;uranium;;2018;0
+Russia;169;uranium;;2018;2904
+South Africa;169;uranium;;2018;196
+USA;169;uranium;;2018;582
+Ukraine;169;uranium;;2018;790
+Uzbekistan;169;uranium;;2018;3450
+Zambia;169;uranium;;2018;
+Australia;169;uranium;;2019;6553
+Brazil;169;uranium;;2019;0
+Canada;169;uranium;;2019;6871
+China;169;uranium;;2019;1885
+Czech Republic;169;uranium;;2019;33
+Germany;169;uranium;;2019;24
+India;169;uranium;;2019;308
+Iran;169;uranium;;2019;71
+Kazakhstan;169;uranium;;2019;22808
+Malawi;169;uranium;;2019;
+Namibia;169;uranium;;2019;5622
+Niger;169;uranium;;2019;2863
+Pakistan;169;uranium;;2019;45
+Romania;169;uranium;;2019;0
+Russia;169;uranium;;2019;2911
+South Africa;169;uranium;;2019;163
+USA;169;uranium;;2019;58
+Ukraine;169;uranium;;2019;801
+Uzbekistan;169;uranium;;2019;3500
+Zambia;169;uranium;;2019;
+Australia;169;uranium;;2020;6168
+Brazil;169;uranium;;2020;15
+Canada;169;uranium;;2020;4085
+China;169;uranium;;2020;1885
+Czech Republic;169;uranium;;2020;29
+Germany;169;uranium;;2020;8
+India;169;uranium;;2020;400
+Iran;169;uranium;;2020;71
+Kazakhstan;169;uranium;;2020;19477
+Malawi;169;uranium;;2020;
+Namibia;169;uranium;;2020;4204
+Niger;169;uranium;;2020;2991
+Pakistan;169;uranium;;2020;45
+Romania;169;uranium;;2020;0
+Russia;169;uranium;;2020;2846
+South Africa;169;uranium;;2020;124
+USA;169;uranium;;2020;6
+Ukraine;169;uranium;;2020;744
+Uzbekistan;169;uranium;;2020;3500
+Zambia;169;uranium;;2020;
+Australia;169;uranium;;2021;3794
+Brazil;169;uranium;;2021;29
+Canada;169;uranium;;2021;4616
+China;169;uranium;;2021;1885
+Czech Republic;169;uranium;;2021;27
+Germany;169;uranium;;2021;0
+India;169;uranium;;2021;615
+Iran;169;uranium;;2021;71
+Kazakhstan;169;uranium;;2021;21819
+Malawi;169;uranium;;2021;
+Namibia;169;uranium;;2021;5754
+Niger;169;uranium;;2021;2282
+Pakistan;169;uranium;;2021;45
+Romania;169;uranium;;2021;
+Russia;169;uranium;;2021;2635
+South Africa;169;uranium;;2021;153
+USA;169;uranium;;2021;8
+Ukraine;169;uranium;;2021;455
+Uzbekistan;169;uranium;;2021;3500
+Zambia;169;uranium;;2021;

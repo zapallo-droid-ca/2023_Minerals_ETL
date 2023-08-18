@@ -1,0 +1,211 @@
+Country;commodity_code;commodity_desc;Sub-commodity;year;value
+Argentina;169;uranium;;1982;572
+Australia;169;uranium;;1982;4422
+Belgium;169;uranium;;1982;44
+Brazil;169;uranium;;1982;243
+Canada;169;uranium;;1982;7643
+China;169;uranium;;1982;
+Czechoslovakia;169;uranium;;1982;
+France;169;uranium;;1982;2872
+Gabon;169;uranium;;1982;970
+German Federal Republic;169;uranium;;1982;34
+Germany;169;uranium;;1982;
+Hungary;169;uranium;;1982;
+India;169;uranium;;1982;99
+Namibia;169;uranium;;1982;3777
+Niger;169;uranium;;1982;4257
+Portugal;169;uranium;;1982;100
+South Africa;169;uranium;;1982;5792
+Soviet Union;169;uranium;;1982;
+Spain;169;uranium;;1982;155
+USA;169;uranium;;1982;10300
+Yugoslavia;169;uranium;;1982;0
+Argentina;169;uranium;;1983;172
+Australia;169;uranium;;1983;3211
+Belgium;169;uranium;;1983;43
+Brazil;169;uranium;;1983;194
+Canada;169;uranium;;1983;6823
+China;169;uranium;;1983;
+Czechoslovakia;169;uranium;;1983;
+France;169;uranium;;1983;3132
+Gabon;169;uranium;;1983;1009
+German Federal Republic;169;uranium;;1983;48
+Germany;169;uranium;;1983;
+Hungary;169;uranium;;1983;
+India;169;uranium;;1983;103
+Namibia;169;uranium;;1983;3713
+Niger;169;uranium;;1983;3429
+Portugal;169;uranium;;1983;93
+South Africa;169;uranium;;1983;6039
+Soviet Union;169;uranium;;1983;
+Spain;169;uranium;;1983;175
+USA;169;uranium;;1983;8200
+Yugoslavia;169;uranium;;1983;0
+Argentina;169;uranium;;1984;129
+Australia;169;uranium;;1984;4324
+Belgium;169;uranium;;1984;50
+Brazil;169;uranium;;1984;117
+Canada;169;uranium;;1984;10272
+China;169;uranium;;1984;
+Czechoslovakia;169;uranium;;1984;
+France;169;uranium;;1984;3117
+Gabon;169;uranium;;1984;918
+German Federal Republic;169;uranium;;1984;33
+Germany;169;uranium;;1984;
+Hungary;169;uranium;;1984;
+India;169;uranium;;1984;100
+Namibia;169;uranium;;1984;3800
+Niger;169;uranium;;1984;3273
+Portugal;169;uranium;;1984;103
+South Africa;169;uranium;;1984;5732
+Soviet Union;169;uranium;;1984;
+Spain;169;uranium;;1984;191
+USA;169;uranium;;1984;5700
+Yugoslavia;169;uranium;;1984;40
+Argentina;169;uranium;;1985;126
+Australia;169;uranium;;1985;3206
+Belgium;169;uranium;;1985;44
+Brazil;169;uranium;;1985;72
+Canada;169;uranium;;1985;10866
+China;169;uranium;;1985;
+Czechoslovakia;169;uranium;;1985;
+France;169;uranium;;1985;3248
+Gabon;169;uranium;;1985;939
+German Federal Republic;169;uranium;;1985;31
+Germany;169;uranium;;1985;
+Hungary;169;uranium;;1985;
+India;169;uranium;;1985;115
+Namibia;169;uranium;;1985;3400
+Niger;169;uranium;;1985;3181
+Portugal;169;uranium;;1985;105
+South Africa;169;uranium;;1985;4877
+Soviet Union;169;uranium;;1985;
+Spain;169;uranium;;1985;201
+USA;169;uranium;;1985;4300
+Yugoslavia;169;uranium;;1985;29
+Argentina;169;uranium;;1986;173
+Australia;169;uranium;;1986;4154
+Belgium;169;uranium;;1986;50
+Brazil;169;uranium;;1986;26
+Canada;169;uranium;;1986;11722
+China;169;uranium;;1986;
+Czechoslovakia;169;uranium;;1986;
+France;169;uranium;;1986;3237
+Gabon;169;uranium;;1986;917
+German Federal Republic;169;uranium;;1986;22
+Germany;169;uranium;;1986;
+Hungary;169;uranium;;1986;
+India;169;uranium;;1986;125
+Namibia;169;uranium;;1986;3500
+Niger;169;uranium;;1986;3113
+Portugal;169;uranium;;1986;99
+South Africa;169;uranium;;1986;4630
+Soviet Union;169;uranium;;1986;
+Spain;169;uranium;;1986;214
+USA;169;uranium;;1986;5200
+Yugoslavia;169;uranium;;1986;68
+Argentina;169;uranium;;1987;95
+Australia;169;uranium;;1987;3780
+Belgium;169;uranium;;1987;54
+Brazil;169;uranium;;1987;104
+Canada;169;uranium;;1987;12437
+China;169;uranium;;1987;
+Czechoslovakia;169;uranium;;1987;
+France;169;uranium;;1987;3376
+Gabon;169;uranium;;1987;794
+German Federal Republic;169;uranium;;1987;
+Germany;169;uranium;;1987;
+Hungary;169;uranium;;1987;
+India;169;uranium;;1987;127
+Namibia;169;uranium;;1987;3540
+Niger;169;uranium;;1987;2968
+Portugal;169;uranium;;1987;126
+South Africa;169;uranium;;1987;3965
+Soviet Union;169;uranium;;1987;
+Spain;169;uranium;;1987;223
+USA;169;uranium;;1987;5000
+Yugoslavia;169;uranium;;1987;70
+Argentina;169;uranium;;1988;142
+Australia;169;uranium;;1988;3532
+Belgium;169;uranium;;1988;
+Brazil;169;uranium;;1988;15
+Canada;169;uranium;;1988;12461
+China;169;uranium;;1988;344
+Czechoslovakia;169;uranium;;1988;
+France;169;uranium;;1988;3370
+Gabon;169;uranium;;1988;930
+German Federal Republic;169;uranium;;1988;
+Germany;169;uranium;;1988;
+Hungary;169;uranium;;1988;
+India;169;uranium;;1988;120
+Namibia;169;uranium;;1988;3510
+Niger;169;uranium;;1988;2962
+Portugal;169;uranium;;1988;142
+South Africa;169;uranium;;1988;3886
+Soviet Union;169;uranium;;1988;
+Spain;169;uranium;;1988;228
+USA;169;uranium;;1988;5051
+Yugoslavia;169;uranium;;1988;79
+Argentina;169;uranium;;1989;52
+Australia;169;uranium;;1989;3800
+Belgium;169;uranium;;1989;
+Brazil;169;uranium;;1989;30
+Canada;169;uranium;;1989;11427
+China;169;uranium;;1989;800
+Czechoslovakia;169;uranium;;1989;
+France;169;uranium;;1989;3334
+Gabon;169;uranium;;1989;890
+German Federal Republic;169;uranium;;1989;
+Germany;169;uranium;;1989;
+Hungary;169;uranium;;1989;
+India;169;uranium;;1989;210
+Namibia;169;uranium;;1989;3186
+Niger;169;uranium;;1989;2980
+Portugal;169;uranium;;1989;129
+South Africa;169;uranium;;1989;2931
+Soviet Union;169;uranium;;1989;
+Spain;169;uranium;;1989;228
+USA;169;uranium;;1989;5308
+Yugoslavia;169;uranium;;1989;85
+Argentina;169;uranium;;1990;9
+Australia;169;uranium;;1990;3530
+Belgium;169;uranium;;1990;
+Brazil;169;uranium;;1990;5
+Canada;169;uranium;;1990;8770
+China;169;uranium;;1990;800
+Czechoslovakia;169;uranium;;1990;2142
+France;169;uranium;;1990;2935
+Gabon;169;uranium;;1990;709
+German Federal Republic;169;uranium;;1990;
+Germany;169;uranium;;1990;
+Hungary;169;uranium;;1990;
+India;169;uranium;;1990;210
+Namibia;169;uranium;;1990;3325
+Niger;169;uranium;;1990;2832
+Portugal;169;uranium;;1990;111
+South Africa;169;uranium;;1990;2438
+Soviet Union;169;uranium;;1990;10500
+Spain;169;uranium;;1990;164
+USA;169;uranium;;1990;3430
+Yugoslavia;169;uranium;;1990;53
+Argentina;169;uranium;;1991;18
+Australia;169;uranium;;1991;3776
+Belgium;169;uranium;;1991;
+Brazil;169;uranium;;1991;0
+Canada;169;uranium;;1991;8161
+China;169;uranium;;1991;800
+Czechoslovakia;169;uranium;;1991;1778
+France;169;uranium;;1991;2479
+Gabon;169;uranium;;1991;678
+German Federal Republic;169;uranium;;1991;
+Germany;169;uranium;;1991;1207
+Hungary;169;uranium;;1991;417
+India;169;uranium;;1991;200
+Namibia;169;uranium;;1991;2450
+Niger;169;uranium;;1991;2964
+Portugal;169;uranium;;1991;27
+South Africa;169;uranium;;1991;1725
+Soviet Union;169;uranium;;1991;10500
+Spain;169;uranium;;1991;195
+USA;169;uranium;;1991;3059
+Yugoslavia;169;uranium;;1991;5

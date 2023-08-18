@@ -1,0 +1,991 @@
+Country;commodity_code;commodity_desc;Sub-commodity;year;value
+Albania;73;steel crude;;2002;80924
+Algeria;73;steel crude;;2002;1091000
+Argentina;73;steel crude;;2002;4363367
+Australia;73;steel crude;;2002;8874000
+Austria;73;steel crude;;2002;6189000
+Azerbaijan;73;steel crude;;2002;4600
+Belarus;73;steel crude;;2002;1607000
+Belgium;73;steel crude;;2002;11322008
+Bosnia & Herzegovina;73;steel crude;;2002;70000
+Brazil;73;steel crude;;2002;29604000
+Bulgaria;73;steel crude;;2002;1860000
+Canada;73;steel crude;;2002;15906747
+Chile;73;steel crude;;2002;1279549
+China;73;steel crude;;2002;182366000
+Colombia;73;steel crude;;2002;662859
+Congo, Democratic Republic;73;steel crude;;2002;
+Croatia;73;steel crude;;2002;33851
+Cuba;73;steel crude;;2002;264100
+Czech Republic;73;steel crude;;2002;6511970
+Denmark;73;steel crude;;2002;392000
+Dominican Republic;73;steel crude;;2002;60956
+Ecuador;73;steel crude;;2002;67233
+Egypt;73;steel crude;;2002;4316000
+El Salvador;73;steel crude;;2002;48832
+Estonia;73;steel crude;;2002;
+Ethiopia;73;steel crude;;2002;
+Finland;73;steel crude;;2002;4002914
+France;73;steel crude;;2002;20258473
+Germany;73;steel crude;;2002;45015000
+Ghana;73;steel crude;;2002;
+Greece;73;steel crude;;2002;1835000
+Guatemala;73;steel crude;;2002;216000
+Hong Kong;73;steel crude;;2002;100000
+Hungary;73;steel crude;;2002;2138146
+India;73;steel crude;;2002;28814000
+Indonesia;73;steel crude;;2002;2459928
+Iran;73;steel crude;;2002;7477086
+Israel;73;steel crude;;2002;150000
+Italy;73;steel crude;;2002;26302000
+Japan;73;steel crude;;2002;107745000
+Jordan;73;steel crude;;2002;134000
+Kazakhstan;73;steel crude;;2002;4866000
+Kenya;73;steel crude;;2002;
+Korea (Rep. of);73;steel crude;;2002;45389834
+Korea, Dem. P.R. of;73;steel crude;;2002;300000
+Kosovo;73;steel crude;;2002;
+Kuwait;73;steel crude;;2002;0
+Latvia;73;steel crude;;2002;507000
+Libya;73;steel crude;;2002;886000
+Luxembourg;73;steel crude;;2002;2736000
+Malaysia;73;steel crude;;2002;4721800
+Mali;73;steel crude;;2002;
+Mauritania;73;steel crude;;2002;
+Mexico;73;steel crude;;2002;14010000
+Moldova;73;steel crude;;2002;514000
+Mongolia;73;steel crude;;2002;
+Montenegro;73;steel crude;;2002;0
+Morocco;73;steel crude;;2002;
+Myanmar;73;steel crude;;2002;
+Netherlands;73;steel crude;;2002;6117000
+New Zealand;73;steel crude;;2002;765000
+Nigeria;73;steel crude;;2002;
+North Macedonia;73;steel crude;;2002;261398
+Norway;73;steel crude;;2002;698000
+Pakistan;73;steel crude;;2002;500000
+Paraguay;73;steel crude;;2002;79984
+Peru;73;steel crude;;2002;611363
+Philippines;73;steel crude;;2002;550000
+Poland;73;steel crude;;2002;8367434
+Portugal;73;steel crude;;2002;894000
+Qatar;73;steel crude;;2002;1027000
+Romania;73;steel crude;;2002;5490434
+Russia;73;steel crude;;2002;59882574
+Saudi Arabia;73;steel crude;;2002;3570000
+Serbia;73;steel crude;;2002;0
+Serbia and Montenegro;73;steel crude;;2002;595547
+Singapore;73;steel crude;;2002;545000
+Slovakia;73;steel crude;;2002;4275470
+Slovenia;73;steel crude;;2002;481000
+South Africa;73;steel crude;;2002;9095000
+Spain;73;steel crude;;2002;16408000
+Sweden;73;steel crude;;2002;5753300
+Switzerland;73;steel crude;;2002;1000000
+Syria;73;steel crude;;2002;70000
+Taiwan;73;steel crude;;2002;18226044
+Thailand;73;steel crude;;2002;2538000
+Trinidad & Tobago;73;steel crude;;2002;816900
+Tunisia;73;steel crude;;2002;200500
+Turkey;73;steel crude;;2002;16045522
+USA;73;steel crude;;2002;91588000
+Uganda;73;steel crude;;2002;
+Ukraine;73;steel crude;;2002;34050000
+United Arab Emirates;73;steel crude;;2002;90000
+United Kingdom;73;steel crude;;2002;11527600
+Uruguay;73;steel crude;;2002;34400
+Uzbekistan;73;steel crude;;2002;450000
+Venezuela;73;steel crude;;2002;4163855
+Vietnam;73;steel crude;;2002;408196
+Zimbabwe;73;steel crude;;2002;105000
+Albania;73;steel crude;;2003;86117
+Algeria;73;steel crude;;2003;1051000
+Argentina;73;steel crude;;2003;5033200
+Australia;73;steel crude;;2003;9661000
+Austria;73;steel crude;;2003;6261000
+Azerbaijan;73;steel crude;;2003;32700
+Belarus;73;steel crude;;2003;1572868
+Belgium;73;steel crude;;2003;11114775
+Bosnia & Herzegovina;73;steel crude;;2003;95000
+Brazil;73;steel crude;;2003;31147000
+Bulgaria;73;steel crude;;2003;1950000
+Canada;73;steel crude;;2003;15831473
+Chile;73;steel crude;;2003;1377400
+China;73;steel crude;;2003;222336000
+Colombia;73;steel crude;;2003;668400
+Congo, Democratic Republic;73;steel crude;;2003;
+Croatia;73;steel crude;;2003;43380
+Cuba;73;steel crude;;2003;210000
+Czech Republic;73;steel crude;;2003;6783000
+Denmark;73;steel crude;;2003;
+Dominican Republic;73;steel crude;;2003;61000
+Ecuador;73;steel crude;;2003;79800
+Egypt;73;steel crude;;2003;4398000
+El Salvador;73;steel crude;;2003;56900
+Estonia;73;steel crude;;2003;
+Ethiopia;73;steel crude;;2003;
+Finland;73;steel crude;;2003;4766203
+France;73;steel crude;;2003;19757864
+Germany;73;steel crude;;2003;44809000
+Ghana;73;steel crude;;2003;
+Greece;73;steel crude;;2003;1701000
+Guatemala;73;steel crude;;2003;226000
+Hong Kong;73;steel crude;;2003;100000
+Hungary;73;steel crude;;2003;2044526
+India;73;steel crude;;2003;31779000
+Indonesia;73;steel crude;;2003;2042233
+Iran;73;steel crude;;2003;7990971
+Israel;73;steel crude;;2003;150000
+Italy;73;steel crude;;2003;27058000
+Japan;73;steel crude;;2003;110510520
+Jordan;73;steel crude;;2003;135000
+Kazakhstan;73;steel crude;;2003;5069400
+Kenya;73;steel crude;;2003;
+Korea (Rep. of);73;steel crude;;2003;46309629
+Korea, Dem. P.R. of;73;steel crude;;2003;1400000
+Kosovo;73;steel crude;;2003;
+Kuwait;73;steel crude;;2003;100000
+Latvia;73;steel crude;;2003;546000
+Libya;73;steel crude;;2003;1007000
+Luxembourg;73;steel crude;;2003;2675000
+Malaysia;73;steel crude;;2003;3960000
+Mali;73;steel crude;;2003;
+Mauritania;73;steel crude;;2003;
+Mexico;73;steel crude;;2003;15158768
+Moldova;73;steel crude;;2003;850000
+Mongolia;73;steel crude;;2003;
+Montenegro;73;steel crude;;2003;0
+Morocco;73;steel crude;;2003;
+Myanmar;73;steel crude;;2003;
+Netherlands;73;steel crude;;2003;6561000
+New Zealand;73;steel crude;;2003;853000
+Nigeria;73;steel crude;;2003;
+North Macedonia;73;steel crude;;2003;306635
+Norway;73;steel crude;;2003;703000
+Pakistan;73;steel crude;;2003;1000000
+Paraguay;73;steel crude;;2003;91000
+Peru;73;steel crude;;2003;668400
+Philippines;73;steel crude;;2003;500000
+Poland;73;steel crude;;2003;9107384
+Portugal;73;steel crude;;2003;1000000
+Qatar;73;steel crude;;2003;1055000
+Romania;73;steel crude;;2003;5692496
+Russia;73;steel crude;;2003;62839334
+Saudi Arabia;73;steel crude;;2003;3944000
+Serbia;73;steel crude;;2003;0
+Serbia and Montenegro;73;steel crude;;2003;722376
+Singapore;73;steel crude;;2003;561000
+Slovakia;73;steel crude;;2003;4588000
+Slovenia;73;steel crude;;2003;541000
+South Africa;73;steel crude;;2003;9481000
+Spain;73;steel crude;;2003;16407000
+Sweden;73;steel crude;;2003;5708500
+Switzerland;73;steel crude;;2003;1000000
+Syria;73;steel crude;;2003;70000
+Taiwan;73;steel crude;;2003;18828323
+Thailand;73;steel crude;;2003;3551000
+Trinidad & Tobago;73;steel crude;;2003;896000
+Tunisia;73;steel crude;;2003;85600
+Turkey;73;steel crude;;2003;17644020
+USA;73;steel crude;;2003;93677000
+Uganda;73;steel crude;;2003;
+Ukraine;73;steel crude;;2003;36922000
+United Arab Emirates;73;steel crude;;2003;90000
+United Kingdom;73;steel crude;;2003;13128500
+Uruguay;73;steel crude;;2003;40500
+Uzbekistan;73;steel crude;;2003;499000
+Venezuela;73;steel crude;;2003;3930300
+Vietnam;73;steel crude;;2003;543006
+Zimbabwe;73;steel crude;;2003;152000
+Albania;73;steel crude;;2004;120000
+Algeria;73;steel crude;;2004;1014000
+Argentina;73;steel crude;;2004;5125200
+Australia;73;steel crude;;2004;8104000
+Austria;73;steel crude;;2004;6529000
+Azerbaijan;73;steel crude;;2004;90400
+Belarus;73;steel crude;;2004;1920019
+Belgium;73;steel crude;;2004;11697000
+Bosnia & Herzegovina;73;steel crude;;2004;75000
+Brazil;73;steel crude;;2004;32909000
+Bulgaria;73;steel crude;;2004;2106000
+Canada;73;steel crude;;2004;16428000
+Chile;73;steel crude;;2004;1579000
+China;73;steel crude;;2004;282911000
+Colombia;73;steel crude;;2004;806000
+Congo, Democratic Republic;73;steel crude;;2004;
+Croatia;73;steel crude;;2004;85947
+Cuba;73;steel crude;;2004;193151
+Czech Republic;73;steel crude;;2004;7033000
+Denmark;73;steel crude;;2004;
+Dominican Republic;73;steel crude;;2004;61000
+Ecuador;73;steel crude;;2004;71600
+Egypt;73;steel crude;;2004;4810000
+El Salvador;73;steel crude;;2004;60000
+Estonia;73;steel crude;;2004;
+Ethiopia;73;steel crude;;2004;
+Finland;73;steel crude;;2004;4832427
+France;73;steel crude;;2004;20770252
+Germany;73;steel crude;;2004;46374000
+Ghana;73;steel crude;;2004;
+Greece;73;steel crude;;2004;1967000
+Guatemala;73;steel crude;;2004;232000
+Hong Kong;73;steel crude;;2004;
+Hungary;73;steel crude;;2004;1944017
+India;73;steel crude;;2004;32626000
+Indonesia;73;steel crude;;2004;3681865
+Iran;73;steel crude;;2004;8682000
+Israel;73;steel crude;;2004;280000
+Italy;73;steel crude;;2004;28603000
+Japan;73;steel crude;;2004;112717664
+Jordan;73;steel crude;;2004;140000
+Kazakhstan;73;steel crude;;2004;5371698
+Kenya;73;steel crude;;2004;
+Korea (Rep. of);73;steel crude;;2004;47520871
+Korea, Dem. P.R. of;73;steel crude;;2004;1400000
+Kosovo;73;steel crude;;2004;
+Kuwait;73;steel crude;;2004;200000
+Latvia;73;steel crude;;2004;550000
+Libya;73;steel crude;;2004;1026000
+Luxembourg;73;steel crude;;2004;2684000
+Malaysia;73;steel crude;;2004;5698000
+Mali;73;steel crude;;2004;
+Mauritania;73;steel crude;;2004;
+Mexico;73;steel crude;;2004;16737037
+Moldova;73;steel crude;;2004;1011000
+Mongolia;73;steel crude;;2004;35000
+Montenegro;73;steel crude;;2004;0
+Morocco;73;steel crude;;2004;
+Myanmar;73;steel crude;;2004;
+Netherlands;73;steel crude;;2004;6848000
+New Zealand;73;steel crude;;2004;885000
+Nigeria;73;steel crude;;2004;40000
+North Macedonia;73;steel crude;;2004;319873
+Norway;73;steel crude;;2004;725000
+Pakistan;73;steel crude;;2004;1145000
+Paraguay;73;steel crude;;2004;115200
+Peru;73;steel crude;;2004;726300
+Philippines;73;steel crude;;2004;400000
+Poland;73;steel crude;;2004;10578482
+Portugal;73;steel crude;;2004;1400000
+Qatar;73;steel crude;;2004;1089000
+Romania;73;steel crude;;2004;6076600
+Russia;73;steel crude;;2004;65582851
+Saudi Arabia;73;steel crude;;2004;3902000
+Serbia;73;steel crude;;2004;0
+Serbia and Montenegro;73;steel crude;;2004;1175000
+Singapore;73;steel crude;;2004;610000
+Slovakia;73;steel crude;;2004;4454000
+Slovenia;73;steel crude;;2004;565000
+South Africa;73;steel crude;;2004;9500000
+Spain;73;steel crude;;2004;17700000
+Sweden;73;steel crude;;2004;5978000
+Switzerland;73;steel crude;;2004;1000000
+Syria;73;steel crude;;2004;70000
+Taiwan;73;steel crude;;2004;19592755
+Thailand;73;steel crude;;2004;4533000
+Trinidad & Tobago;73;steel crude;;2004;789800
+Tunisia;73;steel crude;;2004;69900
+Turkey;73;steel crude;;2004;19868118
+USA;73;steel crude;;2004;99681000
+Uganda;73;steel crude;;2004;
+Ukraine;73;steel crude;;2004;38738000
+United Arab Emirates;73;steel crude;;2004;90000
+United Kingdom;73;steel crude;;2004;13765700
+Uruguay;73;steel crude;;2004;58000
+Uzbekistan;73;steel crude;;2004;602000
+Venezuela;73;steel crude;;2004;4561000
+Vietnam;73;steel crude;;2004;689000
+Zimbabwe;73;steel crude;;2004;135000
+Albania;73;steel crude;;2005;179524
+Algeria;73;steel crude;;2005;1007000
+Argentina;73;steel crude;;2005;5382000
+Australia;73;steel crude;;2005;7789000
+Austria;73;steel crude;;2005;7031000
+Azerbaijan;73;steel crude;;2005;286100
+Belarus;73;steel crude;;2005;2075523
+Belgium;73;steel crude;;2005;10422000
+Bosnia & Herzegovina;73;steel crude;;2005;289000
+Brazil;73;steel crude;;2005;31610000
+Bulgaria;73;steel crude;;2005;1969000
+Canada;73;steel crude;;2005;15327000
+Chile;73;steel crude;;2005;1541000
+China;73;steel crude;;2005;353240000
+Colombia;73;steel crude;;2005;1007000
+Congo, Democratic Republic;73;steel crude;;2005;
+Croatia;73;steel crude;;2005;73640
+Cuba;73;steel crude;;2005;245076
+Czech Republic;73;steel crude;;2005;6189000
+Denmark;73;steel crude;;2005;
+Dominican Republic;73;steel crude;;2005;66000
+Ecuador;73;steel crude;;2005;82500
+Egypt;73;steel crude;;2005;5603000
+El Salvador;73;steel crude;;2005;48000
+Estonia;73;steel crude;;2005;
+Ethiopia;73;steel crude;;2005;
+Finland;73;steel crude;;2005;4738446
+France;73;steel crude;;2005;19480777
+Germany;73;steel crude;;2005;44524000
+Ghana;73;steel crude;;2005;
+Greece;73;steel crude;;2005;2266000
+Guatemala;73;steel crude;;2005;207000
+Hong Kong;73;steel crude;;2005;
+Hungary;73;steel crude;;2005;2004250
+India;73;steel crude;;2005;45780000
+Indonesia;73;steel crude;;2005;3675442
+Iran;73;steel crude;;2005;9404000
+Israel;73;steel crude;;2005;300000
+Italy;73;steel crude;;2005;29349000
+Japan;73;steel crude;;2005;112471374
+Jordan;73;steel crude;;2005;150000
+Kazakhstan;73;steel crude;;2005;4476642
+Kenya;73;steel crude;;2005;
+Korea (Rep. of);73;steel crude;;2005;47820037
+Korea, Dem. P.R. of;73;steel crude;;2005;1400000
+Kosovo;73;steel crude;;2005;
+Kuwait;73;steel crude;;2005;450000
+Latvia;73;steel crude;;2005;550000
+Libya;73;steel crude;;2005;1255000
+Luxembourg;73;steel crude;;2005;2194000
+Malaysia;73;steel crude;;2005;5296000
+Mali;73;steel crude;;2005;
+Mauritania;73;steel crude;;2005;
+Mexico;73;steel crude;;2005;16282299
+Moldova;73;steel crude;;2005;1016000
+Mongolia;73;steel crude;;2005;35000
+Montenegro;73;steel crude;;2005;0
+Morocco;73;steel crude;;2005;205000
+Myanmar;73;steel crude;;2005;25000
+Netherlands;73;steel crude;;2005;6919000
+New Zealand;73;steel crude;;2005;889000
+Nigeria;73;steel crude;;2005;100000
+North Macedonia;73;steel crude;;2005;321170
+Norway;73;steel crude;;2005;705000
+Pakistan;73;steel crude;;2005;825000
+Paraguay;73;steel crude;;2005;100600
+Peru;73;steel crude;;2005;789500
+Philippines;73;steel crude;;2005;470000
+Poland;73;steel crude;;2005;8335898
+Portugal;73;steel crude;;2005;1338000
+Qatar;73;steel crude;;2005;1057000
+Romania;73;steel crude;;2005;6280000
+Russia;73;steel crude;;2005;66300000
+Saudi Arabia;73;steel crude;;2005;4186000
+Serbia;73;steel crude;;2005;0
+Serbia and Montenegro;73;steel crude;;2005;1292000
+Singapore;73;steel crude;;2005;572000
+Slovakia;73;steel crude;;2005;4485000
+Slovenia;73;steel crude;;2005;583000
+South Africa;73;steel crude;;2005;9494000
+Spain;73;steel crude;;2005;17825000
+Sweden;73;steel crude;;2005;5725600
+Switzerland;73;steel crude;;2005;1158000
+Syria;73;steel crude;;2005;70000
+Taiwan;73;steel crude;;2005;18563247
+Thailand;73;steel crude;;2005;5161000
+Trinidad & Tobago;73;steel crude;;2005;712000
+Tunisia;73;steel crude;;2005;65700
+Turkey;73;steel crude;;2005;20961240
+USA;73;steel crude;;2005;94897000
+Uganda;73;steel crude;;2005;
+Ukraine;73;steel crude;;2005;38641000
+United Arab Emirates;73;steel crude;;2005;90000
+United Kingdom;73;steel crude;;2005;13238900
+Uruguay;73;steel crude;;2005;64000
+Uzbekistan;73;steel crude;;2005;595000
+Venezuela;73;steel crude;;2005;4907400
+Vietnam;73;steel crude;;2005;890000
+Zimbabwe;73;steel crude;;2005;107000
+Albania;73;steel crude;;2006;205534
+Algeria;73;steel crude;;2006;1158000
+Argentina;73;steel crude;;2006;5532700
+Australia;73;steel crude;;2006;7937000
+Austria;73;steel crude;;2006;7129000
+Azerbaijan;73;steel crude;;2006;335300
+Belarus;73;steel crude;;2006;2135651
+Belgium;73;steel crude;;2006;11631000
+Bosnia & Herzegovina;73;steel crude;;2006;469122
+Brazil;73;steel crude;;2006;30901000
+Bulgaria;73;steel crude;;2006;2102000
+Canada;73;steel crude;;2006;15493000
+Chile;73;steel crude;;2006;1607000
+China;73;steel crude;;2006;419148500
+Colombia;73;steel crude;;2006;1211000
+Congo, Democratic Republic;73;steel crude;;2006;
+Croatia;73;steel crude;;2006;80516
+Cuba;73;steel crude;;2006;258206
+Czech Republic;73;steel crude;;2006;6862000
+Denmark;73;steel crude;;2006;
+Dominican Republic;73;steel crude;;2006;81000
+Ecuador;73;steel crude;;2006;86400
+Egypt;73;steel crude;;2006;6045000
+El Salvador;73;steel crude;;2006;72000
+Estonia;73;steel crude;;2006;
+Ethiopia;73;steel crude;;2006;
+Finland;73;steel crude;;2006;5053714
+France;73;steel crude;;2006;19852125
+Germany;73;steel crude;;2006;47223000
+Ghana;73;steel crude;;2006;
+Greece;73;steel crude;;2006;2416000
+Guatemala;73;steel crude;;2006;292000
+Hong Kong;73;steel crude;;2006;
+Hungary;73;steel crude;;2006;2084000
+India;73;steel crude;;2006;49450000
+Indonesia;73;steel crude;;2006;3759000
+Iran;73;steel crude;;2006;9789000
+Israel;73;steel crude;;2006;300000
+Italy;73;steel crude;;2006;31624000
+Japan;73;steel crude;;2006;116226201
+Jordan;73;steel crude;;2006;150000
+Kazakhstan;73;steel crude;;2006;4244521
+Kenya;73;steel crude;;2006;
+Korea (Rep. of);73;steel crude;;2006;48455454
+Korea, Dem. P.R. of;73;steel crude;;2006;1400000
+Kosovo;73;steel crude;;2006;
+Kuwait;73;steel crude;;2006;500000
+Latvia;73;steel crude;;2006;690000
+Libya;73;steel crude;;2006;1151000
+Luxembourg;73;steel crude;;2006;2802000
+Malaysia;73;steel crude;;2006;5834000
+Mali;73;steel crude;;2006;
+Mauritania;73;steel crude;;2006;
+Mexico;73;steel crude;;2006;16446939
+Moldova;73;steel crude;;2006;784000
+Mongolia;73;steel crude;;2006;35000
+Montenegro;73;steel crude;;2006;193165
+Morocco;73;steel crude;;2006;314000
+Myanmar;73;steel crude;;2006;25000
+Netherlands;73;steel crude;;2006;6372000
+New Zealand;73;steel crude;;2006;810000
+Nigeria;73;steel crude;;2006;100000
+North Macedonia;73;steel crude;;2006;326484
+Norway;73;steel crude;;2006;684000
+Pakistan;73;steel crude;;2006;1040000
+Paraguay;73;steel crude;;2006;115000
+Peru;73;steel crude;;2006;896000
+Philippines;73;steel crude;;2006;558000
+Poland;73;steel crude;;2006;9991638
+Portugal;73;steel crude;;2006;1338000
+Qatar;73;steel crude;;2006;1039220
+Romania;73;steel crude;;2006;6266036
+Russia;73;steel crude;;2006;70800000
+Saudi Arabia;73;steel crude;;2006;3974000
+Serbia;73;steel crude;;2006;1630000
+Serbia and Montenegro;73;steel crude;;2006;
+Singapore;73;steel crude;;2006;607000
+Slovakia;73;steel crude;;2006;5093000
+Slovenia;73;steel crude;;2006;628000
+South Africa;73;steel crude;;2006;9721000
+Spain;73;steel crude;;2006;18391000
+Sweden;73;steel crude;;2006;5466100
+Switzerland;73;steel crude;;2006;1252000
+Syria;73;steel crude;;2006;70000
+Taiwan;73;steel crude;;2006;19974997
+Thailand;73;steel crude;;2006;4914000
+Trinidad & Tobago;73;steel crude;;2006;673000
+Tunisia;73;steel crude;;2006;67700
+Turkey;73;steel crude;;2006;23307523
+USA;73;steel crude;;2006;98557000
+Uganda;73;steel crude;;2006;
+Ukraine;73;steel crude;;2006;40892000
+United Arab Emirates;73;steel crude;;2006;90000
+United Kingdom;73;steel crude;;2006;13904600
+Uruguay;73;steel crude;;2006;56700
+Uzbekistan;73;steel crude;;2006;730000
+Venezuela;73;steel crude;;2006;4692800
+Vietnam;73;steel crude;;2006;1869000
+Zimbabwe;73;steel crude;;2006;24000
+Albania;73;steel crude;;2007;263271
+Algeria;73;steel crude;;2007;1278000
+Argentina;73;steel crude;;2007;5387600
+Australia;73;steel crude;;2007;8057000
+Austria;73;steel crude;;2007;7577000
+Azerbaijan;73;steel crude;;2007;468000
+Belarus;73;steel crude;;2007;2214019
+Belgium;73;steel crude;;2007;10692000
+Bosnia & Herzegovina;73;steel crude;;2007;513867
+Brazil;73;steel crude;;2007;33782000
+Bulgaria;73;steel crude;;2007;1909000
+Canada;73;steel crude;;2007;15572000
+Chile;73;steel crude;;2007;1678000
+China;73;steel crude;;2007;489288000
+Colombia;73;steel crude;;2007;1245000
+Congo, Democratic Republic;73;steel crude;;2007;
+Croatia;73;steel crude;;2007;76252
+Cuba;73;steel crude;;2007;263568
+Czech Republic;73;steel crude;;2007;7059000
+Denmark;73;steel crude;;2007;
+Dominican Republic;73;steel crude;;2007;75000
+Ecuador;73;steel crude;;2007;87100
+Egypt;73;steel crude;;2007;6224000
+El Salvador;73;steel crude;;2007;73000
+Estonia;73;steel crude;;2007;
+Ethiopia;73;steel crude;;2007;
+Finland;73;steel crude;;2007;4430726
+France;73;steel crude;;2007;19249862
+Germany;73;steel crude;;2007;48550000
+Ghana;73;steel crude;;2007;
+Greece;73;steel crude;;2007;2554000
+Guatemala;73;steel crude;;2007;349000
+Hong Kong;73;steel crude;;2007;
+Hungary;73;steel crude;;2007;2227000
+India;73;steel crude;;2007;53468000
+Indonesia;73;steel crude;;2007;4160000
+Iran;73;steel crude;;2007;10051000
+Israel;73;steel crude;;2007;300000
+Italy;73;steel crude;;2007;31506000
+Japan;73;steel crude;;2007;120202937
+Jordan;73;steel crude;;2007;150000
+Kazakhstan;73;steel crude;;2007;4784105
+Kenya;73;steel crude;;2007;
+Korea (Rep. of);73;steel crude;;2007;51517309
+Korea, Dem. P.R. of;73;steel crude;;2007;1400000
+Kosovo;73;steel crude;;2007;
+Kuwait;73;steel crude;;2007;500000
+Latvia;73;steel crude;;2007;696000
+Libya;73;steel crude;;2007;1250000
+Luxembourg;73;steel crude;;2007;2858000
+Malaysia;73;steel crude;;2007;6895000
+Mali;73;steel crude;;2007;
+Mauritania;73;steel crude;;2007;
+Mexico;73;steel crude;;2007;17572676
+Moldova;73;steel crude;;2007;965000
+Mongolia;73;steel crude;;2007;35000
+Montenegro;73;steel crude;;2007;173849
+Morocco;73;steel crude;;2007;512000
+Myanmar;73;steel crude;;2007;25000
+Netherlands;73;steel crude;;2007;7368000
+New Zealand;73;steel crude;;2007;845000
+Nigeria;73;steel crude;;2007;100000
+North Macedonia;73;steel crude;;2007;370317
+Norway;73;steel crude;;2007;708000
+Pakistan;73;steel crude;;2007;1090000
+Paraguay;73;steel crude;;2007;95000
+Peru;73;steel crude;;2007;881000
+Philippines;73;steel crude;;2007;718000
+Poland;73;steel crude;;2007;10630716
+Portugal;73;steel crude;;2007;1847000
+Qatar;73;steel crude;;2007;1174917
+Romania;73;steel crude;;2007;6269486
+Russia;73;steel crude;;2007;72400000
+Saudi Arabia;73;steel crude;;2007;4644000
+Serbia;73;steel crude;;2007;1478000
+Serbia and Montenegro;73;steel crude;;2007;
+Singapore;73;steel crude;;2007;640000
+Slovakia;73;steel crude;;2007;5082000
+Slovenia;73;steel crude;;2007;638000
+South Africa;73;steel crude;;2007;9098000
+Spain;73;steel crude;;2007;18998000
+Sweden;73;steel crude;;2007;5672900
+Switzerland;73;steel crude;;2007;1264000
+Syria;73;steel crude;;2007;70000
+Taiwan;73;steel crude;;2007;20700389
+Thailand;73;steel crude;;2007;5565000
+Trinidad & Tobago;73;steel crude;;2007;694600
+Tunisia;73;steel crude;;2007;60900
+Turkey;73;steel crude;;2007;25760889
+USA;73;steel crude;;2007;98102000
+Uganda;73;steel crude;;2007;
+Ukraine;73;steel crude;;2007;43646655
+United Arab Emirates;73;steel crude;;2007;90000
+United Kingdom;73;steel crude;;2007;14392300
+Uruguay;73;steel crude;;2007;71100
+Uzbekistan;73;steel crude;;2007;649000
+Venezuela;73;steel crude;;2007;5005300
+Vietnam;73;steel crude;;2007;2024000
+Zimbabwe;73;steel crude;;2007;23000
+Albania;73;steel crude;;2008;250000
+Algeria;73;steel crude;;2008;646000
+Argentina;73;steel crude;;2008;5541400
+Australia;73;steel crude;;2008;7724000
+Austria;73;steel crude;;2008;7594000
+Azerbaijan;73;steel crude;;2008;278100
+Belarus;73;steel crude;;2008;2478131
+Belgium;73;steel crude;;2008;10673000
+Bosnia & Herzegovina;73;steel crude;;2008;587878
+Brazil;73;steel crude;;2008;33716000
+Bulgaria;73;steel crude;;2008;1330000
+Canada;73;steel crude;;2008;14845000
+Chile;73;steel crude;;2008;1549000
+China;73;steel crude;;2008;503057500
+Colombia;73;steel crude;;2008;1053000
+Congo, Democratic Republic;73;steel crude;;2008;
+Croatia;73;steel crude;;2008;121759
+Cuba;73;steel crude;;2008;275584
+Czech Republic;73;steel crude;;2008;6387000
+Denmark;73;steel crude;;2008;
+Dominican Republic;73;steel crude;;2008;68000
+Ecuador;73;steel crude;;2008;128000
+Egypt;73;steel crude;;2008;6198000
+El Salvador;73;steel crude;;2008;71000
+Estonia;73;steel crude;;2008;0
+Ethiopia;73;steel crude;;2008;150000
+Finland;73;steel crude;;2008;4416792
+France;73;steel crude;;2008;17879161
+Germany;73;steel crude;;2008;45832000
+Ghana;73;steel crude;;2008;25000
+Greece;73;steel crude;;2008;2477000
+Guatemala;73;steel crude;;2008;250000
+Hong Kong;73;steel crude;;2008;
+Hungary;73;steel crude;;2008;2097000
+India;73;steel crude;;2008;57791000
+Indonesia;73;steel crude;;2008;3915000
+Iran;73;steel crude;;2008;9964000
+Israel;73;steel crude;;2008;300000
+Italy;73;steel crude;;2008;30590000
+Japan;73;steel crude;;2008;118739328
+Jordan;73;steel crude;;2008;150000
+Kazakhstan;73;steel crude;;2008;4243582
+Kenya;73;steel crude;;2008;
+Korea (Rep. of);73;steel crude;;2008;53322000
+Korea, Dem. P.R. of;73;steel crude;;2008;1300000
+Kosovo;73;steel crude;;2008;
+Kuwait;73;steel crude;;2008;500000
+Latvia;73;steel crude;;2008;635000
+Libya;73;steel crude;;2008;1137000
+Luxembourg;73;steel crude;;2008;2582000
+Malaysia;73;steel crude;;2008;6423000
+Mali;73;steel crude;;2008;
+Mauritania;73;steel crude;;2008;
+Mexico;73;steel crude;;2008;17209020
+Moldova;73;steel crude;;2008;885000
+Mongolia;73;steel crude;;2008;84900
+Montenegro;73;steel crude;;2008;201623
+Morocco;73;steel crude;;2008;478000
+Myanmar;73;steel crude;;2008;25000
+Netherlands;73;steel crude;;2008;6853000
+New Zealand;73;steel crude;;2008;799000
+Nigeria;73;steel crude;;2008;100000
+North Macedonia;73;steel crude;;2008;344866
+Norway;73;steel crude;;2008;560000
+Pakistan;73;steel crude;;2008;1000000
+Paraguay;73;steel crude;;2008;82800
+Peru;73;steel crude;;2008;1001000
+Philippines;73;steel crude;;2008;710669
+Poland;73;steel crude;;2008;9727325
+Portugal;73;steel crude;;2008;1630000
+Qatar;73;steel crude;;2008;1434652
+Romania;73;steel crude;;2008;5035164
+Russia;73;steel crude;;2008;68700000
+Saudi Arabia;73;steel crude;;2008;4667000
+Serbia;73;steel crude;;2008;1662000
+Serbia and Montenegro;73;steel crude;;2008;
+Singapore;73;steel crude;;2008;764000
+Slovakia;73;steel crude;;2008;4489000
+Slovenia;73;steel crude;;2008;642000
+South Africa;73;steel crude;;2008;8550000
+Spain;73;steel crude;;2008;18640000
+Sweden;73;steel crude;;2008;5197600
+Switzerland;73;steel crude;;2008;1312000
+Syria;73;steel crude;;2008;70000
+Taiwan;73;steel crude;;2008;19882000
+Thailand;73;steel crude;;2008;5211212
+Trinidad & Tobago;73;steel crude;;2008;489600
+Tunisia;73;steel crude;;2008;82200
+Turkey;73;steel crude;;2008;26809050
+USA;73;steel crude;;2008;91350000
+Uganda;73;steel crude;;2008;
+Ukraine;73;steel crude;;2008;38136117
+United Arab Emirates;73;steel crude;;2008;90000
+United Kingdom;73;steel crude;;2008;13520500
+Uruguay;73;steel crude;;2008;85700
+Uzbekistan;73;steel crude;;2008;682000
+Venezuela;73;steel crude;;2008;4224500
+Vietnam;73;steel crude;;2008;2250000
+Zimbabwe;73;steel crude;;2008;
+Albania;73;steel crude;;2009;221000
+Algeria;73;steel crude;;2009;543000
+Argentina;73;steel crude;;2009;4013000
+Australia;73;steel crude;;2009;5135000
+Austria;73;steel crude;;2009;5662000
+Azerbaijan;73;steel crude;;2009;78874
+Belarus;73;steel crude;;2009;2329694
+Belgium;73;steel crude;;2009;5635000
+Bosnia & Herzegovina;73;steel crude;;2009;495150
+Brazil;73;steel crude;;2009;26506000
+Bulgaria;73;steel crude;;2009;726000
+Canada;73;steel crude;;2009;9286000
+Chile;73;steel crude;;2009;1308000
+China;73;steel crude;;2009;572182300
+Colombia;73;steel crude;;2009;1052000
+Congo, Democratic Republic;73;steel crude;;2009;
+Croatia;73;steel crude;;2009;54266
+Cuba;73;steel crude;;2009;267752
+Czech Republic;73;steel crude;;2009;4594000
+Denmark;73;steel crude;;2009;
+Dominican Republic;73;steel crude;;2009;67000
+Ecuador;73;steel crude;;2009;259000
+Egypt;73;steel crude;;2009;5541000
+El Salvador;73;steel crude;;2009;56000
+Estonia;73;steel crude;;2009;0
+Ethiopia;73;steel crude;;2009;150000
+Finland;73;steel crude;;2009;3066000
+France;73;steel crude;;2009;12840108
+Germany;73;steel crude;;2009;32670000
+Ghana;73;steel crude;;2009;25000
+Greece;73;steel crude;;2009;2000000
+Guatemala;73;steel crude;;2009;224000
+Hong Kong;73;steel crude;;2009;
+Hungary;73;steel crude;;2009;1403000
+India;73;steel crude;;2009;63527000
+Indonesia;73;steel crude;;2009;3501000
+Iran;73;steel crude;;2009;10873000
+Israel;73;steel crude;;2009;300000
+Italy;73;steel crude;;2009;19848000
+Japan;73;steel crude;;2009;87534137
+Jordan;73;steel crude;;2009;150000
+Kazakhstan;73;steel crude;;2009;4146000
+Kenya;73;steel crude;;2009;20000
+Korea (Rep. of);73;steel crude;;2009;48572000
+Korea, Dem. P.R. of;73;steel crude;;2009;1255000
+Kosovo;73;steel crude;;2009;
+Kuwait;73;steel crude;;2009;500000
+Latvia;73;steel crude;;2009;692000
+Libya;73;steel crude;;2009;914000
+Luxembourg;73;steel crude;;2009;2141000
+Malaysia;73;steel crude;;2009;5354000
+Mali;73;steel crude;;2009;
+Mauritania;73;steel crude;;2009;5000
+Mexico;73;steel crude;;2009;14131810
+Moldova;73;steel crude;;2009;380000
+Mongolia;73;steel crude;;2009;53000
+Montenegro;73;steel crude;;2009;90404
+Morocco;73;steel crude;;2009;499000
+Myanmar;73;steel crude;;2009;25000
+Netherlands;73;steel crude;;2009;5194000
+New Zealand;73;steel crude;;2009;765000
+Nigeria;73;steel crude;;2009;100000
+North Macedonia;73;steel crude;;2009;299332
+Norway;73;steel crude;;2009;595000
+Pakistan;73;steel crude;;2009;800000
+Paraguay;73;steel crude;;2009;54000
+Peru;73;steel crude;;2009;718000
+Philippines;73;steel crude;;2009;824009
+Poland;73;steel crude;;2009;7128482
+Portugal;73;steel crude;;2009;1557000
+Qatar;73;steel crude;;2009;1472612
+Romania;73;steel crude;;2009;2772679
+Russia;73;steel crude;;2009;59200000
+Saudi Arabia;73;steel crude;;2009;4690000
+Serbia;73;steel crude;;2009;1054336
+Serbia and Montenegro;73;steel crude;;2009;
+Singapore;73;steel crude;;2009;664000
+Slovakia;73;steel crude;;2009;3747000
+Slovenia;73;steel crude;;2009;430000
+South Africa;73;steel crude;;2009;7484000
+Spain;73;steel crude;;2009;14358000
+Sweden;73;steel crude;;2009;2803700
+Switzerland;73;steel crude;;2009;934000
+Syria;73;steel crude;;2009;70000
+Taiwan;73;steel crude;;2009;15873000
+Thailand;73;steel crude;;2009;3645586
+Trinidad & Tobago;73;steel crude;;2009;417000
+Tunisia;73;steel crude;;2009;99500
+Turkey;73;steel crude;;2009;25303741
+USA;73;steel crude;;2009;58196000
+Uganda;73;steel crude;;2009;30000
+Ukraine;73;steel crude;;2009;30301844
+United Arab Emirates;73;steel crude;;2009;90000
+United Kingdom;73;steel crude;;2009;10074500
+Uruguay;73;steel crude;;2009;57000
+Uzbekistan;73;steel crude;;2009;716000
+Venezuela;73;steel crude;;2009;3808000
+Vietnam;73;steel crude;;2009;2700000
+Zimbabwe;73;steel crude;;2009;
+Albania;73;steel crude;;2010;390000
+Algeria;73;steel crude;;2010;662000
+Argentina;73;steel crude;;2010;5138500
+Australia;73;steel crude;;2010;7408000
+Austria;73;steel crude;;2010;7206000
+Azerbaijan;73;steel crude;;2010;129125
+Belarus;73;steel crude;;2010;2530829
+Belgium;73;steel crude;;2010;7973000
+Bosnia & Herzegovina;73;steel crude;;2010;590952
+Brazil;73;steel crude;;2010;32948000
+Bulgaria;73;steel crude;;2010;744000
+Canada;73;steel crude;;2010;13009000
+Chile;73;steel crude;;2010;1011000
+China;73;steel crude;;2010;637229900
+Colombia;73;steel crude;;2010;1207000
+Congo, Democratic Republic;73;steel crude;;2010;30000
+Croatia;73;steel crude;;2010;103429
+Cuba;73;steel crude;;2010;279040
+Czech Republic;73;steel crude;;2010;5180000
+Denmark;73;steel crude;;2010;
+Dominican Republic;73;steel crude;;2010;60000
+Ecuador;73;steel crude;;2010;357000
+Egypt;73;steel crude;;2010;6676000
+El Salvador;73;steel crude;;2010;64000
+Estonia;73;steel crude;;2010;0
+Ethiopia;73;steel crude;;2010;150000
+Finland;73;steel crude;;2010;4029000
+France;73;steel crude;;2010;15413577
+Germany;73;steel crude;;2010;43830000
+Ghana;73;steel crude;;2010;25000
+Greece;73;steel crude;;2010;1821000
+Guatemala;73;steel crude;;2010;274000
+Hong Kong;73;steel crude;;2010;
+Hungary;73;steel crude;;2010;1681000
+India;73;steel crude;;2010;70672000
+Indonesia;73;steel crude;;2010;3664000
+Iran;73;steel crude;;2010;11995000
+Israel;73;steel crude;;2010;300000
+Italy;73;steel crude;;2010;25750000
+Japan;73;steel crude;;2010;109598507
+Jordan;73;steel crude;;2010;150000
+Kazakhstan;73;steel crude;;2010;4220000
+Kenya;73;steel crude;;2010;20000
+Korea (Rep. of);73;steel crude;;2010;58914125
+Korea, Dem. P.R. of;73;steel crude;;2010;1300000
+Kosovo;73;steel crude;;2010;
+Kuwait;73;steel crude;;2010;500000
+Latvia;73;steel crude;;2010;655000
+Libya;73;steel crude;;2010;825000
+Luxembourg;73;steel crude;;2010;2548000
+Malaysia;73;steel crude;;2010;5694000
+Mali;73;steel crude;;2010;
+Mauritania;73;steel crude;;2010;5000
+Mexico;73;steel crude;;2010;16869675
+Moldova;73;steel crude;;2010;242000
+Mongolia;73;steel crude;;2010;68000
+Montenegro;73;steel crude;;2010;48272
+Morocco;73;steel crude;;2010;485000
+Myanmar;73;steel crude;;2010;25000
+Netherlands;73;steel crude;;2010;6651000
+New Zealand;73;steel crude;;2010;853000
+Nigeria;73;steel crude;;2010;100000
+North Macedonia;73;steel crude;;2010;344866
+Norway;73;steel crude;;2010;530000
+Pakistan;73;steel crude;;2010;800000
+Paraguay;73;steel crude;;2010;59000
+Peru;73;steel crude;;2010;867000
+Philippines;73;steel crude;;2010;1050000
+Poland;73;steel crude;;2010;7993025
+Portugal;73;steel crude;;2010;1543000
+Qatar;73;steel crude;;2010;1974937
+Romania;73;steel crude;;2010;3720775
+Russia;73;steel crude;;2010;66300000
+Saudi Arabia;73;steel crude;;2010;5015000
+Serbia;73;steel crude;;2010;1254386
+Serbia and Montenegro;73;steel crude;;2010;
+Singapore;73;steel crude;;2010;728000
+Slovakia;73;steel crude;;2010;4583000
+Slovenia;73;steel crude;;2010;606000
+South Africa;73;steel crude;;2010;7617000
+Spain;73;steel crude;;2010;16343000
+Sweden;73;steel crude;;2010;4845600
+Switzerland;73;steel crude;;2010;1320000
+Syria;73;steel crude;;2010;70000
+Taiwan;73;steel crude;;2010;18975000
+Thailand;73;steel crude;;2010;4144908
+Trinidad & Tobago;73;steel crude;;2010;571600
+Tunisia;73;steel crude;;2010;115100
+Turkey;73;steel crude;;2010;29029789
+USA;73;steel crude;;2010;80495000
+Uganda;73;steel crude;;2010;30000
+Ukraine;73;steel crude;;2010;33345586
+United Arab Emirates;73;steel crude;;2010;500000
+United Kingdom;73;steel crude;;2010;9708000
+Uruguay;73;steel crude;;2010;65000
+Uzbekistan;73;steel crude;;2010;716000
+Venezuela;73;steel crude;;2010;2207000
+Vietnam;73;steel crude;;2010;4314000
+Zimbabwe;73;steel crude;;2010;
+Albania;73;steel crude;;2011;464000
+Algeria;73;steel crude;;2011;551000
+Argentina;73;steel crude;;2011;5610500
+Australia;73;steel crude;;2011;6538000
+Austria;73;steel crude;;2011;7474000
+Azerbaijan;73;steel crude;;2011;234002
+Belarus;73;steel crude;;2011;2778792
+Belgium;73;steel crude;;2011;8026000
+Bosnia & Herzegovina;73;steel crude;;2011;649085
+Brazil;73;steel crude;;2011;35220000
+Bulgaria;73;steel crude;;2011;835000
+Canada;73;steel crude;;2011;12891000
+Chile;73;steel crude;;2011;1615000
+China;73;steel crude;;2011;685283100
+Colombia;73;steel crude;;2011;1244000
+Congo, Democratic Republic;73;steel crude;;2011;30000
+Croatia;73;steel crude;;2011;162709
+Cuba;73;steel crude;;2011;283982
+Czech Republic;73;steel crude;;2011;5583000
+Denmark;73;steel crude;;2011;
+Dominican Republic;73;steel crude;;2011;76000
+Ecuador;73;steel crude;;2011;463000
+Egypt;73;steel crude;;2011;6485000
+El Salvador;73;steel crude;;2011;97000
+Estonia;73;steel crude;;2011;
+Ethiopia;73;steel crude;;2011;130000
+Finland;73;steel crude;;2011;3989000
+France;73;steel crude;;2011;15780639
+Germany;73;steel crude;;2011;44284000
+Ghana;73;steel crude;;2011;25000
+Greece;73;steel crude;;2011;1934000
+Guatemala;73;steel crude;;2011;294000
+Hong Kong;73;steel crude;;2011;
+Hungary;73;steel crude;;2011;1729000
+India;73;steel crude;;2011;74291000
+Indonesia;73;steel crude;;2011;3621000
+Iran;73;steel crude;;2011;14037000
+Israel;73;steel crude;;2011;300000
+Italy;73;steel crude;;2011;28735000
+Japan;73;steel crude;;2011;107601194
+Jordan;73;steel crude;;2011;150000
+Kazakhstan;73;steel crude;;2011;4699000
+Kenya;73;steel crude;;2011;20000
+Korea (Rep. of);73;steel crude;;2011;68519191
+Korea, Dem. P.R. of;73;steel crude;;2011;1300000
+Kosovo;73;steel crude;;2011;
+Kuwait;73;steel crude;;2011;500000
+Latvia;73;steel crude;;2011;568000
+Libya;73;steel crude;;2011;100000
+Luxembourg;73;steel crude;;2011;2521000
+Malaysia;73;steel crude;;2011;5941000
+Mali;73;steel crude;;2011;
+Mauritania;73;steel crude;;2011;5000
+Mexico;73;steel crude;;2011;18110111
+Moldova;73;steel crude;;2011;321000
+Mongolia;73;steel crude;;2011;63600
+Montenegro;73;steel crude;;2011;61164
+Morocco;73;steel crude;;2011;654000
+Myanmar;73;steel crude;;2011;50000
+Netherlands;73;steel crude;;2011;6937000
+New Zealand;73;steel crude;;2011;844000
+Nigeria;73;steel crude;;2011;100000
+North Macedonia;73;steel crude;;2011;348576
+Norway;73;steel crude;;2011;610000
+Pakistan;73;steel crude;;2011;1592000
+Paraguay;73;steel crude;;2011;28000
+Peru;73;steel crude;;2011;882000
+Philippines;73;steel crude;;2011;1200000
+Poland;73;steel crude;;2011;8776458
+Portugal;73;steel crude;;2011;1942000
+Qatar;73;steel crude;;2011;2005000
+Romania;73;steel crude;;2011;3828000
+Russia;73;steel crude;;2011;68400000
+Saudi Arabia;73;steel crude;;2011;5275000
+Serbia;73;steel crude;;2011;1304954
+Serbia and Montenegro;73;steel crude;;2011;
+Singapore;73;steel crude;;2011;752000
+Slovakia;73;steel crude;;2011;4236000
+Slovenia;73;steel crude;;2011;648000
+South Africa;73;steel crude;;2011;7546000
+Spain;73;steel crude;;2011;15504000
+Sweden;73;steel crude;;2011;4867200
+Switzerland;73;steel crude;;2011;1400000
+Syria;73;steel crude;;2011;70000
+Taiwan;73;steel crude;;2011;21640000
+Thailand;73;steel crude;;2011;4256000
+Trinidad & Tobago;73;steel crude;;2011;603400
+Tunisia;73;steel crude;;2011;119200
+Turkey;73;steel crude;;2011;30562184
+USA;73;steel crude;;2011;86000000
+Uganda;73;steel crude;;2011;30000
+Ukraine;73;steel crude;;2011;35512156
+United Arab Emirates;73;steel crude;;2011;2000000
+United Kingdom;73;steel crude;;2011;9478000
+Uruguay;73;steel crude;;2011;81000
+Uzbekistan;73;steel crude;;2011;733000
+Venezuela;73;steel crude;;2011;2980000
+Vietnam;73;steel crude;;2011;4900000
+Zimbabwe;73;steel crude;;2011;

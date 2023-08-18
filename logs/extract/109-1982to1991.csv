@@ -1,0 +1,761 @@
+Country;commodity_code;commodity_desc;Sub-commodity;year;value
+Albania;109;petroleum crude;;1982;2310000
+Algeria;109;petroleum crude;;1982;43700000
+Angola;109;petroleum crude;;1982;6493861
+Argentina;109;petroleum crude;;1982;25951600
+Australia;109;petroleum crude;;1982;18839167
+Austria;109;petroleum crude;;1982;1290363
+Bahrain;109;petroleum crude;;1982;2195082
+Barbados;109;petroleum crude;;1982;
+Benin;109;petroleum crude;;1982;0
+Bolivia;109;petroleum crude;;1982;1293400
+Brazil;109;petroleum crude;;1982;13756000
+Brunei;109;petroleum crude;;1982;8950000
+Bulgaria;109;petroleum crude;;1982;300000
+Cameroon;109;petroleum crude;;1982;5410000
+Canada;109;petroleum crude;;1982;67318700
+Chile;109;petroleum crude;;1982;2266159
+China;109;petroleum crude;;1982;102120000
+Colombia;109;petroleum crude;;1982;7308000
+Congo;109;petroleum crude;;1982;4382351
+Cuba;109;petroleum crude;;1982;541000
+Czechoslovakia;109;petroleum crude;;1982;89000
+Denmark;109;petroleum crude;;1982;1662918
+Ecuador;109;petroleum crude;;1982;10833696
+Egypt;109;petroleum crude;;1982;32892000
+France;109;petroleum crude;;1982;1646000
+Gabon;109;petroleum crude;;1982;7720000
+German Democratic Rep;109;petroleum crude;;1982;60000
+German Federal Republic;109;petroleum crude;;1982;4255000
+Germany;109;petroleum crude;;1982;
+Greece;109;petroleum crude;;1982;1012216
+Guatemala;109;petroleum crude;;1982;317900
+Hungary;109;petroleum crude;;1982;2027000
+India;109;petroleum crude;;1982;19712000
+Indonesia;109;petroleum crude;;1982;64592358
+Iran;109;petroleum crude;;1982;97320000
+Iraq;109;petroleum crude;;1982;41745200
+Israel;109;petroleum crude;;1982;13680
+Italy;109;petroleum crude;;1982;1728165
+Ivory Coast;109;petroleum crude;;1982;747730
+Japan;109;petroleum crude;;1982;426310
+Kuwait;109;petroleum crude;;1982;41407867
+Libya;109;petroleum crude;;1982;50510000
+Malaysia;109;petroleum crude;;1982;14478786
+Mexico;109;petroleum crude;;1982;142079921
+Myanmar;109;petroleum crude;;1982;1381846
+Netherlands;109;petroleum crude;;1982;1637000
+Neutral zone;109;petroleum crude;;1982;15550000
+New Zealand;109;petroleum crude;;1982;672670
+Nigeria;109;petroleum crude;;1982;67350706
+Norway;109;petroleum crude;;1982;24515371
+Oman;109;petroleum crude;;1982;16720854
+Pakistan;109;petroleum crude;;1982;614905
+Peru;109;petroleum crude;;1982;9612000
+Philippines;109;petroleum crude;;1982;411805
+Poland;109;petroleum crude;;1982;241000
+Qatar;109;petroleum crude;;1982;15610068
+Romania;109;petroleum crude;;1982;11742000
+Saudi Arabia;109;petroleum crude;;1982;325379747
+Soviet Union;109;petroleum crude;;1982;612600000
+Spain;109;petroleum crude;;1982;1530576
+Suriname;109;petroleum crude;;1982;
+Syria;109;petroleum crude;;1982;8219143
+Taiwan;109;petroleum crude;;1982;126786
+Thailand;109;petroleum crude;;1982;28115
+Trinidad & Tobago;109;petroleum crude;;1982;9121794
+Tunisia;109;petroleum crude;;1982;5146000
+Turkey;109;petroleum crude;;1982;2333118
+USA;109;petroleum crude;;1982;423459000
+United Arab Emirates;109;petroleum crude;;1982;61602672
+United Kingdom;109;petroleum crude;;1982;100311000
+Venezuela;109;petroleum crude;;1982;100391367
+Vietnam;109;petroleum crude;;1982;
+Yemen (PDR);109;petroleum crude;;1982;
+Yemen, Republic of;109;petroleum crude;;1982;
+Yugoslavia;109;petroleum crude;;1982;4340000
+Zaire;109;petroleum crude;;1982;1167300
+Albania;109;petroleum crude;;1983;4000000
+Algeria;109;petroleum crude;;1983;42300000
+Angola;109;petroleum crude;;1983;8894952
+Argentina;109;petroleum crude;;1983;25977400
+Australia;109;petroleum crude;;1983;21209115
+Austria;109;petroleum crude;;1983;1268573
+Bahrain;109;petroleum crude;;1983;2086475
+Barbados;109;petroleum crude;;1983;52095
+Benin;109;petroleum crude;;1983;250000
+Bolivia;109;petroleum crude;;1983;1174800
+Brazil;109;petroleum crude;;1983;17461000
+Brunei;109;petroleum crude;;1983;8070000
+Bulgaria;109;petroleum crude;;1983;300000
+Cameroon;109;petroleum crude;;1983;5650000
+Canada;109;petroleum crude;;1983;71838600
+Chile;109;petroleum crude;;1983;2083322
+China;109;petroleum crude;;1983;106070000
+Colombia;109;petroleum crude;;1983;7657000
+Congo;109;petroleum crude;;1983;5365144
+Cuba;109;petroleum crude;;1983;742200
+Czechoslovakia;109;petroleum crude;;1983;93000
+Denmark;109;petroleum crude;;1983;2148712
+Ecuador;109;petroleum crude;;1983;12043653
+Egypt;109;petroleum crude;;1983;35957000
+France;109;petroleum crude;;1983;1660000
+Gabon;109;petroleum crude;;1983;7869000
+German Democratic Rep;109;petroleum crude;;1983;60000
+German Federal Republic;109;petroleum crude;;1983;4116000
+Germany;109;petroleum crude;;1983;
+Greece;109;petroleum crude;;1983;1249630
+Guatemala;109;petroleum crude;;1983;375009
+Hungary;109;petroleum crude;;1983;2004000
+India;109;petroleum crude;;1983;25148000
+Indonesia;109;petroleum crude;;1983;64895924
+Iran;109;petroleum crude;;1983;122400000
+Iraq;109;petroleum crude;;1983;53864799
+Israel;109;petroleum crude;;1983;12130
+Italy;109;petroleum crude;;1983;2197582
+Ivory Coast;109;petroleum crude;;1983;1025000
+Japan;109;petroleum crude;;1983;448650
+Kuwait;109;petroleum crude;;1983;53015873
+Libya;109;petroleum crude;;1983;54400000
+Malaysia;109;petroleum crude;;1983;18303756
+Mexico;109;petroleum crude;;1983;138983294
+Myanmar;109;petroleum crude;;1983;1435347
+Netherlands;109;petroleum crude;;1983;2589000
+Neutral zone;109;petroleum crude;;1983;16900000
+New Zealand;109;petroleum crude;;1983;656450
+Nigeria;109;petroleum crude;;1983;61000000
+Norway;109;petroleum crude;;1983;30482453
+Oman;109;petroleum crude;;1983;19357733
+Pakistan;109;petroleum crude;;1983;650027
+Peru;109;petroleum crude;;1983;8432000
+Philippines;109;petroleum crude;;1983;638847
+Poland;109;petroleum crude;;1983;210000
+Qatar;109;petroleum crude;;1983;13993349
+Romania;109;petroleum crude;;1983;11593000
+Saudi Arabia;109;petroleum crude;;1983;227969318
+Soviet Union;109;petroleum crude;;1983;616300000
+Spain;109;petroleum crude;;1983;2976845
+Suriname;109;petroleum crude;;1983;19119
+Syria;109;petroleum crude;;1983;8537509
+Taiwan;109;petroleum crude;;1983;122825
+Thailand;109;petroleum crude;;1983;355283
+Trinidad & Tobago;109;petroleum crude;;1983;8235968
+Tunisia;109;petroleum crude;;1983;5532000
+Turkey;109;petroleum crude;;1983;2204481
+USA;109;petroleum crude;;1983;425368000
+United Arab Emirates;109;petroleum crude;;1983;59115641
+United Kingdom;109;petroleum crude;;1983;110882000
+Venezuela;109;petroleum crude;;1983;95525697
+Vietnam;109;petroleum crude;;1983;
+Yemen (PDR);109;petroleum crude;;1983;
+Yemen, Republic of;109;petroleum crude;;1983;
+Yugoslavia;109;petroleum crude;;1983;4124751
+Zaire;109;petroleum crude;;1983;1261528
+Albania;109;petroleum crude;;1984;3000000
+Algeria;109;petroleum crude;;1984;46100000
+Angola;109;petroleum crude;;1984;10190996
+Argentina;109;petroleum crude;;1984;25318400
+Australia;109;petroleum crude;;1984;26376971
+Austria;109;petroleum crude;;1984;1205430
+Bahrain;109;petroleum crude;;1984;2088661
+Barbados;109;petroleum crude;;1984;87137
+Benin;109;petroleum crude;;1984;400000
+Bolivia;109;petroleum crude;;1984;1104800
+Brazil;109;petroleum crude;;1984;24482865
+Brunei;109;petroleum crude;;1984;7597000
+Bulgaria;109;petroleum crude;;1984;280000
+Cameroon;109;petroleum crude;;1984;7890000
+Canada;109;petroleum crude;;1984;76334900
+Chile;109;petroleum crude;;1984;2040390
+China;109;petroleum crude;;1984;114640000
+Colombia;109;petroleum crude;;1984;8633000
+Congo;109;petroleum crude;;1984;6210000
+Cuba;109;petroleum crude;;1984;770400
+Czechoslovakia;109;petroleum crude;;1984;91000
+Denmark;109;petroleum crude;;1984;2219205
+Ecuador;109;petroleum crude;;1984;13239624
+Egypt;109;petroleum crude;;1984;41217000
+France;109;petroleum crude;;1984;2064405
+Gabon;109;petroleum crude;;1984;8730000
+German Democratic Rep;109;petroleum crude;;1984;60000
+German Federal Republic;109;petroleum crude;;1984;4055000
+Germany;109;petroleum crude;;1984;
+Greece;109;petroleum crude;;1984;1332524
+Guatemala;109;petroleum crude;;1984;241474
+Hungary;109;petroleum crude;;1984;2007000
+India;109;petroleum crude;;1984;28046000
+Indonesia;109;petroleum crude;;1984;68402999
+Iran;109;petroleum crude;;1984;109300000
+Iraq;109;petroleum crude;;1984;55211419
+Israel;109;petroleum crude;;1984;17420
+Italy;109;petroleum crude;;1984;2236203
+Ivory Coast;109;petroleum crude;;1984;1120000
+Japan;109;petroleum crude;;1984;433950
+Kuwait;109;petroleum crude;;1984;58578330
+Libya;109;petroleum crude;;1984;53500000
+Malaysia;109;petroleum crude;;1984;21402997
+Mexico;109;petroleum crude;;1984;145090791
+Myanmar;109;petroleum crude;;1984;1660220
+Netherlands;109;petroleum crude;;1984;3102000
+Neutral zone;109;petroleum crude;;1984;21100000
+New Zealand;109;petroleum crude;;1984;840570
+Nigeria;109;petroleum crude;;1984;68600000
+Norway;109;petroleum crude;;1984;34681721
+Oman;109;petroleum crude;;1984;20785638
+Pakistan;109;petroleum crude;;1984;891332
+Peru;109;petroleum crude;;1984;9096000
+Philippines;109;petroleum crude;;1984;513384
+Poland;109;petroleum crude;;1984;189000
+Qatar;109;petroleum crude;;1984;20100000
+Romania;109;petroleum crude;;1984;11453000
+Saudi Arabia;109;petroleum crude;;1984;215413043
+Soviet Union;109;petroleum crude;;1984;612700000
+Spain;109;petroleum crude;;1984;2245179
+Suriname;109;petroleum crude;;1984;39415
+Syria;109;petroleum crude;;1984;8590418
+Taiwan;109;petroleum crude;;1984;123970
+Thailand;109;petroleum crude;;1984;797129
+Trinidad & Tobago;109;petroleum crude;;1984;8758037
+Tunisia;109;petroleum crude;;1984;5480000
+Turkey;109;petroleum crude;;1984;2086715
+USA;109;petroleum crude;;1984;434720000
+United Arab Emirates;109;petroleum crude;;1984;57123326
+United Kingdom;109;petroleum crude;;1984;121307000
+Venezuela;109;petroleum crude;;1984;94658820
+Vietnam;109;petroleum crude;;1984;
+Yemen (PDR);109;petroleum crude;;1984;
+Yemen, Republic of;109;petroleum crude;;1984;
+Yugoslavia;109;petroleum crude;;1984;4044010
+Zaire;109;petroleum crude;;1984;1598073
+Albania;109;petroleum crude;;1985;3100000
+Algeria;109;petroleum crude;;1985;48100000
+Angola;109;petroleum crude;;1985;11514325
+Argentina;109;petroleum crude;;1985;24342500
+Australia;109;petroleum crude;;1985;30447317
+Austria;109;petroleum crude;;1985;1146958
+Bahrain;109;petroleum crude;;1985;2090301
+Barbados;109;petroleum crude;;1985;93219
+Benin;109;petroleum crude;;1985;350000
+Bolivia;109;petroleum crude;;1985;1050800
+Brazil;109;petroleum crude;;1985;28889605
+Brunei;109;petroleum crude;;1985;7593000
+Bulgaria;109;petroleum crude;;1985;280000
+Cameroon;109;petroleum crude;;1985;9200000
+Canada;109;petroleum crude;;1985;77795600
+Chile;109;petroleum crude;;1985;1892273
+China;109;petroleum crude;;1985;124895000
+Colombia;109;petroleum crude;;1985;9084000
+Congo;109;petroleum crude;;1985;5600000
+Cuba;109;petroleum crude;;1985;867600
+Czechoslovakia;109;petroleum crude;;1985;123000
+Denmark;109;petroleum crude;;1985;2853368
+Ecuador;109;petroleum crude;;1985;14295932
+Egypt;109;petroleum crude;;1985;44312000
+France;109;petroleum crude;;1985;2642572
+Gabon;109;petroleum crude;;1985;8626000
+German Democratic Rep;109;petroleum crude;;1985;60000
+German Federal Republic;109;petroleum crude;;1985;4105000
+Germany;109;petroleum crude;;1985;
+Greece;109;petroleum crude;;1985;1330684
+Guatemala;109;petroleum crude;;1985;151222
+Hungary;109;petroleum crude;;1985;2012000
+India;109;petroleum crude;;1985;29860000
+Indonesia;109;petroleum crude;;1985;64007442
+Iran;109;petroleum crude;;1985;110000000
+Iraq;109;petroleum crude;;1985;70600000
+Israel;109;petroleum crude;;1985;9396
+Italy;109;petroleum crude;;1985;2342545
+Ivory Coast;109;petroleum crude;;1985;1300000
+Japan;109;petroleum crude;;1985;570135
+Kuwait;109;petroleum crude;;1985;53458000
+Libya;109;petroleum crude;;1985;52700000
+Malaysia;109;petroleum crude;;1985;21300000
+Mexico;109;petroleum crude;;1985;139758862
+Myanmar;109;petroleum crude;;1985;1500000
+Netherlands;109;petroleum crude;;1985;3728000
+Neutral zone;109;petroleum crude;;1985;17000000
+New Zealand;109;petroleum crude;;1985;1228060
+Nigeria;109;petroleum crude;;1985;72900000
+Norway;109;petroleum crude;;1985;38342000
+Oman;109;petroleum crude;;1985;24802837
+Pakistan;109;petroleum crude;;1985;1669605
+Peru;109;petroleum crude;;1985;9286924
+Philippines;109;petroleum crude;;1985;395000
+Poland;109;petroleum crude;;1985;194000
+Qatar;109;petroleum crude;;1985;15900000
+Romania;109;petroleum crude;;1985;10718000
+Saudi Arabia;109;petroleum crude;;1985;159446753
+Soviet Union;109;petroleum crude;;1985;595000000
+Spain;109;petroleum crude;;1985;2088248
+Suriname;109;petroleum crude;;1985;67174
+Syria;109;petroleum crude;;1985;8425305
+Taiwan;109;petroleum crude;;1985;107783
+Thailand;109;petroleum crude;;1985;1123113
+Trinidad & Tobago;109;petroleum crude;;1985;9070986
+Tunisia;109;petroleum crude;;1985;5408000
+Turkey;109;petroleum crude;;1985;2109986
+USA;109;petroleum crude;;1985;439224000
+United Arab Emirates;109;petroleum crude;;1985;54751289
+United Kingdom;109;petroleum crude;;1985;122461000
+Venezuela;109;petroleum crude;;1985;88009031
+Vietnam;109;petroleum crude;;1985;
+Yemen (PDR);109;petroleum crude;;1985;
+Yemen, Republic of;109;petroleum crude;;1985;
+Yugoslavia;109;petroleum crude;;1985;4149259
+Zaire;109;petroleum crude;;1985;1670213
+Albania;109;petroleum crude;;1986;3000000
+Algeria;109;petroleum crude;;1986;48826000
+Angola;109;petroleum crude;;1986;14102000
+Argentina;109;petroleum crude;;1986;22982800
+Australia;109;petroleum crude;;1986;27151450
+Austria;109;petroleum crude;;1986;1115924
+Bahrain;109;petroleum crude;;1986;2115710
+Barbados;109;petroleum crude;;1986;76743
+Benin;109;petroleum crude;;1986;350000
+Bolivia;109;petroleum crude;;1986;930400
+Brazil;109;petroleum crude;;1986;30287000
+Brunei;109;petroleum crude;;1986;7532000
+Bulgaria;109;petroleum crude;;1986;93000
+Cameroon;109;petroleum crude;;1986;9090000
+Canada;109;petroleum crude;;1986;77981100
+Chile;109;petroleum crude;;1986;1770015
+China;109;petroleum crude;;1986;130688000
+Colombia;109;petroleum crude;;1986;15629000
+Congo;109;petroleum crude;;1986;5610000
+Cuba;109;petroleum crude;;1986;938000
+Czechoslovakia;109;petroleum crude;;1986;142000
+Denmark;109;petroleum crude;;1986;3238459
+Ecuador;109;petroleum crude;;1986;14727997
+Egypt;109;petroleum crude;;1986;40237000
+France;109;petroleum crude;;1986;2948000
+Gabon;109;petroleum crude;;1986;8384000
+German Democratic Rep;109;petroleum crude;;1986;60000
+German Federal Republic;109;petroleum crude;;1986;4017000
+Germany;109;petroleum crude;;1986;
+Greece;109;petroleum crude;;1986;1347837
+Guatemala;109;petroleum crude;;1986;255251
+Hungary;109;petroleum crude;;1986;2005000
+India;109;petroleum crude;;1986;31157000
+Indonesia;109;petroleum crude;;1986;67111405
+Iran;109;petroleum crude;;1986;94500000
+Iraq;109;petroleum crude;;1986;85500000
+Israel;109;petroleum crude;;1986;13136
+Italy;109;petroleum crude;;1986;2510564
+Ivory Coast;109;petroleum crude;;1986;1350000
+Japan;109;petroleum crude;;1986;676223
+Kuwait;109;petroleum crude;;1986;71580400
+Libya;109;petroleum crude;;1986;49900000
+Malaysia;109;petroleum crude;;1986;26200000
+Mexico;109;petroleum crude;;1986;129268989
+Myanmar;109;petroleum crude;;1986;1113300
+Netherlands;109;petroleum crude;;1986;4628000
+Neutral zone;109;petroleum crude;;1986;17900000
+New Zealand;109;petroleum crude;;1986;1353930
+Nigeria;109;petroleum crude;;1986;72200000
+Norway;109;petroleum crude;;1986;42483000
+Oman;109;petroleum crude;;1986;27864000
+Pakistan;109;petroleum crude;;1986;2008496
+Peru;109;petroleum crude;;1986;8748524
+Philippines;109;petroleum crude;;1986;345000
+Poland;109;petroleum crude;;1986;167000
+Qatar;109;petroleum crude;;1986;16600000
+Romania;109;petroleum crude;;1986;10125000
+Saudi Arabia;109;petroleum crude;;1986;240253165
+Soviet Union;109;petroleum crude;;1986;614753000
+Spain;109;petroleum crude;;1986;1858400
+Suriname;109;petroleum crude;;1986;114035
+Syria;109;petroleum crude;;1986;9660000
+Taiwan;109;petroleum crude;;1986;96000
+Thailand;109;petroleum crude;;1986;1425000
+Trinidad & Tobago;109;petroleum crude;;1986;8701325
+Tunisia;109;petroleum crude;;1986;5249000
+Turkey;109;petroleum crude;;1986;2393806
+USA;109;petroleum crude;;1986;424977000
+United Arab Emirates;109;petroleum crude;;1986;63800856
+United Kingdom;109;petroleum crude;;1986;121253000
+Venezuela;109;petroleum crude;;1986;93744112
+Vietnam;109;petroleum crude;;1986;40000
+Yemen (PDR);109;petroleum crude;;1986;
+Yemen, Republic of;109;petroleum crude;;1986;
+Yugoslavia;109;petroleum crude;;1986;4140489
+Zaire;109;petroleum crude;;1986;1619809
+Albania;109;petroleum crude;;1987;3000000
+Algeria;109;petroleum crude;;1987;48000000
+Angola;109;petroleum crude;;1987;17968000
+Argentina;109;petroleum crude;;1987;22675290
+Australia;109;petroleum crude;;1987;29076240
+Austria;109;petroleum crude;;1987;1060367
+Bahrain;109;petroleum crude;;1987;2099590
+Barbados;109;petroleum crude;;1987;68181
+Benin;109;petroleum crude;;1987;350000
+Bolivia;109;petroleum crude;;1987;1000800
+Brazil;109;petroleum crude;;1987;29641987
+Brunei;109;petroleum crude;;1987;7015000
+Bulgaria;109;petroleum crude;;1987;85000
+Cameroon;109;petroleum crude;;1987;8602000
+Canada;109;petroleum crude;;1987;81322400
+Chile;109;petroleum crude;;1987;1583985
+China;109;petroleum crude;;1987;134140000
+Colombia;109;petroleum crude;;1987;19835000
+Congo;109;petroleum crude;;1987;6316848
+Cuba;109;petroleum crude;;1987;894500
+Czechoslovakia;109;petroleum crude;;1987;147000
+Denmark;109;petroleum crude;;1987;4552394
+Ecuador;109;petroleum crude;;1987;8893681
+Egypt;109;petroleum crude;;1987;43178000
+France;109;petroleum crude;;1987;3234621
+Gabon;109;petroleum crude;;1987;7980000
+German Democratic Rep;109;petroleum crude;;1987;60000
+German Federal Republic;109;petroleum crude;;1987;3800000
+Germany;109;petroleum crude;;1987;
+Greece;109;petroleum crude;;1987;1238153
+Guatemala;109;petroleum crude;;1987;191167
+Hungary;109;petroleum crude;;1987;1914000
+India;109;petroleum crude;;1987;30128000
+Indonesia;109;petroleum crude;;1987;63384096
+Iran;109;petroleum crude;;1987;114700000
+Iraq;109;petroleum crude;;1987;102400000
+Israel;109;petroleum crude;;1987;15143
+Italy;109;petroleum crude;;1987;3904542
+Ivory Coast;109;petroleum crude;;1987;1200000
+Japan;109;petroleum crude;;1987;645200
+Kuwait;109;petroleum crude;;1987;61439000
+Libya;109;petroleum crude;;1987;46790000
+Malaysia;109;petroleum crude;;1987;24600000
+Mexico;109;petroleum crude;;1987;135267715
+Myanmar;109;petroleum crude;;1987;831700
+Netherlands;109;petroleum crude;;1987;4291000
+Neutral zone;109;petroleum crude;;1987;20200000
+New Zealand;109;petroleum crude;;1987;1291930
+Nigeria;109;petroleum crude;;1987;63670000
+Norway;109;petroleum crude;;1987;49316000
+Oman;109;petroleum crude;;1987;28982542
+Pakistan;109;petroleum crude;;1987;2030343
+Peru;109;petroleum crude;;1987;8064014
+Philippines;109;petroleum crude;;1987;289000
+Poland;109;petroleum crude;;1987;149000
+Qatar;109;petroleum crude;;1987;15900000
+Romania;109;petroleum crude;;1987;9504000
+Saudi Arabia;109;petroleum crude;;1987;212200000
+Soviet Union;109;petroleum crude;;1987;624177000
+Spain;109;petroleum crude;;1987;1639994
+Suriname;109;petroleum crude;;1987;136518
+Syria;109;petroleum crude;;1987;12000000
+Taiwan;109;petroleum crude;;1987;100000
+Thailand;109;petroleum crude;;1987;1600000
+Trinidad & Tobago;109;petroleum crude;;1987;7995579
+Tunisia;109;petroleum crude;;1987;5005000
+Turkey;109;petroleum crude;;1987;2629263
+USA;109;petroleum crude;;1987;415571000
+United Arab Emirates;109;petroleum crude;;1987;66235775
+United Kingdom;109;petroleum crude;;1987;117658000
+Venezuela;109;petroleum crude;;1987;95256500
+Vietnam;109;petroleum crude;;1987;175000
+Yemen (PDR);109;petroleum crude;;1987;
+Yemen, Republic of;109;petroleum crude;;1987;700000
+Yugoslavia;109;petroleum crude;;1987;3867000
+Zaire;109;petroleum crude;;1987;1559836
+Albania;109;petroleum crude;;1988;2482000
+Algeria;109;petroleum crude;;1988;49357000
+Angola;109;petroleum crude;;1988;24606000
+Argentina;109;petroleum crude;;1988;23829749
+Australia;109;petroleum crude;;1988;27492622
+Austria;109;petroleum crude;;1988;1175186
+Bahrain;109;petroleum crude;;1988;2141257
+Barbados;109;petroleum crude;;1988;58617
+Benin;109;petroleum crude;;1988;238600
+Bolivia;109;petroleum crude;;1988;840470
+Brazil;109;petroleum crude;;1988;28979383
+Brunei;109;petroleum crude;;1988;6352000
+Bulgaria;109;petroleum crude;;1988;77000
+Cameroon;109;petroleum crude;;1988;8688000
+Canada;109;petroleum crude;;1988;85596900
+Chile;109;petroleum crude;;1988;1295716
+China;109;petroleum crude;;1988;137046000
+Colombia;109;petroleum crude;;1988;19358000
+Congo;109;petroleum crude;;1988;7038074
+Cuba;109;petroleum crude;;1988;716800
+Czechoslovakia;109;petroleum crude;;1988;143000
+Denmark;109;petroleum crude;;1988;4700061
+Ecuador;109;petroleum crude;;1988;15418451
+Egypt;109;petroleum crude;;1988;44523000
+France;109;petroleum crude;;1988;3358000
+Gabon;109;petroleum crude;;1988;8812000
+German Democratic Rep;109;petroleum crude;;1988;60000
+German Federal Republic;109;petroleum crude;;1988;3937000
+Germany;109;petroleum crude;;1988;
+Greece;109;petroleum crude;;1988;1141922
+Guatemala;109;petroleum crude;;1988;185182
+Hungary;109;petroleum crude;;1988;1947000
+India;109;petroleum crude;;1988;31580000
+Indonesia;109;petroleum crude;;1988;64053453
+Iran;109;petroleum crude;;1988;112900000
+Iraq;109;petroleum crude;;1988;127700000
+Israel;109;petroleum crude;;1988;19522
+Italy;109;petroleum crude;;1988;4839213
+Ivory Coast;109;petroleum crude;;1988;548000
+Japan;109;petroleum crude;;1988;631180
+Kuwait;109;petroleum crude;;1988;71504000
+Libya;109;petroleum crude;;1988;49250000
+Malaysia;109;petroleum crude;;1988;26700000
+Mexico;109;petroleum crude;;1988;133903176
+Myanmar;109;petroleum crude;;1988;643900
+Netherlands;109;petroleum crude;;1988;3909000
+Neutral zone;109;petroleum crude;;1988;
+New Zealand;109;petroleum crude;;1988;1555310
+Nigeria;109;petroleum crude;;1988;68530000
+Norway;109;petroleum crude;;1988;56125000
+Oman;109;petroleum crude;;1988;30960175
+Pakistan;109;petroleum crude;;1988;2213000
+Peru;109;petroleum crude;;1988;6982151
+Philippines;109;petroleum crude;;1988;300000
+Poland;109;petroleum crude;;1988;163000
+Qatar;109;petroleum crude;;1988;16900000
+Romania;109;petroleum crude;;1988;9389000
+Saudi Arabia;109;petroleum crude;;1988;265600000
+Soviet Union;109;petroleum crude;;1988;624324000
+Spain;109;petroleum crude;;1988;1482034
+Suriname;109;petroleum crude;;1988;199500
+Syria;109;petroleum crude;;1988;14160000
+Taiwan;109;petroleum crude;;1988;125000
+Thailand;109;petroleum crude;;1988;2008700
+Trinidad & Tobago;109;petroleum crude;;1988;7793355
+Tunisia;109;petroleum crude;;1988;4908000
+Turkey;109;petroleum crude;;1988;2563891
+USA;109;petroleum crude;;1988;405168000
+United Arab Emirates;109;petroleum crude;;1988;55893636
+United Kingdom;109;petroleum crude;;1988;109455000
+Venezuela;109;petroleum crude;;1988;99918498
+Vietnam;109;petroleum crude;;1988;747000
+Yemen (PDR);109;petroleum crude;;1988;
+Yemen, Republic of;109;petroleum crude;;1988;8300000
+Yugoslavia;109;petroleum crude;;1988;3681147
+Zaire;109;petroleum crude;;1988;1464000
+Albania;109;petroleum crude;;1989;2135000
+Algeria;109;petroleum crude;;1989;51370000
+Angola;109;petroleum crude;;1989;25000000
+Argentina;109;petroleum crude;;1989;24368512
+Australia;109;petroleum crude;;1989;25937279
+Austria;109;petroleum crude;;1989;1157891
+Bahrain;109;petroleum crude;;1989;2128825
+Barbados;109;petroleum crude;;1989;53430
+Benin;109;petroleum crude;;1989;192000
+Bolivia;109;petroleum crude;;1989;868306
+Brazil;109;petroleum crude;;1989;30977843
+Brunei;109;petroleum crude;;1989;6449000
+Bulgaria;109;petroleum crude;;1989;73000
+Cameroon;109;petroleum crude;;1989;8642000
+Canada;109;petroleum crude;;1989;82606600
+Chile;109;petroleum crude;;1989;1169392
+China;109;petroleum crude;;1989;137641000
+Colombia;109;petroleum crude;;1989;20839000
+Congo;109;petroleum crude;;1989;7969388
+Cuba;109;petroleum crude;;1989;718400
+Czechoslovakia;109;petroleum crude;;1989;144000
+Denmark;109;petroleum crude;;1989;5416303
+Ecuador;109;petroleum crude;;1989;14199445
+Egypt;109;petroleum crude;;1989;42626000
+France;109;petroleum crude;;1989;3243000
+Gabon;109;petroleum crude;;1989;10998000
+German Democratic Rep;109;petroleum crude;;1989;60000
+German Federal Republic;109;petroleum crude;;1989;3770000
+Germany;109;petroleum crude;;1989;
+Greece;109;petroleum crude;;1989;926593
+Guatemala;109;petroleum crude;;1989;184221
+Hungary;109;petroleum crude;;1989;1966000
+India;109;petroleum crude;;1989;33693000
+Indonesia;109;petroleum crude;;1989;68031754
+Iran;109;petroleum crude;;1989;144347000
+Iraq;109;petroleum crude;;1989;139185000
+Israel;109;petroleum crude;;1989;16876
+Italy;109;petroleum crude;;1989;4568424
+Ivory Coast;109;petroleum crude;;1989;350000
+Japan;109;petroleum crude;;1989;584736
+Kuwait;109;petroleum crude;;1989;91886000
+Libya;109;petroleum crude;;1989;53694000
+Malaysia;109;petroleum crude;;1989;28800000
+Mexico;109;petroleum crude;;1989;133947324
+Myanmar;109;petroleum crude;;1989;737800
+Netherlands;109;petroleum crude;;1989;3391000
+Neutral zone;109;petroleum crude;;1989;
+New Zealand;109;petroleum crude;;1989;1742000
+Nigeria;109;petroleum crude;;1989;83129000
+Norway;109;petroleum crude;;1989;74528000
+Oman;109;petroleum crude;;1989;31914894
+Pakistan;109;petroleum crude;;1989;2530000
+Peru;109;petroleum crude;;1989;6425929
+Philippines;109;petroleum crude;;1989;257700
+Poland;109;petroleum crude;;1989;159000
+Qatar;109;petroleum crude;;1989;19300000
+Romania;109;petroleum crude;;1989;9173000
+Saudi Arabia;109;petroleum crude;;1989;267000000
+Soviet Union;109;petroleum crude;;1989;607121000
+Spain;109;petroleum crude;;1989;1038008
+Suriname;109;petroleum crude;;1989;225619
+Syria;109;petroleum crude;;1989;16998000
+Taiwan;109;petroleum crude;;1989;140000
+Thailand;109;petroleum crude;;1989;2087000
+Trinidad & Tobago;109;petroleum crude;;1989;7697400
+Tunisia;109;petroleum crude;;1989;4916000
+Turkey;109;petroleum crude;;1989;2876537
+USA;109;petroleum crude;;1989;378937000
+United Arab Emirates;109;petroleum crude;;1989;67885000
+United Kingdom;109;petroleum crude;;1989;87306000
+Venezuela;109;petroleum crude;;1989;99939123
+Vietnam;109;petroleum crude;;1989;1022000
+Yemen (PDR);109;petroleum crude;;1989;
+Yemen, Republic of;109;petroleum crude;;1989;8517625
+Yugoslavia;109;petroleum crude;;1989;3392445
+Zaire;109;petroleum crude;;1989;1358000
+Albania;109;petroleum crude;;1990;1067000
+Algeria;109;petroleum crude;;1990;56673000
+Angola;109;petroleum crude;;1990;25780000
+Argentina;109;petroleum crude;;1990;25545968
+Australia;109;petroleum crude;;1990;30547662
+Austria;109;petroleum crude;;1990;1148593
+Bahrain;109;petroleum crude;;1990;2084000
+Barbados;109;petroleum crude;;1990;62369
+Benin;109;petroleum crude;;1990;206100
+Bolivia;109;petroleum crude;;1990;973000
+Brazil;109;petroleum crude;;1990;32825392
+Brunei;109;petroleum crude;;1990;6544000
+Bulgaria;109;petroleum crude;;1990;60000
+Cameroon;109;petroleum crude;;1990;8292000
+Canada;109;petroleum crude;;1990;82235200
+Chile;109;petroleum crude;;1990;1038015
+China;109;petroleum crude;;1990;138306000
+Colombia;109;petroleum crude;;1990;22647000
+Congo;109;petroleum crude;;1990;8015900
+Cuba;109;petroleum crude;;1990;736000
+Czechoslovakia;109;petroleum crude;;1990;123000
+Denmark;109;petroleum crude;;1990;5933019
+Ecuador;109;petroleum crude;;1990;14568801
+Egypt;109;petroleum crude;;1990;43407000
+France;109;petroleum crude;;1990;3023000
+Gabon;109;petroleum crude;;1990;13754000
+German Democratic Rep;109;petroleum crude;;1990;
+German Federal Republic;109;petroleum crude;;1990;3606000
+Germany;109;petroleum crude;;1990;
+Greece;109;petroleum crude;;1990;836013
+Guatemala;109;petroleum crude;;1990;199630
+Hungary;109;petroleum crude;;1990;1974000
+India;109;petroleum crude;;1990;33309000
+Indonesia;109;petroleum crude;;1990;70185234
+Iran;109;petroleum crude;;1990;157084000
+Iraq;109;petroleum crude;;1990;100681000
+Israel;109;petroleum crude;;1990;11494
+Italy;109;petroleum crude;;1990;4623694
+Ivory Coast;109;petroleum crude;;1990;315000
+Japan;109;petroleum crude;;1990;576581
+Kuwait;109;petroleum crude;;1990;58729000
+Libya;109;petroleum crude;;1990;65990000
+Malaysia;109;petroleum crude;;1990;30600000
+Mexico;109;petroleum crude;;1990;136484511
+Myanmar;109;petroleum crude;;1990;758329
+Netherlands;109;petroleum crude;;1990;3533000
+Neutral zone;109;petroleum crude;;1990;
+New Zealand;109;petroleum crude;;1990;1795000
+Nigeria;109;petroleum crude;;1990;90736000
+Norway;109;petroleum crude;;1990;81745000
+Oman;109;petroleum crude;;1990;34097108
+Pakistan;109;petroleum crude;;1990;2925000
+Peru;109;petroleum crude;;1990;6352058
+Philippines;109;petroleum crude;;1990;237093
+Poland;109;petroleum crude;;1990;163000
+Qatar;109;petroleum crude;;1990;21200000
+Romania;109;petroleum crude;;1990;7928000
+Saudi Arabia;109;petroleum crude;;1990;334200000
+Soviet Union;109;petroleum crude;;1990;571000000
+Spain;109;petroleum crude;;1990;795000
+Suriname;109;petroleum crude;;1990;229959
+Syria;109;petroleum crude;;1990;20292000
+Taiwan;109;petroleum crude;;1990;100000
+Thailand;109;petroleum crude;;1990;2292500
+Trinidad & Tobago;109;petroleum crude;;1990;7790100
+Tunisia;109;petroleum crude;;1990;4502000
+Turkey;109;petroleum crude;;1990;3719956
+USA;109;petroleum crude;;1990;366095000
+United Arab Emirates;109;petroleum crude;;1990;103694877
+United Kingdom;109;petroleum crude;;1990;87992000
+Venezuela;109;petroleum crude;;1990;111876674
+Vietnam;109;petroleum crude;;1990;2482000
+Yemen (PDR);109;petroleum crude;;1990;8700826
+Yemen, Republic of;109;petroleum crude;;1990;
+Yugoslavia;109;petroleum crude;;1990;3144526
+Zaire;109;petroleum crude;;1990;1411000
+Albania;109;petroleum crude;;1991;1002000
+Algeria;109;petroleum crude;;1991;58454000
+Angola;109;petroleum crude;;1991;24751000
+Argentina;109;petroleum crude;;1991;26108344
+Australia;109;petroleum crude;;1991;28835416
+Austria;109;petroleum crude;;1991;1279882
+Bahrain;109;petroleum crude;;1991;2100137
+Barbados;109;petroleum crude;;1991;62382
+Benin;109;petroleum crude;;1991;202300
+Bolivia;109;petroleum crude;;1991;1034000
+Brazil;109;petroleum crude;;1991;32478773
+Brunei;109;petroleum crude;;1991;8049000
+Bulgaria;109;petroleum crude;;1991;58000
+Cameroon;109;petroleum crude;;1991;7709000
+Canada;109;petroleum crude;;1991;81963600
+Chile;109;petroleum crude;;1991;942613
+China;109;petroleum crude;;1991;140990000
+Colombia;109;petroleum crude;;1991;21926896
+Congo;109;petroleum crude;;1991;8042100
+Cuba;109;petroleum crude;;1991;817000
+Czechoslovakia;109;petroleum crude;;1991;140000
+Denmark;109;petroleum crude;;1991;7003426
+Ecuador;109;petroleum crude;;1991;15258343
+Egypt;109;petroleum crude;;1991;44375000
+France;109;petroleum crude;;1991;2950000
+Gabon;109;petroleum crude;;1991;14982000
+German Democratic Rep;109;petroleum crude;;1991;
+German Federal Republic;109;petroleum crude;;1991;
+Germany;109;petroleum crude;;1991;3385000
+Greece;109;petroleum crude;;1991;848594
+Guatemala;109;petroleum crude;;1991;187648
+Hungary;109;petroleum crude;;1991;1893000
+India;109;petroleum crude;;1991;31287000
+Indonesia;109;petroleum crude;;1991;71038899
+Iran;109;petroleum crude;;1991;166731000
+Iraq;109;petroleum crude;;1991;14876000
+Israel;109;petroleum crude;;1991;8575
+Italy;109;petroleum crude;;1991;4305916
+Ivory Coast;109;petroleum crude;;1991;60000
+Japan;109;petroleum crude;;1991;800933
+Kuwait;109;petroleum crude;;1991;9567000
+Libya;109;petroleum crude;;1991;73968000
+Malaysia;109;petroleum crude;;1991;32000000
+Mexico;109;petroleum crude;;1991;143480935
+Myanmar;109;petroleum crude;;1991;689864
+Netherlands;109;petroleum crude;;1991;3258000
+Neutral zone;109;petroleum crude;;1991;
+New Zealand;109;petroleum crude;;1991;1877200
+Nigeria;109;petroleum crude;;1991;96455000
+Norway;109;petroleum crude;;1991;94181000
+Oman;109;petroleum crude;;1991;35324604
+Pakistan;109;petroleum crude;;1991;3054000
+Peru;109;petroleum crude;;1991;5656596
+Philippines;109;petroleum crude;;1991;149760
+Poland;109;petroleum crude;;1991;158000
+Qatar;109;petroleum crude;;1991;19900000
+Romania;109;petroleum crude;;1991;6791000
+Saudi Arabia;109;petroleum crude;;1991;410047000
+Soviet Union;109;petroleum crude;;1991;515416000
+Spain;109;petroleum crude;;1991;1067000
+Suriname;109;petroleum crude;;1991;246598
+Syria;109;petroleum crude;;1991;24644000
+Taiwan;109;petroleum crude;;1991;99000
+Thailand;109;petroleum crude;;1991;2432400
+Trinidad & Tobago;109;petroleum crude;;1991;7424600
+Tunisia;109;petroleum crude;;1991;5195000
+Turkey;109;petroleum crude;;1991;4520030
+USA;109;petroleum crude;;1991;369181000
+United Arab Emirates;109;petroleum crude;;1991;118659898
+United Kingdom;109;petroleum crude;;1991;86832000
+Venezuela;109;petroleum crude;;1991;125041231
+Vietnam;109;petroleum crude;;1991;3900000
+Yemen (PDR);109;petroleum crude;;1991;9443061
+Yemen, Republic of;109;petroleum crude;;1991;
+Yugoslavia;109;petroleum crude;;1991;3005374
+Zaire;109;petroleum crude;;1991;1380000

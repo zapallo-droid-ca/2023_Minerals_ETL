@@ -1,0 +1,28 @@
+[
+
+	{"mineral_code":"cm01","mineral_desc":"aluminium","commodity_code":"3","commodity_desc":"aluminium primary","unit":"tonnes"},
+	{"mineral_code":"cm02","mineral_desc":"steel","commodity_code":"73","commodity_desc":"steel crude","unit":"tonnes"},
+	{"mineral_code":"cm03","mineral_desc":"copper","commodity_code":"40","commodity_desc":"copper mine","unit":"tonnes"},
+	{"mineral_code":"cm03","mineral_desc":"copper","commodity_code":"42","commodity_desc":"copper refined","unit":"tonnes"},
+	{"mineral_code":"cm03","mineral_desc":"copper","commodity_code":"41","commodity_desc":"copper smelter","unit":"tonnes"},
+	{"mineral_code":"cm04","mineral_desc":"lithium","commodity_code":"84","commodity_desc":"lithium minerals","unit":"tonnes"},
+	{"mineral_code":"cm05","mineral_desc":"nickel","commodity_code":"102","commodity_desc":"nickel mine","unit":"tonnes"},
+	{"mineral_code":"cm05","mineral_desc":"nickel","commodity_code":"103","commodity_desc":"nickel smelter/refined","unit":"tonnes"},
+	{"mineral_code":"cm06","mineral_desc":"manganese","commodity_code":"90","commodity_desc":"manganese ore","unit":"tonnes"},
+	{"mineral_code":"cm07","mineral_desc":"cobalt","commodity_code":"36","commodity_desc":"cobalt mine","unit":"tonnes"},
+	{"mineral_code":"cm07","mineral_desc":"cobalt","commodity_code":"37","commodity_desc":"cobalt refined","unit":"tonnes"},
+	{"mineral_code":"cm08","mineral_desc":"graphite","commodity_code":"62","commodity_desc":"graphite","unit":"tonnes"},
+	{"mineral_code":"cm09","mineral_desc":"zinc","commodity_code":"153","commodity_desc":"zinc mine","unit":"tonnes"},
+	{"mineral_code":"cm09","mineral_desc":"zinc","commodity_code":"154","commodity_desc":"zinc slab","unit":"tonnes"},		
+	{"mineral_code":"cm10","mineral_desc":"rare earths","commodity_code":"119","commodity_desc":"rare earth minerals","unit":"tonnes"},
+	{"mineral_code":"cm10","mineral_desc":"rare earths","commodity_code":"736","commodity_desc":"rare earth oxides","unit":"tonnes"},		
+	{"mineral_code":"cm11","mineral_desc":"chromium","commodity_code":"30","commodity_desc":"chromium ores and concentrates","unit":"tonnes"},
+	{"mineral_code":"cm12","mineral_desc":"molybdenum","commodity_code":"99","commodity_desc":"molybdenum mine","unit":"tonnes"},		
+	{"mineral_code":"cm13","mineral_desc":"natural gas","commodity_code":"107","commodity_desc":"natural gas","unit":"million cubic metres"},
+	{"mineral_code":"cm14","mineral_desc":"petroleum","commodity_code":"109","commodity_desc":"petroleum crude","unit":"tonnes"},
+	{"mineral_code":"cm15","mineral_desc":"uranium","commodity_code":"169","commodity_desc":"uranium","unit":"tonnes"}
+
+]
+
+
+

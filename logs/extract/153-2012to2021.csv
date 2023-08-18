@@ -1,0 +1,611 @@
+Country;commodity_code;commodity_desc;Sub-commodity;year;value
+Algeria;153;zinc mine;;2012;
+Argentina;153;zinc mine;;2012;42000
+Armenia;153;zinc mine;;2012;9729
+Australia;153;zinc mine;;2012;1536109
+Bolivia;153;zinc mine;;2012;389911
+Bosnia & Herzegovina;153;zinc mine;;2012;7600
+Brazil;153;zinc mine;;2012;164258
+Bulgaria;153;zinc mine;;2012;12116
+Burkina Faso;153;zinc mine;;2012;0
+Canada;153;zinc mine;;2012;641134
+Chile;153;zinc mine;;2012;26762
+China;153;zinc mine;;2012;4859100
+Congo;153;zinc mine;;2012;
+Congo, Democratic Republic;153;zinc mine;;2012;10572
+Cuba;153;zinc mine;;2012;
+Dominican Republic;153;zinc mine;;2012;0
+Eritrea;153;zinc mine;;2012;0
+Finland;153;zinc mine;;2012;52200
+Georgia;153;zinc mine;;2012;
+Greece;153;zinc mine;;2012;20800
+Guatemala;153;zinc mine;;2012;442
+Honduras;153;zinc mine;;2012;26000
+India;153;zinc mine;;2012;759527
+Indonesia;153;zinc mine;;2012;
+Iran;153;zinc mine;;2012;138000
+Ireland, Republic of;153;zinc mine;;2012;337500
+Kazakhstan;153;zinc mine;;2012;425000
+Korea (Rep. of);153;zinc mine;;2012;1434
+Korea, Dem. P.R. of;153;zinc mine;;2012;35000
+Kosovo;153;zinc mine;;2012;3818
+Laos;153;zinc mine;;2012;883
+Mexico;153;zinc mine;;2012;660349
+Mongolia;153;zinc mine;;2012;59550
+Montenegro;153;zinc mine;;2012;4677
+Morocco;153;zinc mine;;2012;46441
+Myanmar;153;zinc mine;;2012;8000
+Namibia;153;zinc mine;;2012;195782
+Nigeria;153;zinc mine;;2012;13800
+North Macedonia;153;zinc mine;;2012;28037
+Pakistan;153;zinc mine;;2012;10024
+Peru;153;zinc mine;;2012;1281282
+Philippines;153;zinc mine;;2012;19559
+Poland;153;zinc mine;;2012;76700
+Portugal;153;zinc mine;;2012;30006
+Romania;153;zinc mine;;2012;8400
+Russia;153;zinc mine;;2012;189000
+Saudi Arabia;153;zinc mine;;2012;21213
+Serbia;153;zinc mine;;2012;6000
+Slovakia;153;zinc mine;;2012;134
+South Africa;153;zinc mine;;2012;37034
+Spain;153;zinc mine;;2012;28634
+Sudan;153;zinc mine;;2012;
+Sweden;153;zinc mine;;2012;188325
+Tajikistan;153;zinc mine;;2012;29900
+Thailand;153;zinc mine;;2012;24996
+Tunisia;153;zinc mine;;2012;7400
+Turkey;153;zinc mine;;2012;195793
+USA;153;zinc mine;;2012;738400
+Uzbekistan;153;zinc mine;;2012;6000
+Vietnam;153;zinc mine;;2012;25000
+Zambia;153;zinc mine;;2012;
+Algeria;153;zinc mine;;2013;0
+Argentina;153;zinc mine;;2013;47650
+Armenia;153;zinc mine;;2013;9570
+Australia;153;zinc mine;;2013;1510738
+Bolivia;153;zinc mine;;2013;407332
+Bosnia & Herzegovina;153;zinc mine;;2013;9102
+Brazil;153;zinc mine;;2013;152147
+Bulgaria;153;zinc mine;;2013;13902
+Burkina Faso;153;zinc mine;;2013;32215
+Canada;153;zinc mine;;2013;426545
+Chile;153;zinc mine;;2013;29759
+China;153;zinc mine;;2013;5187747
+Congo;153;zinc mine;;2013;
+Congo, Democratic Republic;153;zinc mine;;2013;12144
+Cuba;153;zinc mine;;2013;
+Dominican Republic;153;zinc mine;;2013;0
+Eritrea;153;zinc mine;;2013;0
+Finland;153;zinc mine;;2013;41124
+Georgia;153;zinc mine;;2013;
+Greece;153;zinc mine;;2013;22549
+Guatemala;153;zinc mine;;2013;1221
+Honduras;153;zinc mine;;2013;25000
+India;153;zinc mine;;2013;769927
+Indonesia;153;zinc mine;;2013;1200
+Iran;153;zinc mine;;2013;130000
+Ireland, Republic of;153;zinc mine;;2013;326700
+Kazakhstan;153;zinc mine;;2013;417000
+Korea (Rep. of);153;zinc mine;;2013;1749
+Korea, Dem. P.R. of;153;zinc mine;;2013;36139
+Kosovo;153;zinc mine;;2013;4983
+Laos;153;zinc mine;;2013;1900
+Mexico;153;zinc mine;;2013;642542
+Mongolia;153;zinc mine;;2013;52050
+Montenegro;153;zinc mine;;2013;5487
+Morocco;153;zinc mine;;2013;41625
+Myanmar;153;zinc mine;;2013;4800
+Namibia;153;zinc mine;;2013;188402
+Nigeria;153;zinc mine;;2013;6786
+North Macedonia;153;zinc mine;;2013;30907
+Pakistan;153;zinc mine;;2013;0
+Peru;153;zinc mine;;2013;1351273
+Philippines;153;zinc mine;;2013;16730
+Poland;153;zinc mine;;2013;75000
+Portugal;153;zinc mine;;2013;53382
+Romania;153;zinc mine;;2013;2000
+Russia;153;zinc mine;;2013;193000
+Saudi Arabia;153;zinc mine;;2013;26293
+Serbia;153;zinc mine;;2013;5800
+Slovakia;153;zinc mine;;2013;190
+South Africa;153;zinc mine;;2013;30145
+Spain;153;zinc mine;;2013;30428
+Sudan;153;zinc mine;;2013;0
+Sweden;153;zinc mine;;2013;176582
+Tajikistan;153;zinc mine;;2013;24300
+Thailand;153;zinc mine;;2013;25887
+Tunisia;153;zinc mine;;2013;7700
+Turkey;153;zinc mine;;2013;195025
+USA;153;zinc mine;;2013;784400
+Uzbekistan;153;zinc mine;;2013;8000
+Vietnam;153;zinc mine;;2013;20000
+Zambia;153;zinc mine;;2013;
+Algeria;153;zinc mine;;2014;0
+Argentina;153;zinc mine;;2014;47981
+Armenia;153;zinc mine;;2014;8825
+Australia;153;zinc mine;;2014;1505968
+Bolivia;153;zinc mine;;2014;450542
+Bosnia & Herzegovina;153;zinc mine;;2014;7837
+Brazil;153;zinc mine;;2014;169766
+Bulgaria;153;zinc mine;;2014;11872
+Burkina Faso;153;zinc mine;;2014;64976
+Canada;153;zinc mine;;2014;352125
+Chile;153;zinc mine;;2014;45094
+China;153;zinc mine;;2014;5118394
+Congo;153;zinc mine;;2014;
+Congo, Democratic Republic;153;zinc mine;;2014;12737
+Cuba;153;zinc mine;;2014;0
+Dominican Republic;153;zinc mine;;2014;0
+Eritrea;153;zinc mine;;2014;0
+Finland;153;zinc mine;;2014;46100
+Georgia;153;zinc mine;;2014;
+Greece;153;zinc mine;;2014;23085
+Guatemala;153;zinc mine;;2014;13394
+Honduras;153;zinc mine;;2014;30000
+India;153;zinc mine;;2014;766730
+Indonesia;153;zinc mine;;2014;700
+Iran;153;zinc mine;;2014;150000
+Ireland, Republic of;153;zinc mine;;2014;282600
+Kazakhstan;153;zinc mine;;2014;378100
+Korea (Rep. of);153;zinc mine;;2014;1919
+Korea, Dem. P.R. of;153;zinc mine;;2014;37261
+Kosovo;153;zinc mine;;2014;5514
+Laos;153;zinc mine;;2014;2000
+Mexico;153;zinc mine;;2014;659878
+Mongolia;153;zinc mine;;2014;46600
+Montenegro;153;zinc mine;;2014;7200
+Morocco;153;zinc mine;;2014;45412
+Myanmar;153;zinc mine;;2014;3030
+Namibia;153;zinc mine;;2014;173665
+Nigeria;153;zinc mine;;2014;7000
+North Macedonia;153;zinc mine;;2014;31570
+Pakistan;153;zinc mine;;2014;0
+Peru;153;zinc mine;;2014;1315000
+Philippines;153;zinc mine;;2014;
+Poland;153;zinc mine;;2014;56000
+Portugal;153;zinc mine;;2014;67378
+Romania;153;zinc mine;;2014;3300
+Russia;153;zinc mine;;2014;192000
+Saudi Arabia;153;zinc mine;;2014;41804
+Serbia;153;zinc mine;;2014;8400
+Slovakia;153;zinc mine;;2014;176
+South Africa;153;zinc mine;;2014;26141
+Spain;153;zinc mine;;2014;26756
+Sudan;153;zinc mine;;2014;0
+Sweden;153;zinc mine;;2014;221841
+Tajikistan;153;zinc mine;;2014;54300
+Thailand;153;zinc mine;;2014;34033
+Tunisia;153;zinc mine;;2014;7400
+Turkey;153;zinc mine;;2014;210152
+USA;153;zinc mine;;2014;832000
+Uzbekistan;153;zinc mine;;2014;8000
+Vietnam;153;zinc mine;;2014;17000
+Zambia;153;zinc mine;;2014;
+Algeria;153;zinc mine;;2015;50
+Argentina;153;zinc mine;;2015;33787
+Armenia;153;zinc mine;;2015;6791
+Australia;153;zinc mine;;2015;1610004
+Bolivia;153;zinc mine;;2015;443172
+Bosnia & Herzegovina;153;zinc mine;;2015;8946
+Brazil;153;zinc mine;;2015;157000
+Bulgaria;153;zinc mine;;2015;10783
+Burkina Faso;153;zinc mine;;2015;68804
+Canada;153;zinc mine;;2015;289584
+Chile;153;zinc mine;;2015;48071
+China;153;zinc mine;;2015;4748877
+Congo;153;zinc mine;;2015;
+Congo, Democratic Republic;153;zinc mine;;2015;12675
+Cuba;153;zinc mine;;2015;0
+Dominican Republic;153;zinc mine;;2015;4655
+Eritrea;153;zinc mine;;2015;0
+Finland;153;zinc mine;;2015;25332
+Georgia;153;zinc mine;;2015;
+Greece;153;zinc mine;;2015;13174
+Guatemala;153;zinc mine;;2015;14810
+Honduras;153;zinc mine;;2015;24988
+India;153;zinc mine;;2015;740737
+Indonesia;153;zinc mine;;2015;19300
+Iran;153;zinc mine;;2015;168200
+Ireland, Republic of;153;zinc mine;;2015;236300
+Kazakhstan;153;zinc mine;;2015;369300
+Korea (Rep. of);153;zinc mine;;2015;2070
+Korea, Dem. P.R. of;153;zinc mine;;2015;45332
+Kosovo;153;zinc mine;;2015;3986
+Laos;153;zinc mine;;2015;0
+Mexico;153;zinc mine;;2015;786774
+Mongolia;153;zinc mine;;2015;44800
+Montenegro;153;zinc mine;;2015;7068
+Morocco;153;zinc mine;;2015;53747
+Myanmar;153;zinc mine;;2015;31025
+Namibia;153;zinc mine;;2015;123529
+Nigeria;153;zinc mine;;2015;14000
+North Macedonia;153;zinc mine;;2015;29150
+Pakistan;153;zinc mine;;2015;0
+Peru;153;zinc mine;;2015;1421218
+Philippines;153;zinc mine;;2015;
+Poland;153;zinc mine;;2015;52709
+Portugal;153;zinc mine;;2015;61921
+Romania;153;zinc mine;;2015;3000
+Russia;153;zinc mine;;2015;206000
+Saudi Arabia;153;zinc mine;;2015;39000
+Serbia;153;zinc mine;;2015;4400
+Slovakia;153;zinc mine;;2015;190
+South Africa;153;zinc mine;;2015;29040
+Spain;153;zinc mine;;2015;49216
+Sudan;153;zinc mine;;2015;46
+Sweden;153;zinc mine;;2015;246983
+Tajikistan;153;zinc mine;;2015;52790
+Thailand;153;zinc mine;;2015;27154
+Tunisia;153;zinc mine;;2015;
+Turkey;153;zinc mine;;2015;173589
+USA;153;zinc mine;;2015;824700
+Uzbekistan;153;zinc mine;;2015;12000
+Vietnam;153;zinc mine;;2015;15000
+Zambia;153;zinc mine;;2015;0
+Algeria;153;zinc mine;;2016;314
+Argentina;153;zinc mine;;2016;26680
+Armenia;153;zinc mine;;2016;4735
+Australia;153;zinc mine;;2016;884826
+Bolivia;153;zinc mine;;2016;489293
+Bosnia & Herzegovina;153;zinc mine;;2016;9670
+Brazil;153;zinc mine;;2016;158200
+Bulgaria;153;zinc mine;;2016;11415
+Burkina Faso;153;zinc mine;;2016;81422
+Canada;153;zinc mine;;2016;301210
+Chile;153;zinc mine;;2016;42870
+China;153;zinc mine;;2016;4710500
+Congo;153;zinc mine;;2016;300
+Congo, Democratic Republic;153;zinc mine;;2016;12587
+Cuba;153;zinc mine;;2016;0
+Dominican Republic;153;zinc mine;;2016;3636
+Eritrea;153;zinc mine;;2016;40900
+Finland;153;zinc mine;;2016;45852
+Georgia;153;zinc mine;;2016;
+Greece;153;zinc mine;;2016;18866
+Guatemala;153;zinc mine;;2016;14975
+Honduras;153;zinc mine;;2016;14579
+India;153;zinc mine;;2016;755778
+Indonesia;153;zinc mine;;2016;8500
+Iran;153;zinc mine;;2016;135000
+Ireland, Republic of;153;zinc mine;;2016;147797
+Kazakhstan;153;zinc mine;;2016;351000
+Korea (Rep. of);153;zinc mine;;2016;2257
+Korea, Dem. P.R. of;153;zinc mine;;2016;66469
+Kosovo;153;zinc mine;;2016;4814
+Laos;153;zinc mine;;2016;700
+Mexico;153;zinc mine;;2016;661646
+Mongolia;153;zinc mine;;2016;50100
+Montenegro;153;zinc mine;;2016;8100
+Morocco;153;zinc mine;;2016;53880
+Myanmar;153;zinc mine;;2016;72640
+Namibia;153;zinc mine;;2016;124749
+Nigeria;153;zinc mine;;2016;14000
+North Macedonia;153;zinc mine;;2016;24871
+Pakistan;153;zinc mine;;2016;7702
+Peru;153;zinc mine;;2016;1337081
+Philippines;153;zinc mine;;2016;
+Poland;153;zinc mine;;2016;50124
+Portugal;153;zinc mine;;2016;71052
+Romania;153;zinc mine;;2016;1600
+Russia;153;zinc mine;;2016;245800
+Saudi Arabia;153;zinc mine;;2016;41640
+Serbia;153;zinc mine;;2016;6200
+Slovakia;153;zinc mine;;2016;126
+South Africa;153;zinc mine;;2016;26695
+Spain;153;zinc mine;;2016;76342
+Sudan;153;zinc mine;;2016;
+Sweden;153;zinc mine;;2016;258264
+Tajikistan;153;zinc mine;;2016;74087
+Thailand;153;zinc mine;;2016;33983
+Tunisia;153;zinc mine;;2016;
+Turkey;153;zinc mine;;2016;118700
+USA;153;zinc mine;;2016;804800
+Uzbekistan;153;zinc mine;;2016;12000
+Vietnam;153;zinc mine;;2016;12000
+Zambia;153;zinc mine;;2016;0
+Algeria;153;zinc mine;;2017;500
+Argentina;153;zinc mine;;2017;23392
+Armenia;153;zinc mine;;2017;5784
+Australia;153;zinc mine;;2017;852164
+Bolivia;153;zinc mine;;2017;527206
+Bosnia & Herzegovina;153;zinc mine;;2017;10235
+Brazil;153;zinc mine;;2017;156500
+Bulgaria;153;zinc mine;;2017;10886
+Burkina Faso;153;zinc mine;;2017;92731
+Canada;153;zinc mine;;2017;346776
+Chile;153;zinc mine;;2017;29008
+China;153;zinc mine;;2017;3868500
+Congo;153;zinc mine;;2017;4300
+Congo, Democratic Republic;153;zinc mine;;2017;12377
+Cuba;153;zinc mine;;2017;2900
+Dominican Republic;153;zinc mine;;2017;3920
+Eritrea;153;zinc mine;;2017;95400
+Finland;153;zinc mine;;2017;66284
+Georgia;153;zinc mine;;2017;0
+Greece;153;zinc mine;;2017;17300
+Guatemala;153;zinc mine;;2017;6100
+Honduras;153;zinc mine;;2017;20436
+India;153;zinc mine;;2017;772600
+Indonesia;153;zinc mine;;2017;13900
+Iran;153;zinc mine;;2017;140000
+Ireland, Republic of;153;zinc mine;;2017;130580
+Kazakhstan;153;zinc mine;;2017;345000
+Korea (Rep. of);153;zinc mine;;2017;3321
+Korea, Dem. P.R. of;153;zinc mine;;2017;35671
+Kosovo;153;zinc mine;;2017;4468
+Laos;153;zinc mine;;2017;5700
+Mexico;153;zinc mine;;2017;671444
+Mongolia;153;zinc mine;;2017;82700
+Montenegro;153;zinc mine;;2017;8800
+Morocco;153;zinc mine;;2017;51701
+Myanmar;153;zinc mine;;2017;12560
+Namibia;153;zinc mine;;2017;132854
+Nigeria;153;zinc mine;;2017;22000
+North Macedonia;153;zinc mine;;2017;27846
+Pakistan;153;zinc mine;;2017;19457
+Peru;153;zinc mine;;2017;1473073
+Philippines;153;zinc mine;;2017;
+Poland;153;zinc mine;;2017;44959
+Portugal;153;zinc mine;;2017;71357
+Romania;153;zinc mine;;2017;800
+Russia;153;zinc mine;;2017;255200
+Saudi Arabia;153;zinc mine;;2017;21677
+Serbia;153;zinc mine;;2017;11900
+Slovakia;153;zinc mine;;2017;166
+South Africa;153;zinc mine;;2017;30778
+Spain;153;zinc mine;;2017;70451
+Sudan;153;zinc mine;;2017;
+Sweden;153;zinc mine;;2017;251244
+Tajikistan;153;zinc mine;;2017;92764
+Thailand;153;zinc mine;;2017;1182
+Tunisia;153;zinc mine;;2017;
+Turkey;153;zinc mine;;2017;155900
+USA;153;zinc mine;;2017;773800
+Uzbekistan;153;zinc mine;;2017;37000
+Vietnam;153;zinc mine;;2017;12000
+Zambia;153;zinc mine;;2017;0
+Algeria;153;zinc mine;;2018;500
+Argentina;153;zinc mine;;2018;22050
+Armenia;153;zinc mine;;2018;6497
+Australia;153;zinc mine;;2018;1146781
+Bolivia;153;zinc mine;;2018;519630
+Bosnia & Herzegovina;153;zinc mine;;2018;10603
+Brazil;153;zinc mine;;2018;169800
+Bulgaria;153;zinc mine;;2018;11367
+Burkina Faso;153;zinc mine;;2018;99162
+Canada;153;zinc mine;;2018;304964
+Chile;153;zinc mine;;2018;26810
+China;153;zinc mine;;2018;3721100
+Congo;153;zinc mine;;2018;500
+Congo, Democratic Republic;153;zinc mine;;2018;1129
+Cuba;153;zinc mine;;2018;42000
+Dominican Republic;153;zinc mine;;2018;4038
+Eritrea;153;zinc mine;;2018;125000
+Finland;153;zinc mine;;2018;85335
+Georgia;153;zinc mine;;2018;0
+Greece;153;zinc mine;;2018;21456
+Guatemala;153;zinc mine;;2018;0
+Honduras;153;zinc mine;;2018;28421
+India;153;zinc mine;;2018;728402
+Indonesia;153;zinc mine;;2018;20100
+Iran;153;zinc mine;;2018;145000
+Ireland, Republic of;153;zinc mine;;2018;131742
+Kazakhstan;153;zinc mine;;2018;346000
+Korea (Rep. of);153;zinc mine;;2018;3656
+Korea, Dem. P.R. of;153;zinc mine;;2018;35000
+Kosovo;153;zinc mine;;2018;3619
+Laos;153;zinc mine;;2018;3100
+Mexico;153;zinc mine;;2018;662355
+Mongolia;153;zinc mine;;2018;43950
+Montenegro;153;zinc mine;;2018;10668
+Morocco;153;zinc mine;;2018;43567
+Myanmar;153;zinc mine;;2018;11700
+Namibia;153;zinc mine;;2018;118435
+Nigeria;153;zinc mine;;2018;27000
+North Macedonia;153;zinc mine;;2018;29715
+Pakistan;153;zinc mine;;2018;26979
+Peru;153;zinc mine;;2018;1474383
+Philippines;153;zinc mine;;2018;
+Poland;153;zinc mine;;2018;41886
+Portugal;153;zinc mine;;2018;144983
+Romania;153;zinc mine;;2018;600
+Russia;153;zinc mine;;2018;288000
+Saudi Arabia;153;zinc mine;;2018;18000
+Serbia;153;zinc mine;;2018;11800
+Slovakia;153;zinc mine;;2018;151
+South Africa;153;zinc mine;;2018;28129
+Spain;153;zinc mine;;2018;106352
+Sudan;153;zinc mine;;2018;
+Sweden;153;zinc mine;;2018;237715
+Tajikistan;153;zinc mine;;2018;82329
+Thailand;153;zinc mine;;2018;0
+Tunisia;153;zinc mine;;2018;
+Turkey;153;zinc mine;;2018;184468
+USA;153;zinc mine;;2018;824000
+Uzbekistan;153;zinc mine;;2018;31000
+Vietnam;153;zinc mine;;2018;12000
+Zambia;153;zinc mine;;2018;0
+Algeria;153;zinc mine;;2019;1000
+Argentina;153;zinc mine;;2019;16407
+Armenia;153;zinc mine;;2019;6743
+Australia;153;zinc mine;;2019;1337321
+Bolivia;153;zinc mine;;2019;527521
+Bosnia & Herzegovina;153;zinc mine;;2019;6440
+Brazil;153;zinc mine;;2019;163400
+Bulgaria;153;zinc mine;;2019;14570
+Burkina Faso;153;zinc mine;;2019;95611
+Canada;153;zinc mine;;2019;323019
+Chile;153;zinc mine;;2019;5620
+China;153;zinc mine;;2019;3685800
+Congo;153;zinc mine;;2019;4800
+Congo, Democratic Republic;153;zinc mine;;2019;6134
+Cuba;153;zinc mine;;2019;57800
+Dominican Republic;153;zinc mine;;2019;5527
+Eritrea;153;zinc mine;;2019;121260
+Finland;153;zinc mine;;2019;68153
+Georgia;153;zinc mine;;2019;0
+Greece;153;zinc mine;;2019;22298
+Guatemala;153;zinc mine;;2019;0
+Honduras;153;zinc mine;;2019;29223
+India;153;zinc mine;;2019;723412
+Indonesia;153;zinc mine;;2019;26200
+Iran;153;zinc mine;;2019;150000
+Ireland, Republic of;153;zinc mine;;2019;122500
+Kazakhstan;153;zinc mine;;2019;321900
+Korea (Rep. of);153;zinc mine;;2019;4106
+Korea, Dem. P.R. of;153;zinc mine;;2019;30000
+Kosovo;153;zinc mine;;2019;3089
+Laos;153;zinc mine;;2019;1300
+Mexico;153;zinc mine;;2019;859194
+Mongolia;153;zinc mine;;2019;41550
+Montenegro;153;zinc mine;;2019;9518
+Morocco;153;zinc mine;;2019;43600
+Myanmar;153;zinc mine;;2019;39000
+Namibia;153;zinc mine;;2019;114735
+Nigeria;153;zinc mine;;2019;23000
+North Macedonia;153;zinc mine;;2019;31041
+Pakistan;153;zinc mine;;2019;37365
+Peru;153;zinc mine;;2019;1404382
+Philippines;153;zinc mine;;2019;
+Poland;153;zinc mine;;2019;37645
+Portugal;153;zinc mine;;2019;161569
+Romania;153;zinc mine;;2019;1300
+Russia;153;zinc mine;;2019;275400
+Saudi Arabia;153;zinc mine;;2019;18900
+Serbia;153;zinc mine;;2019;6900
+Slovakia;153;zinc mine;;2019;119
+South Africa;153;zinc mine;;2019;125157
+Spain;153;zinc mine;;2019;90980
+Sudan;153;zinc mine;;2019;
+Sweden;153;zinc mine;;2019;247657
+Tajikistan;153;zinc mine;;2019;78148
+Thailand;153;zinc mine;;2019;0
+Tunisia;153;zinc mine;;2019;
+Turkey;153;zinc mine;;2019;146800
+USA;153;zinc mine;;2019;753000
+Uzbekistan;153;zinc mine;;2019;37000
+Vietnam;153;zinc mine;;2019;12000
+Zambia;153;zinc mine;;2019;44
+Algeria;153;zinc mine;;2020;1600
+Argentina;153;zinc mine;;2020;8569
+Armenia;153;zinc mine;;2020;7758
+Australia;153;zinc mine;;2020;1314910
+Bolivia;153;zinc mine;;2020;358411
+Bosnia & Herzegovina;153;zinc mine;;2020;4849
+Brazil;153;zinc mine;;2020;174500
+Bulgaria;153;zinc mine;;2020;14700
+Burkina Faso;153;zinc mine;;2020;73543
+Canada;153;zinc mine;;2020;371491
+Chile;153;zinc mine;;2020;28662
+China;153;zinc mine;;2020;4058000
+Congo;153;zinc mine;;2020;1100
+Congo, Democratic Republic;153;zinc mine;;2020;15305
+Cuba;153;zinc mine;;2020;57700
+Dominican Republic;153;zinc mine;;2020;2361
+Eritrea;153;zinc mine;;2020;121930
+Finland;153;zinc mine;;2020;57962
+Georgia;153;zinc mine;;2020;2243
+Greece;153;zinc mine;;2020;28037
+Guatemala;153;zinc mine;;2020;0
+Honduras;153;zinc mine;;2020;27000
+India;153;zinc mine;;2020;756998
+Indonesia;153;zinc mine;;2020;17420
+Iran;153;zinc mine;;2020;150000
+Ireland, Republic of;153;zinc mine;;2020;127008
+Kazakhstan;153;zinc mine;;2020;335400
+Korea (Rep. of);153;zinc mine;;2020;4252
+Korea, Dem. P.R. of;153;zinc mine;;2020;28000
+Kosovo;153;zinc mine;;2020;3909
+Laos;153;zinc mine;;2020;1200
+Mexico;153;zinc mine;;2020;1008252
+Mongolia;153;zinc mine;;2020;38150
+Montenegro;153;zinc mine;;2020;10133
+Morocco;153;zinc mine;;2020;38000
+Myanmar;153;zinc mine;;2020;6755
+Namibia;153;zinc mine;;2020;62333
+Nigeria;153;zinc mine;;2020;26900
+North Macedonia;153;zinc mine;;2020;31748
+Pakistan;153;zinc mine;;2020;17527
+Peru;153;zinc mine;;2020;1334570
+Philippines;153;zinc mine;;2020;
+Poland;153;zinc mine;;2020;39500
+Portugal;153;zinc mine;;2020;176849
+Romania;153;zinc mine;;2020;100
+Russia;153;zinc mine;;2020;260700
+Saudi Arabia;153;zinc mine;;2020;50819
+Serbia;153;zinc mine;;2020;6500
+Slovakia;153;zinc mine;;2020;96
+South Africa;153;zinc mine;;2020;160816
+Spain;153;zinc mine;;2020;90368
+Sudan;153;zinc mine;;2020;
+Sweden;153;zinc mine;;2020;234811
+Tajikistan;153;zinc mine;;2020;48416
+Thailand;153;zinc mine;;2020;0
+Tunisia;153;zinc mine;;2020;
+Turkey;153;zinc mine;;2020;136300
+USA;153;zinc mine;;2020;718000
+Uzbekistan;153;zinc mine;;2020;41000
+Vietnam;153;zinc mine;;2020;12000
+Zambia;153;zinc mine;;2020;1500
+Algeria;153;zinc mine;;2021;500
+Argentina;153;zinc mine;;2021;6187
+Armenia;153;zinc mine;;2021;6373
+Australia;153;zinc mine;;2021;1315160
+Bolivia;153;zinc mine;;2021;499257
+Bosnia & Herzegovina;153;zinc mine;;2021;5309
+Brazil;153;zinc mine;;2021;159900
+Bulgaria;153;zinc mine;;2021;21600
+Burkina Faso;153;zinc mine;;2021;74295
+Canada;153;zinc mine;;2021;310158
+Chile;153;zinc mine;;2021;27915
+China;153;zinc mine;;2021;4737000
+Congo;153;zinc mine;;2021;2600
+Congo, Democratic Republic;153;zinc mine;;2021;16079
+Cuba;153;zinc mine;;2021;45000
+Dominican Republic;153;zinc mine;;2021;4896
+Eritrea;153;zinc mine;;2021;129641
+Finland;153;zinc mine;;2021;54353
+Georgia;153;zinc mine;;2021;2059
+Greece;153;zinc mine;;2021;22598
+Guatemala;153;zinc mine;;2021;0
+Honduras;153;zinc mine;;2021;32000
+India;153;zinc mine;;2021;735000
+Indonesia;153;zinc mine;;2021;15151
+Iran;153;zinc mine;;2021;150000
+Ireland, Republic of;153;zinc mine;;2021;112249
+Kazakhstan;153;zinc mine;;2021;326900
+Korea (Rep. of);153;zinc mine;;2021;4371
+Korea, Dem. P.R. of;153;zinc mine;;2021;28000
+Kosovo;153;zinc mine;;2021;4513
+Laos;153;zinc mine;;2021;5400
+Mexico;153;zinc mine;;2021;742900
+Mongolia;153;zinc mine;;2021;35100
+Montenegro;153;zinc mine;;2021;9357
+Morocco;153;zinc mine;;2021;49500
+Myanmar;153;zinc mine;;2021;9800
+Namibia;153;zinc mine;;2021;83362
+Nigeria;153;zinc mine;;2021;32200
+North Macedonia;153;zinc mine;;2021;30074
+Pakistan;153;zinc mine;;2021;17700
+Peru;153;zinc mine;;2021;1532043
+Philippines;153;zinc mine;;2021;
+Poland;153;zinc mine;;2021;40388
+Portugal;153;zinc mine;;2021;187703
+Romania;153;zinc mine;;2021;2500
+Russia;153;zinc mine;;2021;280000
+Saudi Arabia;153;zinc mine;;2021;53360
+Serbia;153;zinc mine;;2021;6400
+Slovakia;153;zinc mine;;2021;25
+South Africa;153;zinc mine;;2021;193785
+Spain;153;zinc mine;;2021;90481
+Sudan;153;zinc mine;;2021;
+Sweden;153;zinc mine;;2021;236416
+Tajikistan;153;zinc mine;;2021;70573
+Thailand;153;zinc mine;;2021;0
+Tunisia;153;zinc mine;;2021;
+Turkey;153;zinc mine;;2021;171200
+USA;153;zinc mine;;2021;740000
+Uzbekistan;153;zinc mine;;2021;42000
+Vietnam;153;zinc mine;;2021;12000
+Zambia;153;zinc mine;;2021;0
