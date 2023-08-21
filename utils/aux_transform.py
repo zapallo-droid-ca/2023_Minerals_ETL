@@ -75,3 +75,20 @@ def df_pivot_wnames(data,index_,columns_,values_,fillnas = True):
     column_names = data_pivot.columns.get_level_values(0)[:(len(values_*columns_values))-1].append(data_pivot.columns.get_level_values(0)[-(len(values_*columns_values)):] + '_' + column_suffixes)
     data_pivot.columns = column_names
     return data_pivot
+
+
+def unit_to_toe(x_value, x_value_unit ,average_energy_content):
+    
+    """
+        x_value_unit: string, indicating the unit of x_value
+        average_energy_content: in MJ / unit indicated in x_value_unit
+    """
+    
+    energy_toe = 41.868 #GJ/toe
+    
+    energy_value = x_value * average_energy_content
+    x_value_gj_ = energy_value / 1000 #x value converted to GJ
+    x_value_toe = x_value_gj_ / energy_toe
+    
+    #print(f'{x_value} {x_value_unit} of resource converted to toe with an average energy content of {average_energy_content} MJ/{x_value_unit}')
+    return x_value_toe

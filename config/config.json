@@ -9,6 +9,7 @@
 		{"root":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/output_data/"},
 		{"aggregated":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/output_data/aggregated_data/"},
 		{"cleaned":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/output_data/cleaned_data/"},
+		{"loaded":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/output_data/loaded_data/"},
 		{"processed":"C:/Users/jrab9/OneDrive/08.Github/2023.Minerals-ETL/output_data/processed_data/"}
 		],
 		

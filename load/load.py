@@ -21,13 +21,14 @@ os.chdir(main_wd)
 
 ##-- Work Directory  
 wd_in = [x for x in json.load(open('./config/config.json',))[0]['output_data'] if 'processed' in x][0]['processed']
-wd_out = [x for x in json.load(open('./config/config.json',))[0]['db'] if 'db' in x][0]['db']
+wd_out = [x for x in json.load(open('./config/config.json',))[0]['output_data'] if 'loaded' in x][0]['loaded']
 csvAttr_imp = json.load(open('./config/config.json',))[0]['csvAttr_imp'][0]
+csvAttr_exp = json.load(open('./config/config.json',))[0]['csvAttr_exp'][0]
 
 ##-- Reading Data
 # Fact Tables
 ft_production= pd.read_csv(wd_in + 'df_prod_agg.csv.gz', sep = csvAttr_imp['sep'], encoding = csvAttr_imp['encoding'])
-ft_production = ft_production[['key','country_code','mineral_code','year','value']].copy() #Reordering
+ft_production = ft_production[['key','country_code','mineral_code','unit_code','year','value']].copy() #Reordering
 
 ft_trade = pd.read_csv(wd_in + 'df_trade_pivot.csv.gz', sep = csvAttr_imp['sep'], encoding = csvAttr_imp['encoding'])
 ft_trade = ft_trade[['key','country_code','mineral_code','year','unit_code','quantity_Import','quantity_Export','value_Export','value_Import']]
@@ -47,6 +48,14 @@ max_year = max([max(ft_production.year),max(ft_trade.year)])
 
 dim_calendar = pd.DataFrame(list(range(min_year,max_year,1)), columns = ['year'])
 
+##-- To .csv.gz backup
+dim_calendar.to_csv(wd_out + 'dim_calendar.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
+dim_country.to_csv(wd_out + 'dim_country.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
+dim_mineral.to_csv(wd_out + 'dim_mineral.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
+dim_trade_flow.to_csv(wd_out + 'dim_trade_flow.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
+dim_unit.to_csv(wd_out + 'dim_unit.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
+ft_production.to_csv(wd_out + 'ft_production.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
+ft_trade.to_csv(wd_out + 'ft_trade.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
 
 ##-- Preparing data to load (list of tuples)
 dim_calendar = [tuple(x) for x in dim_calendar.itertuples(index = False)]
@@ -87,7 +96,7 @@ cursor.executemany("INSERT INTO dim_trade_flow VALUES (?,?)", dim_trade_flow)
 print('dim_trade_flow loaded')
 cursor.executemany("INSERT INTO dim_unit VALUES (?,?)", dim_unit)
 print('dim_unit loaded')
-cursor.executemany("INSERT INTO ft_production VALUES (?,?,?,?,?)", ft_production)
+cursor.executemany("INSERT INTO ft_production VALUES (?,?,?,?,?,?)", ft_production)
 print('ft_production loaded')
 cursor.executemany("INSERT INTO ft_trade VALUES (?,?,?,?,?,?,?,?,?)", ft_trade)
 print('ft_trade loaded')
@@ -95,3 +104,8 @@ print('ft_trade loaded')
 conn.commit()
 
 conn.close()
+
+
+
+
+

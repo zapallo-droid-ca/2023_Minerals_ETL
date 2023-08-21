@@ -52,6 +52,9 @@ for file in files_in_dir.file:
     del(df_temp)
     print(f'file {counter} of {files_in_dir.shape[0]} loaded')
 
+##-- Dropping nulls in Unit
+df = df[df['QtyUnitCode'] != -1].reset_index(drop = True)
+
 ##-- Creating Dimension for countries
 dim_country = df.copy()[['ReporterCode', 'ReporterISO', 'ReporterDesc']].drop_duplicates().reset_index(drop = True)
 
@@ -59,11 +62,71 @@ dim_country = df.copy()[['ReporterCode', 'ReporterISO', 'ReporterDesc']].drop_du
 df = df.rename(columns = {'CmdCode':'commodity_code'}).merge(aux_minerals, on = 'commodity_code', how = 'left')
 df.drop(columns = 'commodity_code', inplace = True)
 
-##-- kgs to tonnes
-
+##-- Units transformations
+#- kgs to tonnes
 df['Qty'] = np.where(df['QtyUnitCode'] == 8, df['Qty'] / 1000, df['Qty'] )
+df['QtyUnitAbbr'] = np.where(df['QtyUnitCode'] == 8, 'tonnes' , df['QtyUnitAbbr'] )
 df['QtyUnitCode'] = np.where(df['QtyUnitCode'] == 8, 1 , df['QtyUnitCode'] )
-df['QtyUnitAbbr'] = np.where(df['QtyUnitCode'] == 8, 'tonnes' , df['QtyUnitCode'] )
+
+#- un to l #assuming that u is equivalent to l, there is not detail about
+df['Qty'] = np.where(df['QtyUnitCode'] == 8, df['Qty'] / 1000, df['Qty'] )
+df['QtyUnitAbbr'] = np.where(df['QtyUnitCode'] == 5, 'l' , df['QtyUnitAbbr'] )
+df['QtyUnitCode'] = np.where(df['QtyUnitCode'] == 5, 7 , df['QtyUnitCode'] )
+
+
+# source: https://www.engineeringtoolbox.com/fossil-fuels-energy-content-d_1298.html
+avg_e_content_gas_m = 40.60 #MJ/m3 Natural gas (US marked) #Gross Heating Value / PCS
+avg_e_content_gas_L = avg_e_content_gas_m / 1000  #liters Natural gas (US marked) #Gross Heating Value / PCS
+avg_e_content_gas_k = 52.2 #kg Natural gas (US marked) #Gross Heating Value / PCS
+avg_e_content_gas_t = avg_e_content_gas_k / 1000 #tonnes
+
+avg_e_content_pet_m = 40.60 #m3 Natural gas (US marked) #Gross Heating Value / PCS
+avg_e_content_pet_L = avg_e_content_pet_m / 1000 #liters // crude oil (US marked) #Gross Heating Value / PCS
+avg_e_content_pet_k = 45.5 #kg // crude oil (US marked) #Gross Heating Value / PCS
+avg_e_content_pet_t = avg_e_content_pet_k / 1000 #tonnes
+
+lithium_liters_in_tonne = 1872.66 #L/tonne
+
+#cm13: Natural Gas ; cm14: Petroleum, cm04: lithium
+#tn: 1, kg: 8, l: 7, u:5
+
+#-Natural Gas - From tonne to toe
+unit_code = 1 ; mineral_code = 'cm13' ; average_energy_content = avg_e_content_gas_t ; x_value_unit = 'MJ/tonne'
+
+df['Qty'] = df.apply(lambda x: aux_transform.unit_to_toe(x['Qty'], x_value_unit, average_energy_content) if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['Qty'], axis=1)
+df['QtyUnitAbbr'] = df.apply(lambda x: 'toe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
+df['QtyUnitCode'] = df.apply(lambda x: 0 if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitCode'], axis=1)
+
+
+#-Natural Gas - From L to toe
+unit_code = 7 ; mineral_code = 'cm13' ; average_energy_content = avg_e_content_gas_L ; x_value_unit = 'MJ/L'
+
+df['Qty'] = df.apply(lambda x: aux_transform.unit_to_toe(x['Qty'], x_value_unit, average_energy_content) if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['Qty'], axis=1)
+df['QtyUnitAbbr'] = df.apply(lambda x: 'toe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
+df['QtyUnitCode'] = df.apply(lambda x: 0 if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitCode'], axis=1)
+
+
+#-Petroleum (Crude) - From tonne to toe
+unit_code = 1 ; mineral_code = 'cm14' ; average_energy_content = avg_e_content_pet_t ; x_value_unit = 'MJ/tonne'
+
+df['Qty'] = df.apply(lambda x: aux_transform.unit_to_toe(x['Qty'], x_value_unit, average_energy_content) if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['Qty'], axis=1)
+df['QtyUnitAbbr'] = df.apply(lambda x: 'toe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
+df['QtyUnitCode'] = df.apply(lambda x: 0 if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitCode'], axis=1)
+
+#-Petroleum (Crude) - From L to toe
+unit_code = 7 ; mineral_code = 'cm14' ; average_energy_content = avg_e_content_pet_L ; x_value_unit = 'MJ/L'
+
+df['Qty'] = df.apply(lambda x: aux_transform.unit_to_toe(x['Qty'], x_value_unit, average_energy_content) if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['Qty'], axis=1)
+df['QtyUnitAbbr'] = df.apply(lambda x: 'toe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
+df['QtyUnitCode'] = df.apply(lambda x: 0 if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitCode'], axis=1)
+
+#-Lithium - From L to tonne
+unit_code = 7 ; mineral_code = 'cm04' ;
+
+df['Qty'] = df.apply(lambda x: x['Qty'] / lithium_liters_in_tonne if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['Qty'], axis=1)
+df['QtyUnitAbbr'] = df.apply(lambda x: 'tonnes' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
+df['QtyUnitCode'] = df.apply(lambda x: 1 if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitCode'], axis=1)
+
 
 ##-- Aggregatting data:
 index_cols = ['ReporterISO','FlowCode','FlowDesc', 'QtyUnitAbbr',
@@ -96,6 +159,9 @@ df_pivot['key'] = df_pivot['year'].astype(str) + '-' + df_pivot['unit_code'].ast
 dim_trade_flow = df.copy()[['flow_code', 'flow_desc']].drop_duplicates().reset_index(drop = True)
 dim_trade_unit = df.copy()[['unit_code', 'unit_desc']].drop_duplicates().reset_index(drop = True)
 
+dim_trade_unit = dim_trade_unit.drop_duplicates().reset_index(drop = True)
+
+
 ##-- Exporting
 df.to_csv(wd_out + 'processed_data/df_trade_agg.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding =  csvAttr_exp['encoding'])
 df_pivot.to_csv(wd_out + 'processed_data/df_trade_pivot.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding =  csvAttr_exp['encoding'])
@@ -103,4 +169,3 @@ df_pivot.to_csv(wd_out + 'processed_data/df_trade_pivot.csv.gz', index = False, 
 dim_trade_flow.to_csv(wd_out + 'processed_data/dim_trade_flow.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding =  csvAttr_exp['encoding'])
 dim_trade_unit.to_csv(wd_out + 'processed_data/dim_trade_unit.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding =  csvAttr_exp['encoding'])
 
-dim_trade_unit = pd.concat([dim_trade_unit,pd.DataFrame([{'unit_code':'1','unit_desc':'tonnes'}, {'unit_code':'0','unit_desc':'million cubic metres'}])])

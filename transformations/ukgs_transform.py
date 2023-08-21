@@ -34,8 +34,13 @@ files_in_dir = aux_transform.filesinpath_funct(path = wd_in, extensions = ['csv'
 ##-- Raw Data
 df = pd.read_csv(wd_in + files_in_dir.file[0], sep = csvAttr_imp['sep'], encoding = csvAttr_imp['encoding']).drop(columns = ['commodity_desc','Sub-commodity'])
 
-aux_minerals = pd.read_json(main_wd + './config/ukgs_aux.json').drop(columns = 'unit')[['mineral_code','commodity_code']]
+#-Minerals
+#aux_minerals = pd.read_json(main_wd + './config/ukgs_aux.json').drop(columns = 'unit')[['mineral_code','commodity_code']]
+aux_minerals = pd.read_json(main_wd + './config/ukgs_aux.json')[['mineral_code','commodity_code','unit']].rename(columns = {'unit':'unit_code'})
+aux_minerals['unit_code'] = aux_minerals['unit_code'].astype(str)
+aux_minerals['unit_code'] = aux_minerals['unit_code'].replace({'tonnes':'1','million cubic metres':'x'})
 
+#-Regions
 aux_regions = pd.read_csv('./raw_data/aux_sources/curatedRegions.csv', sep = ',', encoding= csvAttr_imp['encoding'])[['Three_Letter_Country_Code','Continent_Name']].drop_duplicates()
 aux_regions = aux_regions[aux_regions['Three_Letter_Country_Code'].isna() == False].reset_index(drop = True)
 aux_regions.rename(columns = {'Three_Letter_Country_Code':'country_code','Continent_Name':'region_desc'}, inplace = True)
@@ -48,10 +53,28 @@ aux_regions = aux_regions[((aux_regions['country_code'] == 'TUR') & (aux_regions
 aux_regions = aux_regions[((aux_regions['country_code'] == 'KAZ') & (aux_regions['region_desc'] == 'Europe')) == False].reset_index(drop = True)
 aux_regions = aux_regions[((aux_regions['country_code'] == 'UMI') & (aux_regions['region_desc'] == 'Oceania')) == False].reset_index(drop = True)
 
-
 ##-- Consolidating mineral codes
 df = df.merge(aux_minerals, on = 'commodity_code', how = 'left')
 df.drop(columns = 'commodity_code', inplace = True)
+
+##-- Units transformations
+# source: https://www.engineeringtoolbox.com/fossil-fuels-energy-content-d_1298.html
+avg_e_content_gas_m = 40.60 / 1000000 #MJ/m3 Natural gas (US marked) #Gross Heating Value / PCS
+avg_e_content_pet_k = 45.5 #MJ/kg // crude oil (US marked) #Gross Heating Value / PCS
+avg_e_content_pet_t = avg_e_content_pet_k / 1000 #tonnes
+
+#cm13: Natural Gas ; cm14: Petroleum
+#tn: 1, kg: 8, l: 7, u:5
+
+#-Natural Gas - From millions m3 to toe
+unit_code = 'x' ; mineral_code = 'cm13' ; average_energy_content = avg_e_content_gas_m ; x_value_unit = 'MJ/millon m3'
+df['value'] = df.apply(lambda x: aux_transform.unit_to_toe(x['value'], x_value_unit, average_energy_content) if x['unit_code'] == unit_code and x['mineral_code'] == mineral_code else x['value'], axis=1)
+df['unit_code'] = df.apply(lambda x: 0 if x['unit_code'] == unit_code and x['mineral_code'] == mineral_code else x['unit_code'], axis=1)
+
+#-Petroleum (Crude) - From tonne to toe
+unit_code = '1' ; mineral_code = 'cm14' ; average_energy_content = avg_e_content_pet_t ; x_value_unit = 'MJ/tonne'
+df['value'] = df.apply(lambda x: aux_transform.unit_to_toe(x['value'], x_value_unit, average_energy_content) if x['unit_code'] == unit_code and x['mineral_code'] == mineral_code else x['value'], axis=1)
+df['unit_code'] = df.apply(lambda x: 0 if x['unit_code'] == unit_code and x['mineral_code'] == mineral_code else x['unit_code'], axis=1)
 
 
 ##-- Dealing with countries: 
@@ -107,10 +130,10 @@ df_countries = df_countries[['country_code','country_desc','region_desc']]
 del(aux_country, df_countries_normalized, custom_stopwords, abbreviations, iter_values)
 
 #Creating Primary Keys
-df['key'] = df['country_code'] + '-' + df['mineral_code'].astype(str) + '-' + df['year'].astype(str)
+df['key'] = df['country_code'] + '-' + df['mineral_code'].astype(str) + '-' + df['unit_code'].astype(str) + '-' + df['year'].astype(str)
 
 #Aggregating the fact table
-df = df.groupby(['country_code', 'mineral_code','year','key']).agg(value = ('value','sum')).reset_index()
+df = df.groupby(['country_code', 'mineral_code','unit_code','year','key']).agg(value = ('value','sum')).reset_index()
 
 ##-- Exporting
 df.to_csv(wd_out + 'processed_data/df_prod_agg.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding =  csvAttr_exp['encoding'])
