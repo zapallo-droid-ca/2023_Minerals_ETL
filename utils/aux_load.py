@@ -8,6 +8,7 @@ def table_creation(table_name, query_path, conn):
         print(f'{table_name} has been eliminated from DB')
     except:
         print(f'{table_name} is not in the DB')
+        
     finally:        
         cursor.execute(open(query_path).read())
         print(f'{table_name} has been created in the DB')

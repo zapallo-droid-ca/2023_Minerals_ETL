@@ -33,6 +33,9 @@ ft_production = ft_production[['key','country_code','mineral_code','unit_code','
 ft_trade = pd.read_csv(wd_in + 'df_trade_pivot.csv.gz', sep = csvAttr_imp['sep'], encoding = csvAttr_imp['encoding'])
 ft_trade = ft_trade[['key','country_code','mineral_code','year','unit_code','quantity_Import','quantity_Export','value_Export','value_Import']]
 
+ft_minerals = pd.read_csv(wd_in + 'ft_minerals.csv.gz', sep = csvAttr_imp['sep'], encoding = csvAttr_imp['encoding'])
+ft_minerals = ft_minerals[['key','country_code','mineral_code','unit_code','year','value','quantity_Import','quantity_Export','value_Export','value_Import','trade_isna']]
+
 #Dimensions
 dim_trade_flow = pd.read_csv(wd_in + 'dim_trade_flow.csv.gz', sep = csvAttr_imp['sep'], encoding = csvAttr_imp['encoding'])
 
@@ -56,6 +59,7 @@ dim_trade_flow.to_csv(wd_out + 'dim_trade_flow.csv.gz', index = False, sep = csv
 dim_unit.to_csv(wd_out + 'dim_unit.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
 ft_production.to_csv(wd_out + 'ft_production.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
 ft_trade.to_csv(wd_out + 'ft_trade.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
+ft_minerals.to_csv(wd_out + 'ft_minerals.csv.gz', index = False, sep = csvAttr_exp['sep'], encoding = csvAttr_exp['encoding'])
 
 ##-- Preparing data to load (list of tuples)
 dim_calendar = [tuple(x) for x in dim_calendar.itertuples(index = False)]
@@ -65,20 +69,20 @@ dim_trade_flow = [tuple(x) for x in dim_trade_flow.itertuples(index = False)]
 dim_unit = [tuple(x) for x in dim_unit.itertuples(index = False)]
 ft_production = [tuple(x) for x in ft_production.itertuples(index = False)]
 ft_trade = [tuple(x) for x in ft_trade.itertuples(index = False)]
-
+ft_minerals = [tuple(x) for x in ft_minerals.itertuples(index = False)]
 
 ##-- DB Connection
 conn = sqlite3.connect(main_wd + '/db/minerals_db.db')
 
 tables_to_create = ['dim_country','dim_mineral','dim_calendar',
                     'dim_unit','dim_trade_flow','ft_production',
-                    'ft_trade']
+                    'ft_trade', 'ft_minerals']
 
 for table_name in tables_to_create:
     aux_load.table_creation(table_name = table_name,
                             query_path = main_wd + f'./config/create_{table_name}.sql',
                             conn = conn)
-    
+
 conn.commit()
 conn.close()
 
@@ -100,6 +104,8 @@ cursor.executemany("INSERT INTO ft_production VALUES (?,?,?,?,?,?)", ft_producti
 print('ft_production loaded')
 cursor.executemany("INSERT INTO ft_trade VALUES (?,?,?,?,?,?,?,?,?)", ft_trade)
 print('ft_trade loaded')
+cursor.executemany("INSERT INTO ft_minerals VALUES (?,?,?,?,?,?,?,?,?,?,?)", ft_minerals)
+print('ft_minerals loaded')
 
 conn.commit()
 

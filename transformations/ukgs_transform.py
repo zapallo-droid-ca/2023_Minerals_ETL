@@ -130,7 +130,7 @@ df_countries = df_countries[['country_code','country_desc','region_desc']]
 del(aux_country, df_countries_normalized, custom_stopwords, abbreviations, iter_values)
 
 #Creating Primary Keys
-df['key'] = df['country_code'] + '-' + df['mineral_code'].astype(str) + '-' + df['unit_code'].astype(str) + '-' + df['year'].astype(str)
+df['key'] = df['year'].astype(str) + '-' + df['unit_code'].astype(str) + '-' + df['country_code'] + '-' + df['mineral_code'].astype(str)
 
 #Aggregating the fact table
 df = df.groupby(['country_code', 'mineral_code','unit_code','year','key']).agg(value = ('value','sum')).reset_index()
