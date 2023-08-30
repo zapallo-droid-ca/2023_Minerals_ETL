@@ -126,6 +126,15 @@ df_countries = df_countries.merge(aux_country.rename(columns = {'alpha3ISO':'cou
 #Regions
 df_countries = df_countries.merge(aux_regions, on = 'country_code', how = 'left')
 df_countries = df_countries[['country_code','country_desc','region_desc']]
+#Other countries non producers
+
+aux_country = aux_country.rename(columns = {'alpha3ISO':'country_code'}).merge(aux_regions, on = 'country_code', how = 'left')
+aux_country = aux_country[['country_code','country_desc','region_desc']]
+
+aux_country = aux_country[(aux_country['country_code'].isin(df_countries['country_code']) == False) & (aux_country['region_desc'].isna() == False)]
+df_countries = pd.concat([df_countries,aux_country])
+df_countries.sort_values(by = 'country_code', ascending = True, inplace = True)
+
 
 del(aux_country, df_countries_normalized, custom_stopwords, abbreviations, iter_values)
 

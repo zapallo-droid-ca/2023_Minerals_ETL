@@ -55,6 +55,16 @@ for file in files_in_dir.file:
 ##-- Dropping nulls in Unit
 df = df[df['QtyUnitCode'] != -1].reset_index(drop = True)
 
+##--former_states
+#There are some countries that needs to be added to a major one
+former_states_i = {'SCG':'SRB','ANT':'NLD','GLP':'FRA','GUF':'FRA','MYT':'FRA','REU':'FRA','ZA1':'ZAF','S19':'CHN'}
+former_states_c = {'SCG':'688','ANT':'528','GLP':'251','GUF':'251','MYT':'251','REU':'251','ZA1':'710','S19':'156'}
+former_states_n = {'SCG':'Serbia','ANT':'Netherlands','GLP':'France','GUF':'France','MYT':'France','REU':'France','ZA1':'South Africa','S19':'China'}
+
+df['ReporterISO'] =  df['ReporterISO'].replace(former_states_i)
+df['ReporterCode'] = df['ReporterCode'].apply(lambda x: x.replace(former_states_c[x]) if x in former_states_c else x)
+df['ReporterDesc'] = df['ReporterDesc'].apply(lambda x: x.replace(former_states_n[x]) if x in former_states_n else x)
+
 ##-- Creating Dimension for countries
 dim_country = df.copy()[['ReporterCode', 'ReporterISO', 'ReporterDesc']].drop_duplicates().reset_index(drop = True)
 
