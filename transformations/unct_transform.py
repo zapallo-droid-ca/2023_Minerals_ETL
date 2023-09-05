@@ -104,7 +104,7 @@ lithium_liters_in_tonne = 1872.66 #L/tonne
 unit_code = 1 ; mineral_code = 'cm13' ; average_energy_content = avg_e_content_gas_t ; x_value_unit = 'MJ/tonne'
 
 df['Qty'] = df.apply(lambda x: aux_transform.unit_to_toe(x['Qty'], x_value_unit, average_energy_content) if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['Qty'], axis=1)
-df['QtyUnitAbbr'] = df.apply(lambda x: 'toe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
+df['QtyUnitAbbr'] = df.apply(lambda x: 'mtoe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
 df['QtyUnitCode'] = df.apply(lambda x: 0 if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitCode'], axis=1)
 
 
@@ -112,7 +112,7 @@ df['QtyUnitCode'] = df.apply(lambda x: 0 if x['QtyUnitCode'] == unit_code and x[
 unit_code = 7 ; mineral_code = 'cm13' ; average_energy_content = avg_e_content_gas_L ; x_value_unit = 'MJ/L'
 
 df['Qty'] = df.apply(lambda x: aux_transform.unit_to_toe(x['Qty'], x_value_unit, average_energy_content) if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['Qty'], axis=1)
-df['QtyUnitAbbr'] = df.apply(lambda x: 'toe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
+df['QtyUnitAbbr'] = df.apply(lambda x: 'mtoe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
 df['QtyUnitCode'] = df.apply(lambda x: 0 if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitCode'], axis=1)
 
 
@@ -120,14 +120,14 @@ df['QtyUnitCode'] = df.apply(lambda x: 0 if x['QtyUnitCode'] == unit_code and x[
 unit_code = 1 ; mineral_code = 'cm14' ; average_energy_content = avg_e_content_pet_t ; x_value_unit = 'MJ/tonne'
 
 df['Qty'] = df.apply(lambda x: aux_transform.unit_to_toe(x['Qty'], x_value_unit, average_energy_content) if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['Qty'], axis=1)
-df['QtyUnitAbbr'] = df.apply(lambda x: 'toe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
+df['QtyUnitAbbr'] = df.apply(lambda x: 'mtoe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
 df['QtyUnitCode'] = df.apply(lambda x: 0 if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitCode'], axis=1)
 
 #-Petroleum (Crude) - From L to toe
 unit_code = 7 ; mineral_code = 'cm14' ; average_energy_content = avg_e_content_pet_L ; x_value_unit = 'MJ/L'
 
 df['Qty'] = df.apply(lambda x: aux_transform.unit_to_toe(x['Qty'], x_value_unit, average_energy_content) if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['Qty'], axis=1)
-df['QtyUnitAbbr'] = df.apply(lambda x: 'toe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
+df['QtyUnitAbbr'] = df.apply(lambda x: 'mtoe' if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitAbbr'], axis=1)
 df['QtyUnitCode'] = df.apply(lambda x: 0 if x['QtyUnitCode'] == unit_code and x['mineral_code'] == mineral_code else x['QtyUnitCode'], axis=1)
 
 #-Lithium - From L to tonne

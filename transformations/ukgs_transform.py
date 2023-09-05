@@ -59,7 +59,7 @@ df.drop(columns = 'commodity_code', inplace = True)
 
 ##-- Units transformations
 # source: https://www.engineeringtoolbox.com/fossil-fuels-energy-content-d_1298.html
-avg_e_content_gas_m = 40.60 / 1000000 #MJ/m3 Natural gas (US marked) #Gross Heating Value / PCS
+avg_e_content_gas_m = 40.60 #/ 1000000 #MJ/m3 Natural gas (US marked) #Gross Heating Value / PCS
 avg_e_content_pet_k = 45.5 #MJ/kg // crude oil (US marked) #Gross Heating Value / PCS
 avg_e_content_pet_t = avg_e_content_pet_k / 1000 #tonnes
 
