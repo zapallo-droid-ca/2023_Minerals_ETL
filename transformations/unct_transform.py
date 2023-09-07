@@ -53,7 +53,7 @@ for file in files_in_dir.file:
     print(f'file {counter} of {files_in_dir.shape[0]} loaded')
 
 ##-- Dropping nulls in Unit
-df = df[df['QtyUnitCode'] != -1].reset_index(drop = True)
+#df = df[df['QtyUnitCode'] != -1].reset_index(drop = True)
 
 ##--former_states
 #There are some countries that needs to be added to a major one

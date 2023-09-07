@@ -104,9 +104,12 @@ df_countries['country_short_name'] = aux_nlp.nlp_preprocess(data = df_countries[
 
 df_countries_normalized = aux_nlp.names_normalizer_ensembled(x_input = df_countries['country_short_name'], y_compare = aux_country, y_text = 'country_desc', y_code = 'alpha3ISO')
 
+##-- There are some issues with some countries, this should be upgraded in the future, there are even extinguish countries with no codes
 #Manual check and corrections (the normalizer is using simple distance calculations)   
 iter_values = [['united states america','USA'],['serbia montenegro','SRB'],['taiwan','TWN'],['yugoslavia','HRV'],['laos','LAO'],
-               ['tanzania','TZA'],['east timor','TLS'],['sharjah','ARE'],['yemen people','YEM']]
+               ['tanzania','TZA'],['east timor','TLS'],['sharjah','ARE'],['yemen people','YEM'],
+               ['brunei','BRN'],['bolivia','BOL'],['zaire','COG'],['hong kong','CHN'],['switzerland','CHE'],
+               ['rhodesia','ZWE'],['norway','NOR'],['new hebrides','VUT'],['ivory coast','CIV']]
 
 for base_text, target_text in iter_values:
     df_countries_normalized.loc[df_countries_normalized['country_short_name'] == base_text,'code'] = target_text
