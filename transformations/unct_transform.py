@@ -52,8 +52,17 @@ for file in files_in_dir.file:
     del(df_temp)
     print(f'file {counter} of {files_in_dir.shape[0]} loaded')
 
-##-- Dropping nulls in Unit
-#df = df[df['QtyUnitCode'] != -1].reset_index(drop = True)
+##-- Imputing Units - The most common unit is kg for all the minerals
+
+
+t = df[df['ReporterISO'] == 'IRQ'].copy()
+
+
+
+df_temp_units = df[['CmdCode','CmdDesc','QtyUnitCode','QtyUnitAbbr']].drop_duplicates()
+
+df['QtyUnitCode'] = np.where(df['QtyUnitCode'] == -1, 8, df['QtyUnitCode'])
+df['QtyUnitAbbr'] = np.where(df['QtyUnitAbbr'].isna(), 'kg', df['QtyUnitAbbr'])
 
 ##--former_states
 #There are some countries that needs to be added to a major one
@@ -67,6 +76,35 @@ df['ReporterDesc'] = df['ReporterDesc'].apply(lambda x: x.replace(former_states_
 
 ##-- Creating Dimension for countries
 dim_country = df.copy()[['ReporterCode', 'ReporterISO', 'ReporterDesc']].drop_duplicates().reset_index(drop = True)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ##-- Consolidating mineral codes
 df = df.rename(columns = {'CmdCode':'commodity_code'}).merge(aux_minerals, on = 'commodity_code', how = 'left')
